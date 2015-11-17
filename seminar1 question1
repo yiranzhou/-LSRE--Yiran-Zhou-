@@ -1,0 +1,18 @@
+1.what tools are avaliable for Continuous Integration?
+Based on first recommended paper "Requirements Abstraction Model", RAM structure is avaliable for Continuous Integration.
+For instance, a requirement of a clock
+Step 1 Specify
+  1)Description: The user shall be able to set time from the software. The software should be able to show time.
+  2)Reason/Benifit/Rational: WHY-the user wants to know the time at anytime. BENEFIT-the user can choose how the time shows(digital or graphic)
+  3)Restrictions/Risks:24h or 12h? years-month-date or month-date-year?
+  4)Title:Electronic clock
+Step 2 Place
+  RAM has 4 levels:product level(goal); feature level(feature); funtion level(functions/actions); component level(details-consists of).
+  According to the first step of instance, it is the last level of abstraction in RAM, component level.
+Step 3 Abstraction(work-up)
+  A high-level requirement need to be broken down to at least funtion level,which should be refined to how to implement a requirement.
+In this instrance, I wrote the requirement too detail and in fact, at step 2 and step 3, we all need to come back to step 1 from RAM.
+Because step 1 provides a draft requirement. if it is not completely enough, it will be broken down in step 3. if it is out of scope, 
+in step 2 will be rejected.This circle will continuous util the plan accepted. But the requirement still can be change in RAM, we can 
+see it in the Fir. 6 from the paper "Requirements Abstraction Model". This figure presents a dynamic requirement states. So I think
+it is avaliable for Continuous Intergration.
