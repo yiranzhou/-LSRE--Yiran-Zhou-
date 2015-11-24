@@ -20,6 +20,9 @@ An industrail Survey of Requirements Interdependencies in Software Product Relea
   Case3:large telecommunications company; mature product
   Case4:research institute;RE process is implicit
   Case5:medium company; RE process is implicit
+1)Data colleciton: only consider priority; 20 requirements; pairwise comparison
+2)Type of inderdependencies:AND;REQUIRES;TEMPORAL;CUALUE;ICOST;OR
+3.
   
 
 Market-Driven Requirement Engineeering for software products
