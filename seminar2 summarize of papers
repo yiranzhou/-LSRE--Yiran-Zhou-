@@ -1,20 +1,33 @@
 Towards a Reference Framework for Software Product Management
-1.The goal of this paper is to provide a structure for a body of knowledge for software product management, by providing a reference framework based on an overview of state-ofthe-art literature, and industrial case studies.
+1.The goal of this paper is to provide a structure for a body of knowledge for software product management, by
+providing a reference framework based on an overview of state-ofthe-art literature, and industrial case studies.
 2.reference framework provides a starting point for:
 - Definition of key terms and the identification of open research questions;
 - Education of product managers and competence building;
 - Development of improved, integrated tool support;
-3.Considering the work of  a software product management, artifact hierachy is inevitable. In different type of works, the artifact hierarchys are also different.   
-  Internal stakeholders:the company board; research & innovation; the consultants of the services department; development; support; sales & markting
-  External stakeholders: the market; implementation partners, development partners, distribution partners; customers
+3.Considering the work of  a software product management, artifact hierachy is inevitable. In different type of
+works, the artifact hierarchys are also different.   
+  Internal stakeholders:the company board; research & innovation; the consultants of the services department;
+  development; support; sales & markting
+  External stakeholders: the market; implementation partners, development partners, distribution partners;
+  customers
 4.An overview of state-of-the-art.
-1)Portfolio management: Introducing new products by looking at market trends and the product development strategy. It contains 4 process in reference framework: parnering & contracting, market trend identification, product lifecycle, management and product line identification.And it receives input from the Company board, Market and Partner companies.
-2)Product roadmapping:planning and portraying the use of technological resouces and their relationships over a period time. It contains theme identification and core assets identification. And it receives input from product lines from portfolio managemnet.
-3)Requirements management:gathering, identifying, revising and organizing incoming requirements from the various skateholders. Requirements are organized per product and core asset from product mapping.
-4)Release planning: starting with teh product requirement prioritization--selected requirement--relese definition-- send to the company board--launch preparation package--skakeholders.
+1)Portfolio management: Introducing new products by looking at market trends and the product development
+strategy. It contains 4 process in reference framework: parnering & contracting, market trend identification,
+product lifecycle, management and product line identification.And it receives input from the Company board,
+Market and Partner companies.
+2)Product roadmapping:planning and portraying the use of technological resouces and their relationships over a
+period time. It contains theme identification and core assets identification. And it receives input from product
+lines from portfolio managemnet.
+3)Requirements management:gathering, identifying, revising and organizing incoming requirements from the various
+skateholders. Requirements are organized per product and core asset from product mapping.
+4)Release planning: starting with teh product requirement prioritization--selected requirement--relese definition-- 
+send to the company board--launch preparation package--skakeholders.
 
 An industrail Survey of Requirements Interdependencies in Software Product Release Planning
-1.Finding an optimal selection of requirement for next release of a software system is difficult. The product manager need to consider available resources, delivery time, requirements interdependencies, requirements priority, system architecture, and dependencies to the code base.
+1.Finding an optimal selection of requirement for next release of a software system is difficult. The product
+manager need to consider available resources, delivery time, requirements interdependencies, requirements
+priority, system architecture, and dependencies to the code base.
 2.Case1:small company; mature product
   Case2:medium company; mature product
   Case3:large telecommunications company; mature product
@@ -26,4 +39,25 @@ An industrail Survey of Requirements Interdependencies in Software Product Relea
   
 
 Market-Driven Requirement Engineeering for software products
-1.software product offer to an open market.
+1.software product offer to an open market with many customers,so market-driven development came into being. And
+there are three quesetiones promoted in this paper about the chanllenges of requierements engineering in a
+market-driven software development context.
+1)How to design and manage a MDRE process?
+2)How to design and manage a MDRE repository?
+3)How to make profitable release planning?
+2.Concepts and Context. 
+1)MDRE covers the specific activities: release management and market analysis.
+2)Classification of software products:Generic,Customized,Customer-Spesicfic; Pure Hardware, Embedded Systerm(HW
++SW), Pure Software. Additional aspect:Enterprise, consumer.
+3)The level of complexity of the UI also affects the MDRE process. I think no matter how the level of the
+complexity of products is, the UI should keep simple. Users are impatient.
+4)MDRE focus on delivering the right product at the right time rather than fulfilling a requirement specification.
+5)MDRE is a long series of releases and undergoing continuous evolution rather than maintenance.
+6)Requirements in MDRE are elicitated according to the market analysis rather than interviwing with the known users.
+7)Characteristics of a typical MDRE context(original text):
+  a)The devlepo organization makes all decisions but also take all risks.
+  b)There is a continuous flow of requirements throughout the product.
+  c)The requirements volume is potentially very large and continuously growing.
+  d)Amajority of the requiremnets are infomally described.
+  e)The product is evoving continunously and delivered in multiple releases.
+  f)Release planning focuses on time-to-market and return-on-investment.
