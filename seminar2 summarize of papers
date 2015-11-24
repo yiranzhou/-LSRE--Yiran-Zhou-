@@ -1,0 +1,15 @@
+Towards a Reference Framework for Software Product Management
+1.The goal of this paper is to provide a structure for a body of knowledge for software product management, by providing a reference framework based on an overview of state-ofthe-art literature, and industrial case studies.
+2.reference framework provides a starting point for:
+- Definition of key terms and the identification of open research questions;
+- Education of product managers and competence building;
+- Development of improved, integrated tool support;
+3.Considering the work of  a software product management, artifact hierachy is inevitable. In different type of works, the artifact hierarchys are also different.   
+  Internal stakeholders:the company board; research & innovation; the consultants of the services department; development; support; sales & markting
+  External stakeholders: the market; implementation partners, development partners, distribution partners; customers
+4.An overview of state-of-the-art.
+1)Portfolio management: Introducing new products by looking at market trends and the product development strategy. It contains 4 process in reference framework: parnering & contracting, market trend identification, product lifecycle, management and product line identification.And it receives input from the Company board, Market and Partner companies.
+2)Product roadmapping:planning and portraying the use of technological resouces and their relationships over a period time. It contains theme identification and core assets identification. And it receives input from product lines from portfolio managemnet.
+3)Requirements management:gathering, identifying, revising and organizing incoming requirements from the various skateholders. Requirements are organized per product and core asset from product mapping.
+4)Release planning: starting with teh product requirement prioritization--selected requirement--relese definition-- send to the company board--launch preparation package--skakeholders.
+
