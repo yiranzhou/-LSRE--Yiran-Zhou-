@@ -13,3 +13,14 @@ Towards a Reference Framework for Software Product Management
 3)Requirements management:gathering, identifying, revising and organizing incoming requirements from the various skateholders. Requirements are organized per product and core asset from product mapping.
 4)Release planning: starting with teh product requirement prioritization--selected requirement--relese definition-- send to the company board--launch preparation package--skakeholders.
 
+An industrail Survey of Requirements Interdependencies in Software Product Release Planning
+1.Finding an optimal selection of requirement for next release of a software system is difficult. The product manager need to consider available resources, delivery time, requirements interdependencies, requirements priority, system architecture, and dependencies to the code base.
+2.Case1:small company; mature product
+  Case2:medium company; mature product
+  Case3:large telecommunications company; mature product
+  Case4:research institute;RE process is implicit
+  Case5:medium company; RE process is implicit
+  
+
+Market-Driven Requirement Engineeering for software products
+1.
