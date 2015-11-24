@@ -61,3 +61,46 @@ complexity of products is, the UI should keep simple. Users are impatient.
   d)Amajority of the requiremnets are infomally described.
   e)The product is evoving continunously and delivered in multiple releases.
   f)Release planning focuses on time-to-market and return-on-investment.
+8)Challenges in MDRE: 
+  a)Balancing market pull and technology push. Company can provide more advanced technology to meet customer needs.
+  b)Chasm between markting and development. As usual the requirements between users and developers are very different.
+    Company should focus on communication and collaboration to guarantee the quality of the final product.
+  c)Organizatioal instability and market turbulence.
+  d)Simple tools for basic needs.(why ? can't find a simple solution for a basic need?)
+  e)Requirments dependencies. From "An industrail Survey of Requirements Interdependencies in Software Product 
+  Release Planning", we can know it. dependencies affects on release planning.
+  f)Cost-value-extimation and release planning.
+  g)Overloaded requirements Management.
+3.The MDRE Process
+1)Process quality:Q=(A+D)/(A+B+C+D). But it is hard to find what requirements sholud be selected or rejected.
+                  The value and cost of a requirement depend on itself, dependencies ofn-tuples of other 
+                  requirements, time.
+                  "Value" is a complex combination of many different types of contributing values.
+4.MDRE Data Management
+1)Requirements state model: Candidate->Approved->Specified<->Planned->Developed->Verified->Released;
+                             Candidate->Discarded;Approved->Discarded;Specified->Discarded.
+Before planned, it is continuous mode, requirements are received at any time, but registered by product manager
+in continuous mode. The development of product releases is from planned, which also called release mode.
+Candidate: after requirements received
+Approved:requirements with status Candidate are reviewed, in which are accepted get the status "Approved".
+Specified:when the specification document is available, the requirement gets the status "Specified".
+Discarded:rejected requirements.
+Planned:after the product release planning available, all selected requirements get the status "Planned".
+Developed:when all development activitied have been successfully completed,the requirements get the status "Developed".
+Verified:when tests have been successfully completed before released.
+Released:after all activities for product have been completed.
+2)Requirements Repository
+  a)small scale development use requirements repository may be sufficient.
+  b)aside from generic attributes there are more attributes categories for specific market:
+    country data;technical platforms;different markets,etc
+  c)Tracing and tracking?
+5.Market Analysis and Requirements Elicitation
+1)Normal way to get requirement:existing literature,collaboration with key customers.
+2)Analyst companies provide functional and technical overviews of the underlying domains.
+3)Facilitated workshops, which provide higher efficience than one-to-one interviews.
+4)Customer Working Groups with product manager can develops a specification document for a whole new functioal area.
+6.Roadmapping and Release Planning
+Roadmap:a roadmap is a document that provides a layout of the product releases to come
+over a time frame of three to five years.
+
+
