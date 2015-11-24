@@ -1,3 +1,4 @@
+PAPER 1 
 Towards a Reference Framework for Software Product Management
 1.The goal of this paper is to provide a structure for a body of knowledge for software product management, by
 providing a reference framework based on an overview of state-ofthe-art literature, and industrial case studies.
@@ -24,6 +25,9 @@ skateholders. Requirements are organized per product and core asset from product
 4)Release planning: starting with teh product requirement prioritization--selected requirement--relese definition-- 
 send to the company board--launch preparation package--skakeholders.
 
+
+
+PAPER 2
 An industrail Survey of Requirements Interdependencies in Software Product Release Planning
 1.Finding an optimal selection of requirement for next release of a software system is difficult. The product
 manager need to consider available resources, delivery time, requirements interdependencies, requirements
@@ -35,9 +39,10 @@ priority, system architecture, and dependencies to the code base.
   Case5:medium company; RE process is implicit
 1)Data colleciton: only consider priority; 20 requirements; pairwise comparison
 2)Type of inderdependencies:AND;REQUIRES;TEMPORAL;CUALUE;ICOST;OR
-3.
-  
 
+
+  
+PAPER 3
 Market-Driven Requirement Engineeering for software products
 1.software product offer to an open market with many customers,so market-driven development came into being. And
 there are three quesetiones promoted in this paper about the chanllenges of requierements engineering in a
