@@ -14,8 +14,10 @@ Finally, there is no hope in gods phase to improve products' performance. We sho
 
 
 2.How do you connect your requirements to your architecture?
-architectures based on requirements and both of them can't be changed.
-If I use a incremental model or agile, the requirements are increased in a period time, and the development start from requirements to 
+It depends on what development process I use.
+For instance, if I use waterfall model(actually few people use such a model to develope a  product. ), the requirements are frozen and 
+the architectures are constrained. Abviously, architectures based on requirements and both of them can't be changed.If I use a 
+incremental model or agile, the requirements are increased in a period time, and the development start from requirements to 
 architectures  and back to requirements as iteration. Considering the depedencies bewteen  requirements and architetures, we need 
 architetures are adaptable and stable.  Referring Twin Peaks model, it presents a good method to connect requiremenets and architetures. 
 In the process of breaking down requirements and architectures, the implementation dependence are becaming close.
