@@ -1,4 +1,15 @@
 1.Read up on the Boston Matrix
-
-
+Boston Matrix is a marketing tool used for product portfolio analysis and management. It describes the impact of market share and market 
+growth by four catogories:qusetion marks, stars, cash cows, dogs[Oxford learning lab]. As assumpotion, the product will experience four 
+catogries as the sequence of question marks, stars, cash cows, dogs, so that the company can make money.
+Fistly, qusetion marks phase presents the product may be highly profitable, but the market share is very small and risk is high. If the 
+product is not good enough or the marketing is not done well, the product may directly go to dogs, which means this product failed. If we
+have done something but the product still keep a low market share and growth(goes to cash cows and quickly goes to dogs), we should release
+resource from this product early and start a new project.
+Secondly, products in stars phase are in quick increased market share and high profitable. Because the market is still rapid growing, 
+companies must continue to invest in order to keep pace with market growth, and repel competitors. It is possible that the products will
+not go to the cash cows, because of lacking of money and decision mistikes(extend unaccepted requirement).
 2.How do you connect your requirements to your architecture?
+
+
+3.Can you connect all requirements directly? What do you do if you cannot?
