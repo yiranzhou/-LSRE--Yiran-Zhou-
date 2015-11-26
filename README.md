@@ -1,2 +1,4 @@
 # -LSRE--Yiran-Zhou-
 project for PA2521
+
+Update new answer to questions and summarize of  seminar 2
