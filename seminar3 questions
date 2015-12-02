@@ -1,18 +1,27 @@
 How do you transform epics into reasonable chunks of work?
--According to the dependencies of work. If the work is loosely coupled, it can be easily transform epics into chunks based on the functions or lower levels. If the work is tight coupled, it is hard to transform epics into chunks. Firstly, I consider the previous experience, because we can transform epics into chunks of work as before. Secondly, we can split the work into large epics and then split them into smaller epics, considering all conditions of the work.
+-According to the dependencies of work. If the work is loosely coupled, it can be easily transform epics into chunks based on the functions
+or lower levels. If the work is tight coupled, it is hard to transform epics into chunks. Firstly, I consider the previous experience, 
+because we can transform epics into chunks of work as before. Secondly, we can split the work into large epics and then split them into
+smaller epics, considering all conditions of the work.
 
 How do you distribute requirements between (more than) several
 teams?
--As "Requirements Abstraction Model", requirements can be break down into four levels: product level(goal); feature level(feature); funtion level(functions/actions); component level(details-consists of). I will distribute the reqiurement in feature level. Because the requirements in this level is less couplling than function and component level, the requirements can be break donw into function and componet level. And I hope the final product can be packaged well base on teams, It is goof for maintance adn updating.
+-As "Requirements Abstraction Model", requirements can be break down into four levels: product level(goal); feature level(feature); 
+funtion level(functions/actions); component level(details-consists of). I will distribute the reqiurement in feature level. Because the 
+requirements in this level is less couplling than function and component level, the requirements can be break donw into function and 
+componet level. And I hope the final product can be packaged well base on teams, It is goof for maintance adn updating.
 
 How do you coordinate the development?
 -"Coordination in Large-Scale Software Teams" is a good paper for this question. 
 As this paper mentioned, examining the needs and methods of engineers with different job roles can help to focus process changers and tool builders on less obvious audiences for their interventions. 
 According to the dependencies of different teams, we can modify the conmunication stratage. 
-Status updates are one of the only ways for a team to manage its dependency on another team’s software prior to the ship date. status meeting, usually occurring face-to-face or held via audio or video conferencing is a good method.
+Status updates are one of the only ways for a team to manage its dependency on another team’s software prior to the ship date. status 
+meeting, usually occurring face-to-face or held via audio or video conferencing is a good method.
 
 How do you use requirements to take decisions on construction?
 -
 
 How do you find and deal with legacy requirements when designing for a new requirement?
--
+-Check the Soecification requirement to find the legacy requirement.
+Check the dependencies between legacy requirements and new requirement. If they are coupled, we need to complete the legacy requiremets
+first. If the legacy requirements are not important, we can complete the new requirement first.
