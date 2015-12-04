@@ -1,0 +1,29 @@
+What Happended to Our Features? Visualization and Understading of Scope Change Dynamics in a Large-Scale Industrial Setting
+1.The case company's current requirement management tool could not provide a sufficient method to visualize and characterize the problem
+with many changes in the scoping process. The auther provides a technique(by using graphs to identify which features and which time
+frames to analyze in order to find scoping issues related to uncertainties in the estimations that decisions rely on) can spot the
+problem of setting too large a scope compared to available resources as well as increase the understanding of the consequences of setting
+a limited scope early.
+2.Four Milestones.MS1:the features usually contain a description, its market value and effort estimates.
+                  MS2:Features are refined to requirements which are specified, reviewed and approved.
+                  MS3: The effort estimates are refined and the scope is updated and baselined. DTs refine system requirements and start
+                       designing.
+                  MS4: The requirements work and design are finished, and ready to start implementation. The final scope is decided and
+                        agreed with the development resources.
+3.Measurements.M1:Number of positive and negative scope changes per time stamp/baseline.All three projects turned out to have many scope
+                  changes over time. And the number of peaks is more than four milestones.
+               M2:Time to feature removal. This can be useful in assessing how good the process is in crystallizing the final scope of
+                  the platform project. 
+               M3:Number of state changes per feature.This measurement may give valuable insights about the complexity of decision-makin.
+               M4:Time to birth. presented as a distribution over time revealed that some projects have a large peak of new functionality
+                  coming into the scope of the project after 100 days from the beginning.The biggest limitation of this measurement is
+                  the fact that the used process allows for a secondary flow of requirements which automatically can create large peaks
+                  of births at a certain time.
+               M5:Reason for scoping decision. Stakeholder business decision, lack of resources, other, portfolio changes, replaced or
+                  rename, already implemented, unclear feature or requirements, dependent of supplier support.
+4.The authors provide many figures and data in this paper, they tracked the scope of requirements and analysis the data. I think the
+proposed visualization technique and scope tracking measurements are useful. Because if a company can confirm the volatility of the
+scope,and provide a tool to analyze the various aspects of this phenomenon.The results were then used by the case company to adjust
+the process towards more flexibility in scope setting decisions, and a clearer scope responsibility.
+
+               
