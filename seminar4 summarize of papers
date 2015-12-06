@@ -1,0 +1,6 @@
+Assessing challenges of continuous integration in the context of software requirements breakdown: a case study
+1.introduction: -Changing requirements and pressure to release more often bring continuous integration.
+                -To support more frequent integration, requirements need to be broken down small enough.
+                -A case study at Ericsson, explores the challenges of continuous integration and requirements break down and how the 
+                 latter influences the implementation of a continuous integration process.
+2.Related work: 
