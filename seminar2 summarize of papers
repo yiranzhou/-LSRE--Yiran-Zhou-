@@ -109,3 +109,32 @@ Released:after all activities for product have been completed.
 three to five years.
 2)The Product-Technology Roadmaos is the type of roadmao of the software industry.
 
+PAPER 4 
+Factors Affecting Decision Outcome and Lead-time in Large-Scale Requirements Engineering
+The results from the study could be summarized in the following points:
+– The lead–time to make a decision increases when more products (considered as a proxy for the decision complexity) are affected by
+this decision -this result was confirmed both in the statistical analysis and in the survey.Since the relationship is rather clear,
+decision makers should be aware that too complex decisions may take a long time (hypothesis H1).
+– The statistical analysis showed that if a request affects a lot of products, it has a higher change of being accepted (hypothesis
+H4). The respondents of the survey stated that requests that affect a lot of products have a higher change of being rejected. This
+may seem counter-intuitive, but this is probable caused by the fact that request that affect a lot of products are often requests
+related to the platform and thus are important.
+– There is no significant relationship between the release of the product line that a change request impacts and the decision
+lead–time according to the results from the statistical analysis of the decision log. At the same time, the majority of the responde
+ts in the survey suggested that decisions made late in the release cycle have shorter lead–times (hypothesis H2).
+– Change requests affecting late releases have a significantly higher probability of acceptance according to the statistical analysis
+of the decision log (hypothesis H5). This result seems to be more characteristic for large contexts as the results from the survey,
+in which most respondents worked with projects with fewer than 100 decisions, indicate the opposite relationship with a higher
+probability of rejecting these requests.
+– The lead–time for decisions is shorter when the change requests are issued by important customers, according to the respondents
+(hypothesis H3). The statistical analysis of the decision log disproved this suggestion. Therefore, no clear relationship was
+identified for this factor.
+– Change requests issued by important customers are more likely to be accepted, (hypothesis H6) according to the statistical analysis
+of the decision log. This relationship was confirmed by a clear majority of survey respondents (83.3%).
+– The lead–time to reject a decision is significantly longer than to accept a decision (research question RQ3), according to the
+statistical analysis of the decision log. At the same time, the results from the survey suggests that there is no relationship
+between the lead–time and the decision outcome. Our results clearly indicate that the number of products affected by a decision
+increases the decision lead–time (research question RQ1). This result has a practical importance for requirements engineering
+decision makers. As more complex decision take more time, it may be wise to decrease their complexity for faster decisions. This
+could be particularly useful in MDRE, in which time to market pressure is inevitable (Regnell and Brinkkemper 2005). Our study
+reports that lead–times could become up to 400% longer if a complex decision affects multiple products.
