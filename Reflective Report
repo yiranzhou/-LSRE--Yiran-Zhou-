@@ -7,6 +7,11 @@ Implementation Plan: Based on the release planning, wirte a report according to 
 -Use method of MDRE from Market-Driven Requirement Engineeering for software products
 -Use the method from Requirements Abstraction Model to break down requirements.(keep updating)
 
+-I have chosen a case, which is a windows application Hotel Management System. It should include Reception Sub-System and Backup 
+Sub-System. And I will break down the basic requirements according to 'Requirement Absreaction Model' and keep modifying the broken down
+requirements based on 'Market-Driven Requirement Engineering for software products'.
+-At the same time, I will decide the release planning according the 'Market Driven Requirement Engineering for software products'.
+
 Execution:
 
 Proof of Concept:
