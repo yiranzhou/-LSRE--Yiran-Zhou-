@@ -85,10 +85,13 @@ into the projects when functional requirements are prioritized, how to know when
 testable QR.
 -There are a lot of study about classification and measurement of QR
 3 Research Methodology
--Qualitative research approach, namely, in-depth semistructured interviews
+-Qualitative research approach, namely, in-depth semistructured interviews.
 -This part provide a useful template about how to do a research Methodology.
 4.Result and Analysis
--Rank of importance:usability;performance;reliability;stability;safety;Flexbility;
+-Rank of importance:usability;performance;reliability;stability;safety;Flexbility;(These come from kinds of studies).
 -Interdependency types:B2B viewed REQUIRES (R1 requires R2 to function, but not vice versa) as the most common type, while B2C viewed CVALUE (R1 affects the value of R2 for a customer) as the most common one.
 -Cost Estimations:In general, PM estimates the cost to be slightly higher than PL in the normal case. In worst case, the distances between esxtimation and exact cost are huge.
 -Dismissal of Quality Requirements:1. poor cost estimations; 2. lack of resources; 3. QR have lower priority than FR.
+5.Conclusion
+According to the data of this paper, the usability is the most important quality for B2B company. the safety is the most impoertant
+quality for B2C company. Still, PM and PL decide the weight of different quailties.
