@@ -15,9 +15,9 @@ making pairwise comparisons, choosing the scale to be used, and deciding how man
   4)first according to value and later, in a separate session, according to the estimated implementation cost.
   5)the participants work with the requirement pairs in any order they chose, allowing for retraction during the comparison process.
 -In case study 2, the steps is similar.
-Acually, I think this way to get the relative intensity value of requirement is not so practice in real world development. We need more
-analysis of market and more disscusion of the 'value' of requirement. But the method to calculate of relative intensity of value is
-useful.
+Acually, I think this way to get the relative intensity value of requirement is not so practice in real world development. We need
+more analysis of market and more disscusion of the 'value' of requirement. But the method to calculate of relative intensity of value
+is useful.
 
 PAPER 2
 A Method for Early Requirements Triage and Selection Utilizing Product Strategies
@@ -67,4 +67,28 @@ Method implementation:
 -Once the weight are assigned, the time to select requirement will decrese.
 6.Conclusion
 -Well established concepts is useful to formulate requirement. At the same time, we also need experienced manager ands technical
-experts to assign the weight of requirement. So I still don't think it is a structure or abstract approach.
+experts to assign the weight of requirement. And it is not wise to use the same weight of same requirement of different products. 
+There always are bias for decision maked by human beings. So I still don't think it is a structure or abstract approach.
+
+PAPER 3
+Quality Requirements in Industrial Practice—An Extended Interview Study at Eleven Companies
+1.Introduction
+-A successful product not only need functionality, but also quality requirement.
+-Not dealing with QR may lead to more expensive software products and increased time-to-market.
+-There are 2 roles are studied, product managers(selection and long-term planning of the product evolution and offering.) and Project
+leaders (the project perspective).
+2.Background and Related work
+-QR related challenges:requirements, requirements misunderstandings, changing requirements, and difficulties with prioritization of 
+requirements;specification (rational not always obvious) and associating performance requirements with dataflow specifications;
+specification of graphical users interfaces and lack of traceability among requirements;interdependencies related to QR; how to get QR
+into the projects when functional requirements are prioritized, how to know when the quality level is good enough, and how to achieve
+testable QR.
+-There are a lot of study about classification and measurement of QR
+3 Research Methodology
+-Qualitative research approach, namely, in-depth semistructured interviews
+-This part provide a useful template about how to do a research Methodology.
+4.Result and Analysis
+-Rank of importance:usability;performance;reliability;stability;safety;Flexbility;
+-Interdependency types:B2B viewed REQUIRES (R1 requires R2 to function, but not vice versa) as the most common type, while B2C viewed CVALUE (R1 affects the value of R2 for a customer) as the most common one.
+-Cost Estimations:In general, PM estimates the cost to be slightly higher than PL in the normal case. In worst case, the distances between esxtimation and exact cost are huge.
+-Dismissal of Quality Requirements:1. poor cost estimations; 2. lack of resources; 3. QR have lower priority than FR.
