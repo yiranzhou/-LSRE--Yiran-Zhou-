@@ -27,10 +27,9 @@ as possible. Due to the emergence of markets for off-the-shelf or packaged softw
 of requirements that threaten to overload the development organization.
 -This paper explores how the strategic and technical perspectives can be combined to formulate product strategies that are good-enough
 for early requirements triage and selection.
--The activities: According to the literature study an initial draft of MERTS was created and elicited information from industry .
-following this. The input from the previous literature study and industry interviews was subsequently used for the creation of a final
-version of MERTS. Initial industry validation is presented and a discussion of lessons learned highlighting initial feedback is
-presented.
+-The activities: According to the literature study an initial draft of MERTS was created and elicited information from industry The input 
+from the previous literature study and industry interviews was subsequently used for the creation of a final version of MERTS. Initial 
+industry validation is presented and a discussion of lessons learned highlighting initial feedback is presented.
 2.Related Areas and Literature Study
 -Requirements Triage: a concept that can prioritize requirements. The author mentioned some criterias but did not give a exact 
 definition in this section.
