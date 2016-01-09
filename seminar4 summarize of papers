@@ -61,4 +61,24 @@ g)Software requirement:-requirement breakdown. The increased integration frequen
                        -deliver feature growth.It is difficult to know whether small changes that do not directly add value to a frature
                        are worth integrating.
 Software Requirement Breakdown Challenges
-a)Requirement abstraction:-ambiguous requirements. 
+a)Requirement abstraction:-ambiguous requirements. The studied company faced ambiguous requirements.
+                          -architectural design. It is a challenge that keep the architecture in mind when using continuous integration.
+                          -product complexity. The SGSN-MME product has been identified as a challenge when breaking down requirements.
+                          -large requirements. Several interviwees report on requirements being too large.
+                          -low level requirements. One developer identifoed as a challenge the breakdown of low level requirements to 
+                          allow higher integration frequencies.
+b)Alignment of requirements and tests:-implementation and test dependencies. Aligning the implementation of requirements and their tests
+                                      is considered a problem by many developers.
+c)Custormer value:-Access to customer.Sin the inroduction of continuous integration, collaborating with customer in regards to the 
+                  requirements has been difficult according to some interviewees.
+                  -delivering customer value. The studied company has introduced an addtional requirement abstraction level, more 
+                  specifically "working scenarios". This allows requirements to be broken down into small pieces. But these working
+                  scenarios do not necessarily contain complete customer value.
+d)Guiding princle:-lack of guidance. The teams decide how to  break down software requirements instead of guidance.
+                  -No unified process. Teams were given a lot of freedom, and they can set their own pace of integration and how 
+                  requirements breakdown.
+                  -ongoing esponsibility shift. Process and responsibility of breaking down software requirements is undergoing a
+                  total overhual.
+                  -unfit process. The process used by teams is not mature enough and could be improved.
+Software requirements breakdown's influence on continuous integration
+a)The necessity of software requirements breakdown:-maintenance versus feature development.
