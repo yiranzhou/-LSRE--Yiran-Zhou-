@@ -3,4 +3,44 @@ Assessing challenges of continuous integration in the context of software requir
                 -To support more frequent integration, requirements need to be broken down small enough.
                 -A case study at Ericsson, explores the challenges of continuous integration and requirements break down and how the 
                  latter influences the implementation of a continuous integration process.
-2.Related work: 
+2.Related work: -Lean software developemnt infuluences Agile Methodologies, Agile Methodologies employ continous integration, and 
+                continuous integration enable continuous deployment. Continuous integration emphasises requirement breakdown.
+                -The scope of this paper is continuous integration and requirement breakdown.
+                -Software requirement breakdown: 1.Identify direct and indirect stakehoders. The stakehoders decides the requirements.
+                                                 2.Elicited requirements(funtional and non-functional) need to be prioritized.
+                                                 3.RAM. Adequate leves of abstractions is essential for breaking down requirements in
+                                                    continuous integration process.
+                                                 4.These quality and attributes in RAM do not guarantee that requirements have been broken
+                                                    down enough.
+3. Research approach
+-Research question: challenges of continuous integration process, requirement breakdown in practice and how requirement influences 
+continuous integration process.
+-Research methodology:case study in Ericsson
+-Data collection: interview(including protocol).
+-Data analysis: collected qualitatve data are  classified and analysed.
+4.Case study
+-Continuous integration:Teams working on SGSN-MME product use multiple branches: work branch-latest local version-pre test build-latest 
+stable version. Each new code need pass the test of the previous branch. For instance, pre-test bulid branch requires that the code to 
+pass the tests of latest local version branch.
+-Requirements Breakdown:Ericsson is introduced XFT(cross functional team) and OPO(operational product owner). And it's largely up to XFT
+to decides how requirements breakdown.
+5.Result
+Continuous integration challenges:
+a)Mindset:-scepticism. Not everyone in developemnt team are postive about continuous intergration, but once they get the rewards of 
+          continuous integration, they will overcome the issues that they think might not good in continuous integration.
+          -change old habits. The continuous integration challenged the old habits that the developers are used to working.
+          -exposing work intention. Continuous integration emphasises early and frequent integrations.
+b)Tool & Infrastructure:-code review. Tools for reviewing integrated code has been reported to lack the nessacery features.
+                        -maturity.These tools are not so efficient for a continuous integration process.
+                        -regression feedback time. The feedback loops from autumated regression tests are too long.
+                        -integration queue. Due to the SGSN-MME product(many people working at same time but in different place), it is 
+                        difficult to manage the integration queue.
+                        -Test automation. The support of test automation is lacking in the current infrastructure.
+c)Testing:-untable test case. Test cases at the studied company are sometimes unstable and may fail regardless of the code.
+          -too many manual tests. There are a lot of manual tests, which resulted in gaps in current testing frameworks.
+          -implementation and test dependencies. A problem related to writing test cases i syncing them with the code they are supposed
+          to test.
+          -preserving quality. There are not so much docus on quality and a lot of developers working on this product which means
+          guranteeing the qulity of continuous integration becomes challenging.
+
+
