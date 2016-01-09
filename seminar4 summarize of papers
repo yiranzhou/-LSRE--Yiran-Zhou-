@@ -53,3 +53,12 @@ e)Understanding:-unclear goals. Setting up clear goals for the teams migrating t
                  integration i and should be.
                  -Bottom-up approach. The findings of this study indicate that continuous integration is being implemented with a bottom
                  up approach as stated by a CI driver.
+f)Code dependecies:-integration coordination. The task of coordinating integration dependencies has been more difficult since the adoption
+                   of continuous integration.
+                   -Dead code. Integrating partial code for a feature is currently an issue for the studied company. Tests will fail
+                   until all parts are in place.
+g)Software requirement:-requirement breakdown. The increased integration frequency has put further pressure on breaking down requiremnet.
+                       -deliver feature growth.It is difficult to know whether small changes that do not directly add value to a frature
+                       are worth integrating.
+Software Requirement Breakdown Challenges
+a)Requirement abstraction:-ambiguous requirements. 
