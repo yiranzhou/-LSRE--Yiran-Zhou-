@@ -42,5 +42,14 @@ c)Testing:-untable test case. Test cases at the studied company are sometimes un
           to test.
           -preserving quality. There are not so much docus on quality and a lot of developers working on this product which means
           guranteeing the qulity of continuous integration becomes challenging.
-
-
+d)Domain applicability:-process suitability. While taking a step towards more frequent integrations using continuous integration, the 
+                        studied company has been experiencing problems using the same desired frequency throughout all parts of product.
+                       -procudt complexity. SGSN-MME is a mature product and has been developed for over 15 years with around 30 teams.
+e)Understanding:-unclear goals. Setting up clear goals for the teams migrating towards continuous integration is currently an impediment
+                 for the SSN-MME program.
+                 -increased pressure. The initiative to adopt continuous integration has resulted in increased pressure on the teams
+                 according to some interviewees.
+                 -different interpretations. According to a line manager, most managers have their own understanding of what continuous
+                 integration i and should be.
+                 -Bottom-up approach. The findings of this study indicate that continuous integration is being implemented with a bottom
+                 up approach as stated by a CI driver.
