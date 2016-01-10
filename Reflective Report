@@ -1,11 +1,11 @@
 Reflective Report
 
-Selected article: Requirements Abstraction Mode
-		              A method 
+[-Selected article-]: Requirements Abstraction Mode
+		  A Method for Early Requirements Triage and selection Utilizing Product Strategies 
 
-Why: These two papers help define excutable requirements, which is useful and practical in software development process. And based on each saminer,  I think the techniques provided by these papers are easy to understand and implement, though there are some defects in them. 
+[-Why-]: These two papers help define excutable requirements, which is useful and practical in software development process. And based on each saminer,  I think the techniques provided by these papers are easy to understand and implement, though there are some defects in them. 
 
-Implementation Plan: 
+[-Implementation Plan-]: 
 1.Technique from Requirements Abstraction Model to break down requirements.
 
 -I have chosen a case, which is a windows application, named Hotel Management System, the target customers are hotels. The system  should include management sub-system and back office sub-system. And I presents some basic requirement of Hotel Management System, I will break down parts of them according to 'Requirement Absreaction Model'. Additionally, most requirements are from my own experience and some are from network. 
@@ -16,7 +16,7 @@ Implementation Plan:
 -According to the case of first technique, there is one requirement named payment, it is a good instance for this technique. Based on the paper,'A method ', I will resent a table to presents the excution of this technique. Due to this is a report on Github, the table is translated into plaintext.
 
 
-Excution:
+[-Excution-]:
 
 1.Technique from Requirements Abstraction Model to break down requirements.
 
@@ -82,7 +82,7 @@ Step 2 to 1 Breakdown Requirement
 
 According to the RAM, the requirements belong product and feature levels need to be broken down. I broke down Reception Managment and Payment as instances below.
 
-Reception management breakdown into function level:Query room state; Set room state; Supplement guest information
+-Reception management breakdown into function level:Query room state; Set room state; Supplement guest information
 
 Requirement 8 Query room state 
 Description: The system should be able to query room state.
@@ -102,15 +102,51 @@ Reason/Benefit/Rationale: WHY: In some situation, the user may need to supplemen
                           BENIFIT: the user can record complete and correct information of guests. 
 Restrictions/Risks: Only user who has the privilege can set room state. Supplementary information should be identified.
 
-Payment breakdown into functional level: record payment information;Connect to the check-in information;Interface to external payment system 
+-Payment breakdown into functional level: record payment information;Interface to external payment system 
 
+Requirement 11 Record payment information
+Description: The system should be able to record payment information.
+Reason/Benefit/Rationale: WHY: the hotel need payment data to complete financial statements.
+                          BENIFIT: Make the management of financial more convenient. 
+Restrictions/Risks: 
 
-
-
+Requirement 12 Interface to external payment system 
+Description: The system should provide different interfaces for different external payment systems.
+Reason/Benefit/Rationale: WHY: The guests should pay for their rooms.
+                          BENIFIT: Make the payments more convenient for hotel and guest.
+Restrictions/Risks: The security is an issue. 
 
 
 Sept 3 Absratction(work up)
 
+According to the paper, I need to abstract or create new requirements depending on the original requirements. For instance, I create a
+new requirement named Log, depending on requirement 'record'.
+
+According to the Requirement's states in RAM, if the requirements that has been specified are accepted and in scope, they can be planned requirements. The next step is to prioritize the requirements. 
+
+2. MERTS
+
+Question (1) "where do we want to go"
+Factors          Weightings of factors       Requirement(Interface to external payment system )   Normalized
+Market growth:   50			     80							  40
+Market share:    25			     80							  20
+Profit:          25			     50							  12.5
+
+Question (2)"how to get there"
+Factors                  Weightings of factors  Requirement(Interface to external payment system ) Normalized 
+Customer segments:       40			American Paypal(60);Sweden PayEX(20);China Ali(20)	40			
+Competitors:             30			American Opera system(80);China Ctrip system(20)        30
+Differential advantage:  30			Price (80); Non-functional requirements(20)             30
+
+Question (3)"what to do"
+Factors			   Weightings of factors  Requirement(Interface to external payment system ) Normalized
+Architecture stabillity:   50	                   70  							35
+Customization flexibility: 50                      80							40
+
+The total normalized points are 247.5. We can calculate other requirements according to the three questions, and compare the points of
+each requirements to prioritize the requirements. Additionally, we can presents more factors in the 'table' to get a detailed rating
+for each requirements.
+
+[-Proof of Concept-]:
 
 
-  
