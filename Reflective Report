@@ -82,20 +82,29 @@ Step 2 to 1 Breakdown Requirement
 
 According to the RAM, the requirements belong product and feature levels need to be broken down. I broke down Reception Managment and Payment as instances below.
 
-Reception management breakdown into function level:
-Query room state; Set room state; Supplement guest information
+Reception management breakdown into function level:Query room state; Set room state; Supplement guest information
 
 Requirement 8 Query room state 
 Description: The system should be able to query room state.
 Reason/Benefit/Rationale: WHY: The user want to check the state of room when new guests come.
                           BENIFIT: the user can check in for new guests according to the result of query. 
-Restrictions/Risks:
+Restrictions/Risks: The state does not get update timely.
 
 Requiremnet 9 Set room state
-Description: The system should be able to query room state.
-Reason/Benefit/Rationale: WHY: The user want to check the state of room when new guests come.
-                          BENIFIT: the user can check in for new guests according to the result of query. 
-Restrictions/Risks: 
+Description: The system should be able to set room state.
+Reason/Benefit/Rationale: WHY: The user want to set the state of room when the room is taken or need renovate.
+                          BENIFIT: the user can set the state of room when necessary. 
+Restrictions/Risks: Only user who has the privilege can set room state. 
+
+Requirement 10 Supplement guest information
+Description: The system should be able to supplement guest information.
+Reason/Benefit/Rationale: WHY: In some situation, the user may need to supplement guest information.
+                          BENIFIT: the user can record complete and correct information of guests. 
+Restrictions/Risks: Only user who has the privilege can set room state. Supplementary information should be identified.
+
+Payment breakdown into functional level: record payment information;Connect to the check-in information;Interface to external payment system 
+
+
 
 
 
