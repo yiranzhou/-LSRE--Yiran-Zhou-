@@ -1,3 +1,4 @@
+PAPER 1
 What Happended to Our Features? Visualization and Understading of Scope Change Dynamics in a Large-Scale Industrial Setting
 1.The case company's current requirement management tool could not provide a sufficient method to visualize and characterize the problem
 with many changes in the scoping process. The auther provides a technique(by using graphs to identify which features and which time
@@ -26,4 +27,20 @@ proposed visualization technique and scope tracking measurements are useful. Bec
 scope,and provide a tool to analyze the various aspects of this phenomenon.The results were then used by the case company to adjust
 the process towards more flexibility in scope setting decisions, and a clearer scope responsibility.
 
-               
+
+PAPER 2
+Obsolete software requirements
+
+1.Introduction and background
+In MDRE, the pace of incoming requirements, software companies have to identify which requirements has obsolete or outdated.the 
+identification, handling, and removal of obsolete requirements is crucial. The paper presents the results of a survey, which investigated 
+the phenomenon of obsolete requirements and included, an effort to define the phenomenon based on the perceptions of industry practitioners.
+
+2. Research
+The survey focus on understanding the OSR phenomenon and its place in the requirements engineering landscape.
+
+3.Results
+A)Definition of Obsolete Software Requirement:An obsolete software requirement is a software requirement (implemented or not) that is 
+no longer required for the current release or future releases and, for various reasons, has little or no business value for the potential 
+customers or users of a software product. 
+B)The potencial impact of OSR:A total of 84.3% of all respondents considered OSR to be Serious or Somehow serious.
