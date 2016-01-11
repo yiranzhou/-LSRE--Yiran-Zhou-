@@ -101,5 +101,11 @@ b)Implications of software requirements breakdown:-Implementation dependencies.F
                                                   them in smaller chunks is that partial code might be integrated into the Pre-Test 
                                                   Build (PTB). This could potentially, cause exceptional behaviour to the product according
                                                   to a line manager.
+                                                  
+
+6.Conclusion
+This study set out to identify the challenges of continuous integration and requirements break down and how the latter influences the 
+implementation of a continuous integration process.
+
 
 
