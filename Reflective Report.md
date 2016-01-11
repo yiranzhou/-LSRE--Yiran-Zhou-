@@ -10,7 +10,7 @@ on each saminer,  I think the techniques provided by these papers are easy to un
 in them. 
 
 ##Implementation Plan: 
-1.Technique from Requirements Abstraction Model to break down requirements.
+####1.Technique from Requirements Abstraction Model to break down requirements.
 
 -I have chosen a case, which is a windows application, named Hotel Management System, the target customers are hotels. The system  
 should include management sub-system and back office sub-system. And I presents some basic requirement of Hotel Management System, 
@@ -18,7 +18,7 @@ I will break down parts of them according to 'Requirement Absreaction Model'. Ad
 experience and some are from network. 
 
 
-2. MERTS
+####2.MERTS
 
 -According to the case of first technique, there is one requirement named payment, it is a good instance for this technique. Based on 
 the paper,'A method ', I will resent a table to presents the excution of this technique. Due to this is a report on Github, the table 
@@ -135,7 +135,7 @@ new requirement named Log, depending on requirement 'record'.
 According to the Requirement's states in RAM, if the requirements that has been specified are accepted and in scope, they can be 
 planned requirements. The next step is to prioritize the requirements. 
 
-2. MERTS
+####2. MERTS
 
 Question (1) "where do we want to go"
 Factors          Weightings of factors       Requirement(Interface to external payment system )   Normalized
