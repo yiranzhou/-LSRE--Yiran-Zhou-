@@ -1,13 +1,15 @@
-Reflective Report
+#Reflective Report
 
-[-Selected article-]: Requirements Abstraction Mode
-		  A Method for Early Requirements Triage and selection Utilizing Product Strategies 
+##Selected article: 
+Requirements Abstraction Mode
+A Method for Early Requirements Triage and selection Utilizing Product Strategies 
 
-[-Why-]: These two papers help define excutable requirements, which is useful and practical in software development process. And based 
+##Why: 
+These two papers help define excutable requirements, which is useful and practical in software development process. And based 
 on each saminer,  I think the techniques provided by these papers are easy to understand and implement, though there are some defects 
 in them. 
 
-[-Implementation Plan-]: 
+##Implementation Plan: 
 1.Technique from Requirements Abstraction Model to break down requirements.
 
 -I have chosen a case, which is a windows application, named Hotel Management System, the target customers are hotels. The system  
@@ -23,7 +25,7 @@ the paper,'A method ', I will resent a table to presents the excution of this te
 is translated into plaintext.
 
 
-[-Excution-]:
+##Excution:
 
 1.Technique from Requirements Abstraction Model to break down requirements.
 
@@ -160,17 +162,17 @@ Then I can decide the roadmap of this system according to the priority of requir
 
 The last step is to answer why this roadmap(strategy) would be successful.
 
-[-Proof of Concept-]:
+##Proof of Concept:
 I think the excution in this report has proved the two technique is useful. The RAM can breakdown abstract requirements and the MERTS
 make senses in prioritizing requirements.
 
-[-Lessons Learned-]:
+##Lessons Learned:
 1.The experience in requirement engineering is VERY important. No matter breakdown or prioritize requirements.
 2.Not only the requirement itself, we need consider target market, target customer, competitors,etc. 
 3.Customized requirements for different target market is a good choice.
 4.If I want breakdown and prioritize requirements, I need more practise.
 
-[-Reflections-]:
+##Reflections:
 1.When I have an idea, I take too much time to make it excutable. I think it is because I still do not master these two techniques, 
 I am not familiar with them and not fully grasp these technologies.
 2.The reason why I only presents four attributes of requirements in this report is that the proportion of these four attributes is
