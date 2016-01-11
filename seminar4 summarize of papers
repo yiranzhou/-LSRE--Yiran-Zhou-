@@ -96,10 +96,10 @@ b)Implications of software requirements breakdown:-Implementation dependencies.F
                                                   -On Demand Software Delivery.Ericsson’s vision in the next couple of years is to 
                                                   implement On Demand Software Delivery (ODSD). While the connection of continuous 
                                                   integration to ODSD is not clear. The findings of this study show that continuous 
-                                                  integration has at least a few implications on transitioning.
+                                                  integration has at least a few implications on transitioning to ODSD.
                                                   -Integration scope.One implication of breaking down software requirements and integrating 
                                                   them in smaller chunks is that partial code might be integrated into the Pre-Test 
                                                   Build (PTB). This could potentially, cause exceptional behaviour to the product according
                                                   to a line manager.
 
-to ODSD.
+
