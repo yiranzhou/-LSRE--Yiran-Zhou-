@@ -12,8 +12,14 @@ I add new issue:Send Messages #117.
 I add comments to these issues: Streaming video #73;Grade export not working #71;Link to course #64;Add New Users as Course Participators #65
 
 I assigned these issues:Information provided to the user on restriction #89;Access to upload and download assisgnment #82;Export grade with csv, xls, xlsx, pdf #81
+
+Because other classmates have decide the version of project, I just review all the version and did not classify reuiqrements for different version.
+
+
  
-### Log and experience
+### Experience
+
+I have discussed many topics with professor in seminars. And I realized RAM is not specialize for continuous integration reuqiremnets. Even though, it is useful, when  
 
 
 
