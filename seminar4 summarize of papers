@@ -81,4 +81,25 @@ d)Guiding princle:-lack of guidance. The teams decide how to  break down softwar
                   total overhual.
                   -unfit process. The process used by teams is not mature enough and could be improved.
 Software requirements breakdown's influence on continuous integration
-a)The necessity of software requirements breakdown:-maintenance versus feature development.
+a)The necessity of software requirements breakdown:-maintenance versus feature development. Teams that are developing new features have 
+                                                    been facing more difficulties while transitioning to continuous integration compared 
+                                                    to teams that are mainly maintaining existing code and fixing bugs.
+                                                   -Big impact requirements.As mentioned above, teams that are mainly involved in product
+                                                    feature development have more difficulties adopting continuous integration due to the 
+                                                    issues in breaking down requirements.
+b)Implications of software requirements breakdown:-Implementation dependencies.Finding the right balance between small enough requirement
+                                                   units and high integration frequency without compromising the implementation unity is
+                                                   reported to be an issue at the studied company.
+                                                  -Test dependencies.While breaking down software requirements into smaller units, it 
+                                                   was found that test dependencies played an important role. These smaller tasks need 
+                                                   to be individually testable if they are to be integrated separately.
+                                                  -On Demand Software Delivery.Ericsson’s vision in the next couple of years is to 
+                                                  implement On Demand Software Delivery (ODSD). While the connection of continuous 
+                                                  integration to ODSD is not clear. The findings of this study show that continuous 
+                                                  integration has at least a few implications on transitioning.
+                                                  -Integration scope.One implication of breaking down software requirements and integrating 
+                                                  them in smaller chunks is that partial code might be integrated into the Pre-Test 
+                                                  Build (PTB). This could potentially, cause exceptional behaviour to the product according
+                                                  to a line manager.
+
+to ODSD.
