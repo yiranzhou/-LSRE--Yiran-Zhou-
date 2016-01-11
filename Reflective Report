@@ -3,17 +3,24 @@ Reflective Report
 [-Selected article-]: Requirements Abstraction Mode
 		  A Method for Early Requirements Triage and selection Utilizing Product Strategies 
 
-[-Why-]: These two papers help define excutable requirements, which is useful and practical in software development process. And based on each saminer,  I think the techniques provided by these papers are easy to understand and implement, though there are some defects in them. 
+[-Why-]: These two papers help define excutable requirements, which is useful and practical in software development process. And based 
+on each saminer,  I think the techniques provided by these papers are easy to understand and implement, though there are some defects 
+in them. 
 
 [-Implementation Plan-]: 
 1.Technique from Requirements Abstraction Model to break down requirements.
 
--I have chosen a case, which is a windows application, named Hotel Management System, the target customers are hotels. The system  should include management sub-system and back office sub-system. And I presents some basic requirement of Hotel Management System, I will break down parts of them according to 'Requirement Absreaction Model'. Additionally, most requirements are from my own experience and some are from network. 
+-I have chosen a case, which is a windows application, named Hotel Management System, the target customers are hotels. The system  
+should include management sub-system and back office sub-system. And I presents some basic requirement of Hotel Management System, 
+I will break down parts of them according to 'Requirement Absreaction Model'. Additionally, most requirements are from my own 
+experience and some are from network. 
 
 
 2. MERTS
 
--According to the case of first technique, there is one requirement named payment, it is a good instance for this technique. Based on the paper,'A method ', I will resent a table to presents the excution of this technique. Due to this is a report on Github, the table is translated into plaintext.
+-According to the case of first technique, there is one requirement named payment, it is a good instance for this technique. Based on 
+the paper,'A method ', I will resent a table to presents the excution of this technique. Due to this is a report on Github, the table 
+is translated into plaintext.
 
 
 [-Excution-]:
@@ -80,7 +87,8 @@ Conmponent level:Check-out
 
 Step 2 to 1 Breakdown Requirement
 
-According to the RAM, the requirements belong product and feature levels need to be broken down. I broke down Reception Managment and Payment as instances below.
+According to the RAM, the requirements belong product and feature levels need to be broken down. I broke down Reception Managment and 
+Payment as instances below.
 
 -Reception management breakdown into function level:Query room state; Set room state; Supplement guest information
 
@@ -122,7 +130,8 @@ Sept 3 Absratction(work up)
 According to the paper, I need to abstract or create new requirements depending on the original requirements. For instance, I create a
 new requirement named Log, depending on requirement 'record'.
 
-According to the Requirement's states in RAM, if the requirements that has been specified are accepted and in scope, they can be planned requirements. The next step is to prioritize the requirements. 
+According to the Requirement's states in RAM, if the requirements that has been specified are accepted and in scope, they can be 
+planned requirements. The next step is to prioritize the requirements. 
 
 2. MERTS
 
@@ -152,8 +161,8 @@ Then I can decide the roadmap of this system according to the priority of requir
 The last step is to answer why this roadmap(strategy) would be successful.
 
 [-Proof of Concept-]:
-I think the excution in this report has proved the two technique is useful. The RAM can breakdown abstract requirements and the MERTS make
-senses in prioritizing requirements.
+I think the excution in this report has proved the two technique is useful. The RAM can breakdown abstract requirements and the MERTS
+make senses in prioritizing requirements.
 
 [-Lessons Learned-]:
 1.The experience in requirement engineering is VERY important. No matter breakdown or prioritize requirements.
