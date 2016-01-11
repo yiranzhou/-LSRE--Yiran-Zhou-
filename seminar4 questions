@@ -1,0 +1,28 @@
+• Horizontal scaling: The Life of a Requirement
+– What scope changes is likely to happen (Wnuk)?
+Because the market of one product may change, so that the requirements may change depends on market, cost or other reasones. The requirements
+change is likely to happen.
+
+– How do you support a released requirement?
+1.If the requirement is still required for the current market or customers, I will keep mantaince it.
+2.If the requirement is no longer required for the current release or future releases, in other word, it is has no business value for current
+customers, I will set it as Obsolete requirements.
+
+– How do you deal with customer adaptations?
+The final desicion of releasing requirements is decided by product manager. If the adaptions presents the most customers' requirements, I 
+will consider the adaptations and add new requirements for them and release as soon as posible.
+
+• Quality Requirements
+– How do quality requirements impact other requirements?
+1.Use appropriate software engineering standards and procedures to ensure quality
+2.Quality requirements need evolve during the whole development process.
+
+– How do quality requirements evolve over time?
+1.Design quality requirement models, each requirements need to be created follow this model.
+2.Not only in requirement design phase, but also in the rest of development procedure, the quality requirements shoul be evolve.
+3.Use separate standards and procedures to audit the quality.
+
+– How do you deal with differing quality requirements in a product line
+setting?
+Provide different quality model for differing quality requirements.
+
