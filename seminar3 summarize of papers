@@ -59,5 +59,12 @@ G)Obsolete software requirements and project type:Respondents primarily graded t
                                                   as Likely and only Somehow likely for Bespoke projects. This would seem to indicate that
                                                   the "project size" factor is less dominant in relation to OSRs than the "size" of the 
                                                   project.
-H)Requirements lifecycle stages for addressing OSRs:
+H)Requirements lifecycle stages for addressing OSRs: OSRs should first be handled during Requirement analysis, Requirement validation,
+                                                     and Requirement changes phase.
+I)Existing process and practices regarding managing OSRs:73.6% of all respondents indicates that their requirements engineering process
+                                                         does not take OSRs into consideration. Reviews of requirements and requirements
+                                                         specifications are mostly mentioned by 19 respondents.
+
+
+
 
