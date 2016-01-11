@@ -5,13 +5,12 @@ Requirements Abstraction Mode
 A Method for Early Requirements Triage and selection Utilizing Product Strategies 
 
 ##Why: 
-These two papers help define excutable requirements, which is useful and practical in software development process. And based 
-on each saminer,  I think the techniques provided by these papers are easy to understand and implement, though there are some defects 
-in them. 
+These two papers help define excutable requirements, which is useful and practical in software development process. And based on each saminer,  I think the techniques provided by these papers are easy to understand and implement, though there are some defects in them. 
 
 ##Implementation Plan:
 
 -Use the method from Requirements Abstraction Model to break down requirements.
+
 -Use the method from A Method for Early Requirements Triage and selection Utilizing Product Strategies to calculate the points of each requirement.
 
 ##Excution:
