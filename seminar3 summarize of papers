@@ -44,3 +44,20 @@ A)Definition of Obsolete Software Requirement:An obsolete software requirement i
 no longer required for the current release or future releases and, for various reasons, has little or no business value for the potential 
 customers or users of a software product. 
 B)The potencial impact of OSR:A total of 84.3% of all respondents considered OSR to be Serious or Somehow serious.
+C)Requirement types and OSRs:Incorrect or misunderstood requirements; Inconsistent requirements; Ambiguous requirements are the top 3 
+                             type of OSRs. And requirements related to standards, laws and regulations are the least likely to become
+                             obsolete.
+D)Methods to indentify OSRs: 71% answers pointed out that manual ways of discovering OSRs are currently the primary method. But, thirty
+                            respondents has no process of managing OSRs.
+E)Handling of identified obsolete software requirements:More than 60% respondents kept the OSRs but assigned them a status called 
+                                                        "obsolete". This might indicate that OSRs are a useful source of information
+                                                        about the history of product for both requirement analyst and software development
+                                                        roles.
+F)Obsolete software requirements and project size:The larger the product, the more likely there will be a negative effect from OSRs. And
+                                                  the size of company, process of development also imapct likely of the OSRs.
+G)Obsolete software requirements and project type:Respondents primarily graded the impact of OSRs on Market-Driven projects and Outsourced
+                                                  as Likely and only Somehow likely for Bespoke projects. This would seem to indicate that
+                                                  the "project size" factor is less dominant in relation to OSRs than the "size" of the 
+                                                  project.
+H)Requirements lifecycle stages for addressing OSRs:
+
