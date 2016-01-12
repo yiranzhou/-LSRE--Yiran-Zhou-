@@ -19,7 +19,10 @@ Because other classmates have decide the version of project, I just review all t
  
 ### Experience
 
-I have discussed many topics with professor in seminars. And I realized RAM is not specialize for continuous integration reuqiremnets. Even though, it is useful, when  
+I have discussed many topics with professor in seminars. The discussions give me a lot of inspiration on requirements. And I realized RAM is not specialize for continuous integration reuqiremnets. Even though, it is useful.
+
+In this courses, I spend much time on reading papers. According to the recommendation of professor, I know a lot of requirement
+engineering techniques. What's more, I learned a lot of knowledge about the mothods to do a research and write a paper.  
 
 
 
