@@ -19,7 +19,8 @@ Status updates are one of the only ways for a team to manage its dependency on a
 meeting, usually occurring face-to-face or held via audio or video conferencing is a good method.
 
 How do you use requirements to take decisions on construction?
--
+-I think the requirements decide the design of software products. I will deside the construction according to the number of requirements,
+type of requirements, and operation system.
 
 How do you find and deal with legacy requirements when designing for a new requirement?
 -Check the Soecification requirement to find the legacy requirement.
