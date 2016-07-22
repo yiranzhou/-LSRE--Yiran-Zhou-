@@ -58,3 +58,26 @@ performance requirements that are quantifiable, representative of the “real wo
 ####•Requirements Abstraction Model/Gorschek & Wohlin
 ####•Requirements engineering: In search of the dependent variables/Gorschek & Wohlin
 
+# Seminar 2
+
+###Qeustions
+####•Read up on the Boston Matrix(加引用)
+####•How do you connect your requirements to your architecture?（回答错了）
+####•Can you connect all requirements directly? What do you do if you cannot?（weak answer）
+
+###Articles
+####•Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering/Wnuk et al.
+####•An industrail Survey of Requirements Interdependencies in Software Product Release Planning/Carlshamre et al.(加结论)
+####•Leffinwell
+
+# Seminar 4
+###Qeustions
+- [ ] tools for requirements management:
+- [ ] tools for agile requirements management:
+
+
+###Articles
+####•Assessing challenges of continuous integration in the context of software requirements breakdown: a case study/Debbiche & Dienér
+
+
+
