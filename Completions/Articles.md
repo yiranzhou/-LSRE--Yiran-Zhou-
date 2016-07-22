@@ -72,12 +72,12 @@ performance requirements that are quantifiable, representative of the “real wo
 
 # Seminar 4
 ###Qeustions
-- [ ] tools for requirements management:
-- [ ] tools for agile requirements management:
+- tools for requirements management:
+- tools for agile requirements management:
 
 
 ###Articles
-####•Assessing challenges of continuous integration in the context of software requirements breakdown: a case study/Debbiche & Dienér
+####•Assessing challenges of continuous integration in the context of software requirements breakdown: a case study/Debbiche & Dienér(This is not a readable summary of the work.)
 
 
 
