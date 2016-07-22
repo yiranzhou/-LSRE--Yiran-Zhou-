@@ -45,3 +45,5 @@ performance requirements that are quantifiable, representative of the “real wo
 [2]M. S. Feather, S. L. Cornford, and M. Gibbel, “Scalable mechanisms for requirements interaction management,” in Requirements Engineering, 2000. Proceedings. 4th International Conference on, 2000, pp. 119–129.
 
 [3]Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
+
+# Seminar 1
