@@ -35,6 +35,8 @@ performance requirements that are quantifiable, representative of the “real wo
 
 -I leard a lot from this artcle. First is the real platform development process from Sony Ericsson. It comprisesthe roadmap extraction, selection of features on the roadmap, definition of initial scope, prioritizition and project priority for the platform project. Second, I understand some concepts deeper like QUPER, PR(performance requirement), competitor analysis and so on. Third, each model and method may works well in somw aspects, we still need understand these model or method may lead some challenges. We should analyze if it worth to apply them. 
 
+####•A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
+####•A Market-Driven Requirements Engineering Process: Results from an Industrial Process Improvement Programme
 
 #### Reference  
 
