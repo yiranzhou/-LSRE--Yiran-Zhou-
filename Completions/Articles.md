@@ -23,6 +23,10 @@ According to the B.Renell, The order of magnitude of the number of requirements 
 Even though there are guidelines exist for release plan in princple, they don't tell us how to operate.
 
 
+####•Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
+
+-
+
 
 #### Reference  
 
