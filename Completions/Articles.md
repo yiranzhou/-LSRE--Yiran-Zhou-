@@ -26,13 +26,9 @@ release, when it should be released, and at what cost[3]
 
 ####•Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
 
--QUPER model is developed for supporting release planning and roadmapping of quality requirements.This paper presents one case of QUPER tailoring, implementation, and most important evaluation, conducted at Sony Ericsson.
+-QUPER model is developed for supporting release planning and roadmapping of quality requirements.This paper presents one case of QUPER tailoring, implementation, and most important evaluation, conducted at Sony Ericsson. The QUPER model was developed in three main steps: 1. Problem definition help understand different requirement decision scenarios; 2.Model definition based on first step and including a benefit view, a cost view, a roadmap view, and the concepts of benefit breakpoints and cost barriers; 3. Experts are ivolved in Model validation. And we can observe that quality is continuous and non-linear from these views.
 
--The QUPER model was developed in three main steps: 1. Problem definition help understand different requirement decision scenarios; 2.Model definition based on first step and including a benefit view, a cost view, a roadmap view, and the concepts of benefit breakpoints and cost barriers; 3. Experts are ivolved in Model validation. And we can observe that quality is continuous and non-linear from these views.
-
--The authors tailored the QUPER model and define 4 steps as following 1. Define quality aspects. 2. Estimate your product’s current quality (for a given release) and the competing products’ quality (at present or envisioned). 3. For each quality aspect and for each relevant qualifier, estimate the breakpoints. 4. Estimate candidate targets and discuss and decide on actual targets for coming releases.
-
--They involved in improving the practice of release planning of quality requirements by introducing the QUPER model. There are three steps, Interview, Workshop and Interview again. In tow Interviews, they collected and analyzed data. In Workshop, they applied QUPER in real projects. Besides, they took some meastures to increase validity. 
+-The authors tailored the QUPER model and define 4 steps as following 1. Define quality aspects. 2. Estimate your product’s current quality (for a given release) and the competing products’ quality (at present or envisioned). 3. For each quality aspect and for each relevant qualifier, estimate the breakpoints. 4. Estimate candidate targets and discuss and decide on actual targets for coming releases. They involved in improving the practice of release planning of quality requirements by introducing the QUPER model. There are three steps, Interview, Workshop and Interview again. In Interviews, they collected and analyzed data. In Workshop, they applied QUPER in real projects. Besides, they took some meastures to increase validity. 
 
 -QUPER works in some aspects, 
 
