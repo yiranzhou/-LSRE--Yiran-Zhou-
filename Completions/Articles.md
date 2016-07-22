@@ -14,7 +14,7 @@ According to the B.Renell, The order of magnitude of the number of requirements 
 
 ####• Read up on and summarise [Strategic] Release Planning
 
-Release planning is a process applying various types of upstream decision-making that combine market considerations with implementation concerns.Release planning involves aspects such as selecting what features and requirements should be in a certain
+Release planning is a process applying various types of upstream decision-making that combine market considerations with implementation concerns. Release planning involves aspects such as selecting what features and requirements should be in a certain
 release, when it should be released, and at what cost[3]
 
 ###Articles
@@ -22,8 +22,7 @@ release, when it should be released, and at what cost[3]
 
 -A good release plan should provide maximum bussiness value, satisfy the most important stakerholders, be fesible with available resource and reflect dependencies among features.
 
--Resease planning is ad hoc and rarely based on sound models and methodologies.It is hard to select and scheule features.Planning and follow-up replanning leads many extra activities.Another problem is that the planning scope is often limited to just the next release.
-Even though there are guidelines exist for release plan in princple, they don't tell us how to operate.
+-Resease planning is ad hoc and rarely based on sound models and methodologies.It is hard to select and scheule features. Planning and follow-up replanning leads many extra activities. Another problem is that the planning scope is often limited to just the next release. Even though there are guidelines exist for release plan in princple, they don't tell us how to operate.
 
 ####•Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
 
@@ -32,6 +31,10 @@ Even though there are guidelines exist for release plan in princple, they don't 
 -The QUPER model was developed in three main steps: 1. Problem definition help understand different requirement decision scenarios; 2.Model definition based on first step and including a benefit view, a cost view, a roadmap view, and the concepts of benefit breakpoints and cost barriers; 3. Experts are ivolved in Model validation. And we can observe that quality is continuous and non-linear from these views.
 
 -The authors tailored the QUPER model and define 4 steps as following 1. Define quality aspects. 2. Estimate your product’s current quality (for a given release) and the competing products’ quality (at present or envisioned). 3. For each quality aspect and for each relevant qualifier, estimate the breakpoints. 4. Estimate candidate targets and discuss and decide on actual targets for coming releases.
+
+-They involved in improving the practice of release planning of quality requirements by introducing the QUPER model. There are three steps, Interview, Workshop and Interview again. In tow Interviews, they collected and analyzed data. In Workshop, they applied QUPER in real projects. Besides, they took some meastures to increase validity. 
+
+-QUPER works in some aspects, 
 
 
 #### Reference  
