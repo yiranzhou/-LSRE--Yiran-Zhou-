@@ -68,7 +68,7 @@ performance requirements that are quantifiable, representative of the “real wo
 ###Articles
 ####•Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering/Wnuk et al.
 ####•An industrail Survey of Requirements Interdependencies in Software Product Release Planning/Carlshamre et al.(加结论)
-####•Leffinwell
+####•Scaled Agile Framework/Leffinwell
 
 # Seminar 4
 ###Qeustions
