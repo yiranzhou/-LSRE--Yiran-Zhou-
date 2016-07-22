@@ -47,3 +47,14 @@ performance requirements that are quantifiable, representative of the “real wo
 [3]Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
 
 # Seminar 1
+
+###Qeustions
+####•what tools are avaliable for Continuous Integration?
+####•what is technical product management?
+####•What is roadmapping? How can you do it large scale?
+
+###Articles
+####•A Cost–Value Approach for PrioritizingRequirements/Karlsson & Ryan
+####•Requirements Abstraction Model/Gorschek & Wohlin
+####•Requirements engineering: In search of the dependent variables/Gorschek & Wohlin
+
