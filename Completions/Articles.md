@@ -17,6 +17,8 @@ According to the B.Renell, The order of magnitude of the number of requirements 
 Release planning is a process applying various types of upstream decision-making that combine market considerations with implementation concerns. Release planning involves aspects such as selecting what features and requirements should be in a certain
 release, when it should be released, and at what cost[3]
 
+Release planning, the process of deciding which features and quality level should be included in which release [3], which is both a cognitively and computationally difficult problem, is classified as a wicked problem [9] since different kinds of uncertainty make it difficult to formulate and solve the problem. Moreover, the objective of release planning is to ’maximize the benefit’; however, the difficulty lies in how to give a measurable definition of ’benefit’[4]
+
 ###Articles
 ####•The Art and Science of Software Release Planning
 
@@ -36,6 +38,11 @@ performance requirements that are quantifiable, representative of the “real wo
 -I leard a lot from this artcle. First is the real platform development process from Sony Ericsson. It comprisesthe roadmap extraction, selection of features on the roadmap, definition of initial scope, prioritizition and project priority for the platform project. Second, I understand some concepts deeper like QUPER, PR(performance requirement), competitor analysis and so on. Third, each model and method may works well in somw aspects, we still need understand these model or method may lead some challenges. We should analyze if it worth to apply them. 
 
 ####•A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
+
+-it is important to plan the product’s releases so that they can reach the market as early as possible with a competitive level of quality compared to its competitors’ products, but the core question is that when is the quality level good enough? There are only two strategic release planning methods address quality constraints: The quantitative Win-Win model [28] addresses effort and time constraints, but not the quality level of QR, while the only method to address quality and cost constraints of QR is the QUPER model. This paper provides practical guidelines of how to apply QUPER in practice, adds step of how to incorporate cost dependencies between QR and evaluates the complete version of the QUPER model.
+
+-
+
 ####•A Market-Driven Requirements Engineering Process: Results from an Industrial Process Improvement Programme
 
 #### Reference  
@@ -45,6 +52,8 @@ performance requirements that are quantifiable, representative of the “real wo
 [2]M. S. Feather, S. L. Cornford, and M. Gibbel, “Scalable mechanisms for requirements interaction management,” in Requirements Engineering, 2000. Proceedings. 4th International Conference on, 2000, pp. 119–129.
 
 [3]Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
+
+[4]A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
 
 # Seminar 1
 
