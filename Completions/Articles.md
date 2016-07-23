@@ -41,7 +41,10 @@ performance requirements that are quantifiable, representative of the “real wo
 
 -it is important to plan the product’s releases so that they can reach the market as early as possible with a competitive level of quality compared to its competitors’ products, but the core question is that when is the quality level good enough? There are only two strategic release planning methods address quality constraints: The quantitative Win-Win model [28] addresses effort and time constraints, but not the quality level of QR, while the only method to address quality and cost constraints of QR is the QUPER model. This paper provides practical guidelines of how to apply QUPER in practice, adds step of how to incorporate cost dependencies between QR and evaluates the complete version of the QUPER model.
 
--
+-Guidelines:1.Identify candidate QR(Once feature has been identified, the consequences for the particular QR should be consider)；2. Define scale and unit(e.g. 'time' is scale, 'minutes' is unit).3.Identify reference levels(Reference levels can be based on competing
+as well as own products (Qref));4.Elicit quality breakpoints(the market expectations should be defined in terms of the values of quality breakpoints)；5.Estimate cost barriers(identify and estimate several cost barriers for each QR);6.Set candidate requirements(One way to specify a requirements quality interval is by using both a Good and a Stretch target);7.Identify cost dependencies(If cost dependencies among QR are considered important to identify for cost estimations, then, for each top-n QR, identify which modules (architectural components/parts) that needs to be changed if that QR is to be improved beyond the ”next” breakpoint (either utility or differentiation depending on its current position)).
+
+
 
 ####•A Market-Driven Requirements Engineering Process: Results from an Industrial Process Improvement Programme
 
