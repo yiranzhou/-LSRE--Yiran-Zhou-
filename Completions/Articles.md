@@ -51,7 +51,7 @@ as well as own products (Qref));4.Elicit quality breakpoints(the market expectat
 ####•A Market-Driven Requirements Engineering Process: Results from an Industrial Process Improvement Programme
 
 -REPEAT(Requirements Engineering ProcEss At Telelogic）is used in-house at Telelogic for eliciting, selecting and managing requirements on a product family called Telelogic Tau - a software development environment for real-time systems, used by many of the
-world's largest telecommunication systems providers in their software development. It covers typical RE activities [6], such as elicitation, documentation, and validation, and has a strong focus on requirements selection and release planning. 
+world's largest telecommunication systems providers in their software development. It covers typical RE activities, such as elicitation, documentation, and validation, and has a strong focus on requirements selection and release planning. The actors involved in REPEAT include: Requirements Management Group (RQMG), Issuer, Customers and users and Requirements team, Construction team, Test team, Expert, Requirements Database (RQDB). The states of a requirement in the REPEAT process is: New, Assigned, Classified, Rejected, Selected, Applied.
 
 #### Reference  
 
