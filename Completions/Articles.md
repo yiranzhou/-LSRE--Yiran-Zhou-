@@ -50,6 +50,8 @@ as well as own products (Qref));4.Elicit quality breakpoints(the market expectat
 
 ####•A Market-Driven Requirements Engineering Process: Results from an Industrial Process Improvement Programme
 
+
+
 #### Reference  
 
 [1]B. Regnell, R. B. Svensson, and K. Wnuk, “Can we beat the complexity of very large-scale requirements engineering?,” in Requirements Engineering: Foundation for Software Quality, Springer, 2008, pp. 123–128.
