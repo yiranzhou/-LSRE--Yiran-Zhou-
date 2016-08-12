@@ -94,6 +94,12 @@ world's largest telecommunication systems providers in their software developmen
 ###Articles
 ####•A Cost–Value Approach for PrioritizingRequirements/Karlsson & Ryan
 ####•Requirements Abstraction Model/Gorschek & Wohlin
+
+-RAM, with four abstraction levels, was developed as a response to the industrial need. The model allows for placement of requirements on different levels and supports abstraction or break down of requirements to make them comparable to each other. As the sources of the requirements vary and the equirements themselves are both direct and indirect in ature it is not surprising that they come in different hapes and forms, at multiple levels of abstraction, and escribed on varying levels of refinement. RAM is modeled towards a product perspective, supporting a continuous requirement engineering effort, aimed at taking requirements of multiple types (abstraction level) as input, and offers a structure for the work-up of these requirements.
+
+-Advantage of RAM:1.offering an assurance that requirements do not violate the overall goals set by the management;2.All requirements are broken down to an abstraction level where they are good enough for initiating a development effort (project);3.Work-up of requirements means that they are formulated on the same level of abstraction, and hence they can be compared and set against one another. The ability to compare requirements is a prerequisite to effective release planning and prioritization;4.All requirements can be followed through several levels of abstraction giving a richer understanding of each requirement, and thus better decision support can be obtained for all professionals, from management to developers.
+
+
 ####•Requirements engineering: In search of the dependent variables/Gorschek & Wohlin
 
 # Seminar 2
