@@ -2,22 +2,40 @@
 ###Qeustions
 ####• What is large scale requirements engineering?
 
-~1000  orders of magnitude requirements.The requirements Managing a complete set of interdependencies is practically unfeasible, but feasible among small bundles of requirements. [1] 
+~1000  orders of magnitude requirements.The requirements Managing a complete set of interdependencies is practically unfeasible, but feasible among small bundles of requirements[1]. 
 
 ####• What are the challenges in large scale requirements engineering?
 
-A key challenge in construction of these support tools is how to scale them to handle a large volume of information. Particularly crucial are the ways in which large numbers of requirements and their interrelationships are presented to users. [2]
+A key challenge in construction of these support tools is how to scale them to handle a large volume of information. Particularly crucial are the ways in which large numbers of requirements and their interrelationships are presented to users[2].
+When large organizations develop systems for large markets, the size and complexity of the work products of requirements engineering impose critical challenges[5]. And accoring to the summary of [5], the following are the challenges in large scale reuqirements engineering:
+- Satisfy all project stakeholders vs. producing a balanced scope. 
+- Scope reductions are difficult. 
+- Wasting effort on de-scoped features. 
+- Hard to get an overview or see the “big picture”.
+- Requires deep knowledge of people and system.
+- Hard to get an overview or see the “big picture”.
+- Acquire enough knowledge to be able to make the decision.
+- Difficult to avoid late scoping decisions.
+- Hard to satisfy all needs. 
+- Unclear req.
+- Too complicated to understand.
+- Uncontrolled changes.
+- Information cannot be trusted.
+- Too complicated to understand.
+- Unable to reuse the req.
+- Unclear req.
+- Difficult to make relevant grouping. 
 
 ####• What is the order of magnitude of the number of requirements we are discussing?
 
-According to the B.Renell, The order of magnitude of the number of requirements are 1000. The 100 order of magnitude is medium scale requirements and the 10000 order of magnitude is very large scale reuiqrements engineering. [1]
+According to the B.Renell, The order of magnitude of the number of requirements are 1000. The 100 order of magnitude is medium scale requirements and the 10000 order of magnitude is very large scale reuiqrements engineering[1].
 
 ####• Read up on and summarise [Strategic] Release Planning
 
 Release planning is a process applying various types of upstream decision-making that combine market considerations with implementation concerns. Release planning involves aspects such as selecting what features and requirements should be in a certain
-release, when it should be released, and at what cost[3]
+release, when it should be released, and at what cost[3].
 
-Release planning, the process of deciding which features and quality level should be included in which release [3], which is both a cognitively and computationally difficult problem, is classified as a wicked problem [9] since different kinds of uncertainty make it difficult to formulate and solve the problem. Moreover, the objective of release planning is to ’maximize the benefit’; however, the difficulty lies in how to give a measurable definition of ’benefit’[4]
+Release planning, the process of deciding which features and quality level should be included in which release [3], which is both a cognitively and computationally difficult problem, is classified as a wicked problem since different kinds of uncertainty make it difficult to formulate and solve the problem. Moreover, the objective of release planning is to ’maximize the benefit’; however, the difficulty lies in how to give a measurable definition of ’benefit’[4].
 
 ###Articles
 ####•The Art and Science of Software Release Planning
@@ -65,6 +83,7 @@ world's largest telecommunication systems providers in their software developmen
 
 [4]A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
 
+[5]Scaling Up Requirements Engineering –Exploring the Challenges of Increasing Size and Complexity in MarketDriven Software Development
 # Seminar 1
 
 ###Qeustions
