@@ -106,8 +106,7 @@ world's largest telecommunication systems providers in their software developmen
 -Tailoring RAM.This paper also provide a tailoring model for RAM: Abstraction levels (and usage of them) are a fundamental part of RAM;The number of abstraction levels needed depends on the product and organization. Three levels may suffice in some cases where requirements are generally only caught/elicited on three levels.The same reasoning applies to the abstraction degree of each level. It is dependent on the number of abstraction levels used, i.e., the jumps between levels are greater if few levels are used and vice versa. As a rule,  caught/elicited requirements and the need for work-up of the requirements determine the number of abstraction levels and the abstraction degree of these levels. Attributes need to be reviewed and adapted to the needs of the organization. As different organizations (products) are dependent on different vocabularies, domains, technical terminology, Example driven is used to descript RAM. Attributes need to be reviewed and adapted to the needs of the organization. Naming of abstraction levels, attributes, roles and so on should be adapted to fit the vocabulary of the organization. If an organization has heterogeneous products several tailored versions of RAM may be beneficial, which is called Product Focus. Beside, there are Support material to guide a result of
 the other tailoring points described above. The number of abstraction levels, abstraction degree, relevant examples and so on.
 
--Validation of RAM: The validation is divided into two main parts, static and dynamic
-
+-Validation of RAM: The validation is divided into two main parts, static and dynamic. Fisrt step is to identify roles. In this case, there are Product Manager, Orderer, Project Manager, System Engineer, Developer, System Test, Upper Management.
 
 ####•Requirements engineering: In search of the dependent variables/Gorschek & Wohlin
 
