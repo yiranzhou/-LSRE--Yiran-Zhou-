@@ -13,7 +13,6 @@ When large organizations develop systems for large markets, the size and complex
 - Wasting effort on de-scoped features. 
 - Hard to get an overview or see the “big picture”.
 - Requires deep knowledge of people and system.
-- Hard to get an overview or see the “big picture”.
 - Acquire enough knowledge to be able to make the decision.
 - Difficult to avoid late scoping decisions.
 - Hard to satisfy all needs. 
