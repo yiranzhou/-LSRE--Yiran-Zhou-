@@ -124,6 +124,8 @@ the other tailoring points described above. The number of abstraction levels, ab
 ####•An industrail Survey of Requirements Interdependencies in Software Product Release Planning/Carlshamre et al.(加结论)
 ####•Scaled Agile Framework/Leffinwell
 
+http://www.scaledagileframework.com/ 没有免费文章
+
 # Seminar 4
 ###Qeustions
 - tools for requirements management:
