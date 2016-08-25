@@ -104,6 +104,9 @@ cr: https://opensource.com/business/15/7/six-continuous-integration-tools
 
 ###Articles
 ####•A Cost–Value Approach for PrioritizingRequirements/Karlsson & Ryan
+
+ Misses many of the points of the paper, i.e. the novel use of pair-wise comparisons (AHP) to prioritise requirements. Also, the importance of viewing requirements in multiple dimensions (cost /and/ value)
+ 
 ####•Requirements Abstraction Model/Gorschek & Wohlin
 
 -RAM, with four abstraction levels, was developed as a response to the industrial need. The model allows for placement of requirements on different levels and supports abstraction or break down of requirements to make them comparable to each other. As the sources of the requirements vary and the equirements themselves are both direct and indirect in ature it is not surprising that they come in different hapes and forms, at multiple levels of abstraction, and escribed on varying levels of refinement. RAM is modeled towards a product perspective, supporting a continuous requirement engineering effort, aimed at taking requirements of multiple types (abstraction level) as input, and offers a structure for the work-up of these requirements. Through work with RAM, requirements on a high level of abstraction (comparable to product strategy) and a low level of abstraction (good enough as input to a project) are available. In addition, as several levels of abstraction are offered, a richer understanding can be obtained as to the purpose of a requirement, its origin and so on, by looking at requirements over the abstraction level boundaries.
@@ -122,7 +125,7 @@ the other tailoring points described above. The number of abstraction levels, ab
 -Conclusion. This paper introduces a model RAM, which could satisfy needs identified in industry and the lack of an appropriate model to address these needs. The RAM is feasible(taloring model) and can be modified in different situations and organizations. RAM works positively in industry, All parties working with development can compare requirements, as they are homogenous regarding abstraction level and are not forced to decide between an abstract requirement and a detailed one. As flexibility and  adaptability of RAM, maybe we can modify a lightweight RAM in the future, and keep effectiveness of RAM.
 
 
-####•Requirements engineering: In search of the dependent variables/Gorschek & Wohlin
+####•Requirements engineering: In search of the dependent variables/Gorschek & Davis
 
 # Seminar 2
 
