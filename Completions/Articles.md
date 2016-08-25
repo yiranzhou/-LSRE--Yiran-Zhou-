@@ -87,7 +87,19 @@ world's largest telecommunication systems providers in their software developmen
 
 ###Qeustions
 ####•what tools are avaliable for Continuous Integration?
+
+- Jenkins was created after a falling out between Hudson project contributors and the company that acquired Sun Microsystems.
+- Developed in Python, Buildbot is based on the Twisted framework. It started as an alternative to the Tinderbox project and is now used in Mozilla, Webkit, Chromium, and others.
+- Travis CI is probably one of the easiest CI servers to get started with.
+- Strider is written in Node.JS and JavaScript, and uses MongoDB as a backing store. MongoDB and Node.js are prerequisites for installing Strider.
+- Go was created and then open sourced by ThoughtWorks. As with other advanced CI servers, Go lets you distribute your builds across different systems and monitor them all in one place.
+- Built on Ruby, Integrity needs Ruby 1.8.7 or newer, RubyGems 1.3.5 or newer, and Git 1.6 or newer. 
+
+cr: https://opensource.com/business/15/7/six-continuous-integration-tools
+
 ####•what is technical product management?
+
+
 ####•What is roadmapping? How can you do it large scale?
 
 ###Articles
