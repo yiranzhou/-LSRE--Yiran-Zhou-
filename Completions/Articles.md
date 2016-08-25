@@ -142,6 +142,9 @@ There are large number of tools for requirement management. And many of them are
 - Rational DOORS: a requirements management application for optimizing requirements communication, collaboration and verification throughout your organization and supply chain. This scalable solution can help you meet business goals by managing project scope and cost. Rational DOORS lets you capture, trace, analyze and manage changes to information while maintaining compliance to regulations and standards.
 - Accompa: Mid-market Requirements Management Tools.
 
+cr：http://www.capterra.com/requirements-management-software/
+    http://makingofsoftware.com/resources/list-of-rm-tools
+
 ####- tools for agile requirements management:
 
 Trace Cloud, Blueptint,  Agile manager 
