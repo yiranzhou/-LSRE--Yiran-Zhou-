@@ -99,7 +99,8 @@ cr: https://opensource.com/business/15/7/six-continuous-integration-tools
 
 ####•what is technical product management?
 
-
+In my opinion,
+首先product management 应该是product manager的工作？每个人说到product management 总会花大篇幅去解释 product  manger 的工作。
 ####•What is roadmapping? How can you do it large scale?
 
 ###Articles
