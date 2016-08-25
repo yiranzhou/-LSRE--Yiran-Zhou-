@@ -128,7 +128,7 @@ http://www.scaledagileframework.com/ 没有免费文章
 
 # Seminar 4
 ###Qeustions
-- tools for requirements management:
+####- tools for requirements management:
 
 There are large number of tools for requirement management. And many of them are avalible for Agile.
 
@@ -136,9 +136,15 @@ There are large number of tools for requirement management. And many of them are
 - SpiraTest: Web-based software to help you write better requirements, manage your test cases and track defects.
 - Blueptint: Blueprint’s Storyteller addresses these challenges, facilitate engagement and collaboration across the organization, ensure better Business & IT alignment and get everybody writing good, effective and consistent user stories.
 - Agile manager: Agile project management solution to plan, execute and track Agile projects.
+- Aligned Elements: the Medical Device ALM, management and traceability of requirements as well as other Design Control Items.
+- Gatherspace.com: Requirements and Product management in the cloud. Allows product team to beautifully collaborate and share requirements.
+- iPlan: Enterprise project management including requirements, personnel, defect, timesheet, quality, metrics and document management.
+- Rational DOORS: a requirements management application for optimizing requirements communication, collaboration and verification throughout your organization and supply chain. This scalable solution can help you meet business goals by managing project scope and cost. Rational DOORS lets you capture, trace, analyze and manage changes to information while maintaining compliance to regulations and standards.
+- Accompa: Mid-market Requirements Management Tools.
 
-- tools for agile requirements management:
+####- tools for agile requirements management:
 
+Trace Cloud, Blueptint,  Agile manager 
 
 ###Articles
 ####•Assessing challenges of continuous integration in the context of software requirements breakdown: a case study/Debbiche & Dienér(This is not a readable summary of the work.)
