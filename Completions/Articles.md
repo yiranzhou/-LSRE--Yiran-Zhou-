@@ -129,6 +129,14 @@ http://www.scaledagileframework.com/ 没有免费文章
 # Seminar 4
 ###Qeustions
 - tools for requirements management:
+
+There are large number of tools for requirement management. And many of them are avalible for Agile.
+
+- Trace Cloud: Web-based requirements management software for agile and scrum project teams.
+- SpiraTest: Web-based software to help you write better requirements, manage your test cases and track defects.
+- Blueptint: Blueprint’s Storyteller addresses these challenges, facilitate engagement and collaboration across the organization, ensure better Business & IT alignment and get everybody writing good, effective and consistent user stories.
+- Agile manager: Agile project management solution to plan, execute and track Agile projects.
+
 - tools for agile requirements management:
 
 
