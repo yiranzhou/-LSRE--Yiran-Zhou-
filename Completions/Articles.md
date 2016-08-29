@@ -39,10 +39,11 @@ Release planning, the process of deciding which features and quality level shoul
 ###Articles
 ####•The Art and Science of Software Release Planning
 
--A good release plan should provide maximum bussiness value, satisfy the most important stakerholders, be fesible with available resource and reflect dependencies among features.
+-The art of RP approach relies on human intuition, communication, and capabilities to negotiate between conflicting objectives and constraints. The science of RP approach formalizes the problem and applies computational algorithms to generate best solutions. 
 
 -Resease planning is ad hoc and rarely based on sound models and methodologies.It is hard to select and scheule features. Planning and follow-up replanning leads many extra activities. Another problem is that the planning scope is often limited to just the next release. Even though there are guidelines exist for release plan in princple, they don't tell us how to operate.
 
+-The art of release planning, 强调人在rp中的直觉？？？ the science of RP，formulate problems with methods from researchers？
 ####•Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
 
 -QUPER model is developed for supporting release planning and roadmapping of quality requirements.This paper presents one case of QUPER tailoring, implementation, and most important evaluation, conducted at Sony Ericsson. The QUPER model was developed in three main steps: 1. Problem definition help understand different requirement decision scenarios; 2.Model definition based on first step and including a benefit view, a cost view, a roadmap view, and the concepts of benefit breakpoints and cost barriers; 3. Experts are ivolved in Model validation. And we can observe that quality is continuous and non-linear from these views.
