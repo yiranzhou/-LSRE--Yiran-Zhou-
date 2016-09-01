@@ -27,7 +27,8 @@ When large organizations develop systems for large markets, the size and complex
 
 ####• What is the order of magnitude of the number of requirements we are discussing?
 
-According to the B.Renell, The order of magnitude of the number of requirements are 1000. The 100 order of magnitude is medium scale requirements and the 10000 order of magnitude is very large scale reuiqrements engineering[1].
+According to the B.Renell,  They defines orders of magnitude in RE based on the size of the set of requirements
+that are managed by an organisation that develops software-intensive systems. The 1000 order of magnitude of the number of requirements are large scale. The 100 order of magnitude is medium scale requirements and the 10000 order of magnitude is very large scale reuiqrements engineering[1].
 
 ####• Read up on and summarise [Strategic] Release Planning
 
@@ -39,11 +40,12 @@ Release planning, the process of deciding which features and quality level shoul
 ###Articles
 ####•The Art and Science of Software Release Planning
 
--The art of RP approach relies on human intuition, communication, and capabilities to negotiate between conflicting objectives and constraints. The science of RP approach formalizes the problem and applies computational algorithms to generate best solutions. 
+-The art of RP approach relies on human intuition, communication, and capabilities to negotiate between conflicting objectives and constraints. The science of RP approach formalizes the problem and applies computational algorithms to generate best solutions. The art of release planning addresses RP’s implicit and tacit aspects. The science of RP is primarily based on the belief that we can (at least approximately) formalize the problem, and that solving this formalized problem will produce meaningful results. 
 
--Resease planning is ad hoc and rarely based on sound models and methodologies.It is hard to select and scheule features. Planning and follow-up replanning leads many extra activities. Another problem is that the planning scope is often limited to just the next release. Even though there are guidelines exist for release plan in princple, they don't tell us how to operate.
+-Resease planning is ad hoc and rarely based on sound models and methodologies. It is hard to select and scheule features. Planning and follow-up replanning leads many extra activities. Another problem is that the planning scope is often limited to just the next release. Even though there are guidelines exist for release plan in princple, they don't tell us how to operate.
 
--The art of release planning, 强调人在rp中的直觉？？？ the science of RP，formulate problems with methods from researchers？
+-This approach formulates a series of problems, like Desicion variables, dependencies between feature, resource constraints, stakeholders, feature prioritization, objective function, as variants of the original formal model.
+
 ####•Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
 
 -QUPER model is developed for supporting release planning and roadmapping of quality requirements.This paper presents one case of QUPER tailoring, implementation, and most important evaluation, conducted at Sony Ericsson. The QUPER model was developed in three main steps: 1. Problem definition help understand different requirement decision scenarios; 2.Model definition based on first step and including a benefit view, a cost view, a roadmap view, and the concepts of benefit breakpoints and cost barriers; 3. Experts are ivolved in Model validation. And we can observe that quality is continuous and non-linear from these views.
