@@ -2,7 +2,7 @@
 ###Qeustions
 ####• What is large scale requirements engineering?
 
-~1000  orders of magnitude requirements.The requirements Managing a complete set of interdependencies is practically unfeasible, but feasible among small bundles of requirements[1]. 
+Requirement engineering is the process of defining, documenting and maintaining requirements to the sub-fields of systems engineering and software engineering concerned with this process. Large scale means about 1000 orders of magnitude requirements.The requirements Managing a complete set of interdependencies is practically unfeasible, but feasible among small bundles of requirements[1]. 
 
 ####• What are the challenges in large scale requirements engineering?
 
