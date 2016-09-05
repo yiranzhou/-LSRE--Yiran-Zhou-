@@ -137,6 +137,11 @@ the other tailoring points described above. The number of abstraction levels, ab
 ###Qeustions
 ####•Read up on the Boston Matrix(加引用)
 ####•How do you connect your requirements to your architecture?（回答错了）
+
+Architectural design is the point at which the requirements process overlaps with software or systems design and illustrates how impossible it is to cleanly decouple the two tasks.In many cases, the software engineer acts as software architect because the process of analyzing and elaborating the requirements demands that the components that will be responsible for satisfying the requirements be identified. This is requirements allocationthe assignment, to components, of the responsibility for satisfying requirements.[1]
+
+[1]http://www.computer.org/portal/web/swebok/htmlformat
+
 ####•Can you connect all requirements directly? What do you do if you cannot?（weak answer）
 
 ###Articles
