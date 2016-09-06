@@ -109,6 +109,11 @@ In my opinion,
 
 ###Articles
 ####•A Cost–Value Approach for PrioritizingRequirements/Karlsson & Ryan
+Completion for AHP and other points in this paper
+AHP is a process to decide the priority of requirements. First, we need make a n*n matrix, the n is the number of requirements. Then, we need compare each requirement, and n(n-1)/2 comparisons are required. Thirdly, Use averaging over normalized columns to estimate the eigenvalues of the matrix. And we need the sum of each the rows, as the priority matrix. The fourth step assign each requirement its relative value based on the estimated eigenvalues. While the results may not match the priority of requirements we identify. The consistency index (CI) is a first indicator of result accuracy of the pairwise comparisons and CI = (λ max− n)/(n −1). And there is a consistency indices from the scale 1 to 9 are called RI. The ratio of CI to RI for the same-order matrix is called the consistency ratio (CR), which defines the accuracy of the pairwise comparisons. As a general rule, a consistency ratio of 0.10 or less is considered acceptable.1 This means that our result here is less than ideal. In practice, however, consistency ratios exceeding 0.10 occur frequently.
+
+Requirements cost
+Requirements value
 
  Misses many of the points of the paper, i.e. the novel use of pair-wise comparisons (AHP) to prioritise requirements. Also, the importance of viewing requirements in multiple dimensions (cost /and/ value)
  
