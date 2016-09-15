@@ -44,7 +44,7 @@ Release planning, the process of deciding which features and quality level shoul
 
 -Resease planning is ad hoc and rarely based on sound models and methodologies. It is hard to select and scheule features. Planning and follow-up replanning leads many extra activities. Another problem is that the planning scope is often limited to just the next release. Even though there are guidelines exist for release plan in princple, they don't tell us how to operate.
 
--This approach formulates a series of problems, like Desicion variables, dependencies between feature, resource constraints, stakeholders, feature prioritization, objective function, as variants of the original formal model.
+-This approach formulates a series of problems, like Desicion variables, dependencies between feature, resource constraints, stakeholders, feature prioritization, objective function, as variants of the original formal model. 
 
 ####•Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
 
@@ -135,6 +135,8 @@ the other tailoring points described above. The number of abstraction levels, ab
 
 
 ####•Requirements engineering: In search of the dependent variables/Gorschek & Davis
+
+
 
 # Seminar 2
 
