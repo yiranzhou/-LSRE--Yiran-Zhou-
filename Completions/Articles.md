@@ -55,7 +55,7 @@ Release planning, the process of deciding which features and quality level shoul
 -QUPER works well in the four areas, Network access, Email, Video systems and Positioning. But there are still some challenges, like Difficult to identify differentiation and saturation breakpoints in Network access area, people may interpret the breakpoints differently in Email area, people spend too much time on applying QUPER and so forth. Other challenges were how to specify
 performance requirements that are quantifiable, representative of the “real world”, and under what conditions they should be fulfilled and specification of performance requirements. And during the interviews, one more challengs are proposed which is difficulties to identify the values of the differentiation and saturation breakpoints.
 
--I leard a lot from this artcle. First is the real platform development process from Sony Ericsson. It comprisesthe roadmap extraction, selection of features on the roadmap, definition of initial scope, prioritizition and project priority for the platform project. Second, I understand some concepts deeper like QUPER, PR(performance requirement), competitor analysis and so on. Third, each model and method may works well in somw aspects, we still need understand these model or method may lead some challenges. We should analyze if it worth to apply them. 
+-I leard a lot from this artcle. First is the real platform development process from Sony Ericsson. It comprises the roadmap extraction, selection of features on the roadmap, definition of initial scope, prioritizition and project priority for the platform project. Second, I understand some concepts deeper like QUPER, PR(performance requirement), competitor analysis and so on. Third, each model and method may works well in somw aspects, we still need understand these model or method may lead some challenges. We should analyze if it worth to apply them. 
 
 ####•A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
 
@@ -74,6 +74,10 @@ as well as own products (Qref));4.Elicit quality breakpoints(the market expectat
 world's largest telecommunication systems providers in their software development. It covers typical RE activities, such as elicitation, documentation, and validation, and has a strong focus on requirements selection and release planning. The actors involved in REPEAT include: Requirements Management Group (RQMG), Issuer, Customers and users and Requirements team, Construction team, Test team, Expert, Requirements Database (RQDB). The states of a requirement in the REPEAT process is: New, Assigned, Classified, Rejected, Selected, Applied.
 
 -Process of REPEAT: 1.Elicitation phase, which includes collection and classification. Collection of requirements is made by an issuer that fills in a web form and submits the requirement for storage in RQDB(requirement database). Requirements are described using natural language and given a summary name by the issuer. When a new requirement has arrived, RQMG issues a classification of the requirement by assigning it to an expert. The expert classifies the requirement by assigning to it a rough estimate of its cost (C) and impact (/).2. Selection phase. This phase selects requirements to implement in the current release and specifies the selected requirements in more detail, and validates the requirements document.3.Change management phase, During change management, the RQMG takes decisions on changing the RD caused by new incoming requirements with priority = 1(the lowset priority). When the RD is changed, and a new requirement is allowed to enter the must-list, and a set of requirements amounting to the same effort as the new requirement must be deselected. After construction and verification, there will be entered conclusion phase.
+
+###Reflections to the seminar discussion questions.
+
+Seminar 0 disscused what requirement is and how to work with them. The papers of Seminar 0 presents tow methods on requirements  
 
 #### Reference  
 
@@ -141,7 +145,7 @@ the other tailoring points described above. The number of abstraction levels, ab
 
 ####•Requirements engineering: In search of the dependent variables/Gorschek & Davis
 
-
+###Reflections to the seminar discussion questions.
 
 # Seminar 2
 
@@ -167,6 +171,10 @@ Architectural design is the point at which the requirements process overlaps wit
 
 http://www.scaledagileframework.com/ 没有免费文章
 
+###Reflections to the seminar discussion questions.
+
+# Seminar 3
+###Reflections to the seminar discussion questions.
 # Seminar 4
 ###Qeustions
 ####- tools for requirements management:
