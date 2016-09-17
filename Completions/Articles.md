@@ -102,11 +102,16 @@ cr: https://opensource.com/business/15/7/six-continuous-integration-tools
 
 ####•what is technical product management?
 
-The organizational structure within a business that manages the development, marketing and sale of a product or set of products throughout the product life cycle. It encompasses the broad set of activities required to get the product to market and to support it thereafter.（http://www.businessdictionary.com/definition/product-management.html）
-In my opinion,
-首先product management 应该是product manager的工作？每个人说到product management 总会花大篇幅去解释 product  manger 的工作。
+Product management is the organizational structure within a business that manages the development, marketing and sale of a product or set of products throughout the product life cycle. It encompasses the broad set of activities required to get the product to market and to support it thereafter.（http://www.businessdictionary.com/definition/product-management.html）In my opinion, technical product management should be relative to a concept of marketing management. It consider the software development process from the perspective of technical. But Market-Driven Requirements Engineering (MDRE) handles the continuous flow of requirements in an engineering effort, and is not limited to a development instance but part of technical product management as a whole. The market-driven environment generates large amounts of requirements from multiple sources, internal and external, threatening to overload the technical management of products.[1]
+
+[1]REQUIREMENTS ENGINEERING SUPPORTING TECHNICAL PRODUCT MANAGEMENT
+
 ####•What is roadmapping? How can you do it large scale?
 
+Roadmapping is a powerful technique for planning an organisation’s technological capabilities to ensure they meet its commercial or strategic goals.[1]Roadmaps present products and technologies required to realize these products, as well as their mutual relationship over a period. Teamwork, integral involvement by the organization and good communication are essential characteristics of the process. Benefits include a shared product–technology strategy and a cross-functional approach to product and technology planning and vision building. The roadmap drafting process can be supported by such tools as maturity grid, Quality Function Deployment and the Innovation Matrix.[2]
+
+[1]http://www.ifm.eng.cam.ac.uk/roadmapping/
+[2]Roadmapping Integrates Business and Technology
 ###Articles
 ####•A Cost–Value Approach for PrioritizingRequirements/Karlsson & Ryan
 
@@ -141,14 +146,19 @@ the other tailoring points described above. The number of abstraction levels, ab
 # Seminar 2
 
 ###Qeustions
-####•Read up on the Boston Matrix(加引用)
-####•How do you connect your requirements to your architecture?（回答错了）
+####•Read up on the Boston Matrix(add reference)
+
+cr http://www.oxlearn.com/arg_Marketing-Resources-The-Boston-Matrix_11_35
+
+####•How do you connect your requirements to your architecture?（wrong answer）
 
 Architectural design is the point at which the requirements process overlaps with software or systems design and illustrates how impossible it is to cleanly decouple the two tasks.In many cases, the software engineer acts as software architect because the process of analyzing and elaborating the requirements demands that the components that will be responsible for satisfying the requirements be identified. This is requirements allocationthe assignment, to components, of the responsibility for satisfying requirements.[1]
 
 [1]http://www.computer.org/portal/web/swebok/htmlformat
 
 ####•Can you connect all requirements directly? What do you do if you cannot?（weak answer）
+
+    
 
 ###Articles
 ####•Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering/Wnuk et al.
