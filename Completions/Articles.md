@@ -55,7 +55,7 @@ Release planning, the process of deciding which features and quality level shoul
 -QUPER works well in the four areas, Network access, Email, Video systems and Positioning. But there are still some challenges, like Difficult to identify differentiation and saturation breakpoints in Network access area, people may interpret the breakpoints differently in Email area, people spend too much time on applying QUPER and so forth. Other challenges were how to specify
 performance requirements that are quantifiable, representative of the “real world”, and under what conditions they should be fulfilled and specification of performance requirements. And during the interviews, one more challengs are proposed which is difficulties to identify the values of the differentiation and saturation breakpoints.
 
--I leard a lot from this artcle. First is the real platform development process from Sony Ericsson. It comprises the roadmap extraction, selection of features on the roadmap, definition of initial scope, prioritizition and project priority for the platform project. Second, I understand some concepts deeper like QUPER, PR(performance requirement), competitor analysis and so on. Third, each model and method may works well in somw aspects, we still need understand these model or method may lead some challenges. We should analyze if it worth to apply them. 
+-I learnd a lot from this artcle. First is the real platform development process from Sony Ericsson. It comprises the roadmap extraction, selection of features on the roadmap, definition of initial scope, prioritizition and project priority for the platform project. Second, I understand some concepts deeper like QUPER, PR(performance requirement), competitor analysis and so on. Third, each model and method may works well in somw aspects, we still need understand these model or method may lead some challenges. We should analyze if it worth to apply them. 
 
 ####•A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
 
@@ -77,7 +77,7 @@ world's largest telecommunication systems providers in their software developmen
 
 ###Reflections to the seminar discussion questions.
 
-Seminar 0 disscused what requirement is and how to work with them. The papers of Seminar 0 presents tow methods on requirements  
+Seminar 0 disscused what requirement is and how to work with them. The papers of Seminar 0 presents tow methods on requirements,QUPER and PEPEAT. These two methods both can be used in the almost process of requirements engineering, except collecting original requirements. For instance, first step of QUPER is problem definition, which  
 
 #### Reference  
 
@@ -115,6 +115,7 @@ Product management is the organizational structure within a business that manage
 Roadmapping is a powerful technique for planning an organisation’s technological capabilities to ensure they meet its commercial or strategic goals.[1]Roadmaps present products and technologies required to realize these products, as well as their mutual relationship over a period. Teamwork, integral involvement by the organization and good communication are essential characteristics of the process. Benefits include a shared product–technology strategy and a cross-functional approach to product and technology planning and vision building. The roadmap drafting process can be supported by such tools as maturity grid, Quality Function Deployment and the Innovation Matrix.[2]
 
 [1]http://www.ifm.eng.cam.ac.uk/roadmapping/
+
 [2]Roadmapping Integrates Business and Technology
 ###Articles
 ####•A Cost–Value Approach for PrioritizingRequirements/Karlsson & Ryan
@@ -146,6 +147,8 @@ the other tailoring points described above. The number of abstraction levels, ab
 ####•Requirements engineering: In search of the dependent variables/Gorschek & Davis
 
 ###Reflections to the seminar discussion questions.
+
+
 
 # Seminar 2
 
