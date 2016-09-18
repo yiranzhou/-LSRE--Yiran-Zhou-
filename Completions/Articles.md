@@ -38,7 +38,7 @@ release, when it should be released, and at what cost[3].
 Release planning, the process of deciding which features and quality level should be included in which release [3], which is both a cognitively and computationally difficult problem, is classified as a wicked problem since different kinds of uncertainty make it difficult to formulate and solve the problem. Moreover, the objective of release planning is to ’maximize the benefit’; however, the difficulty lies in how to give a measurable definition of ’benefit’[4].
 
 ###Articles
-####•The Art and Science of Software Release Planning
+####•The Art and Science of Software Release Planning  未完 
 
 -The art of RP approach relies on human intuition, communication, and capabilities to negotiate between conflicting objectives and constraints. The science of RP approach formalizes the problem and applies computational algorithms to generate best solutions. The art of release planning addresses RP’s implicit and tacit aspects. The science of RP is primarily based on the belief that we can (at least approximately) formalize the problem, and that solving this formalized problem will produce meaningful results. 
 
@@ -93,7 +93,7 @@ Seminar 0 disscused what requirement is and how to work with them. The papers of
 # Seminar 1
 
 ###Qeustions
-####•what tools are avaliable for Continuous Integration?
+####•what tools are avaliable for Continuous Integration?未完还有一事件个 
 
 - Jenkins was created after a falling out between Hudson project contributors and the company that acquired Sun Microsystems.
 - Developed in Python, Buildbot is based on the Twisted framework. It started as an alternative to the Tinderbox project and is now used in Mozilla, Webkit, Chromium, and others.
