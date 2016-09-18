@@ -77,7 +77,7 @@ world's largest telecommunication systems providers in their software developmen
 
 ###Reflections to the seminar discussion questions.
 
-Seminar 0 disscused what requirement is and how to work with them. The papers of Seminar 0 presents tow methods on requirements,QUPER and PEPEAT. These two methods both can be used in the almost process of requirements engineering, except collecting original requirements. For instance, first step of QUPER is problem definition, which  
+Seminar 0 disscused what requirement is and how to work with them. The papers of Seminar 0 presents tow methods on requirements,QUPER and PEPEAT. These two methods both can be used in the almost process of requirements engineering, except collecting original requirements. For instance, first step of QUPER is problem definition, which is similar with the elicitation phase of REPEAT, which both need define original requirements. QUPER help understand different requirement decision scenarios, while REPEAT collect and classify requirements from requirement database by issurer and expert. The second phase is about roadmapping of requirements release. According to the detail specification of requirements(REPEAT) and three views(QUPER) of requirements, I can decide the release plan of requirements. Finally, the QUPER model will involve expert to ensure the validation of the model. And if the requirements change, the new requirements will be constructed and verrificated, then enter into conclusion phase. 
 
 #### Reference  
 
@@ -112,7 +112,7 @@ Product management is the organizational structure within a business that manage
 
 ####•What is roadmapping? How can you do it large scale?
 
-Roadmapping is a powerful technique for planning an organisation’s technological capabilities to ensure they meet its commercial or strategic goals.[1]Roadmaps present products and technologies required to realize these products, as well as their mutual relationship over a period. Teamwork, integral involvement by the organization and good communication are essential characteristics of the process. Benefits include a shared product–technology strategy and a cross-functional approach to product and technology planning and vision building. The roadmap drafting process can be supported by such tools as maturity grid, Quality Function Deployment and the Innovation Matrix.[2]
+Roadmapping is a powerful technique for planning an organisation’s technological capabilities to ensure they meet its commercial or strategic goals[1]. Roadmaps present products and technologies required to realize these products, as well as their mutual relationship over a period. Teamwork, integral involvement by the organization and good communication are essential characteristics of the process. Benefits include a shared product–technology strategy and a cross-functional approach to product and technology planning and vision building. The roadmap drafting process can be supported by such tools as maturity grid, Quality Function Deployment and the Innovation Matrix[2]. First of all, roadmapping in large scale is not a Gantt chart. 
 
 [1]http://www.ifm.eng.cam.ac.uk/roadmapping/
 
