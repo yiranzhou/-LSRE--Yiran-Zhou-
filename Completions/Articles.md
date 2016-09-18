@@ -93,7 +93,7 @@ Seminar 0 disscused what requirement is and how to work with them. The papers of
 # Seminar 1
 
 ###Qeustions
-####•what tools are avaliable for Continuous Integration?未完还有一事件个 
+####•what tools are avaliable for Continuous Integration?未完还有一 实践
 
 - Jenkins was created after a falling out between Hudson project contributors and the company that acquired Sun Microsystems.
 - Developed in Python, Buildbot is based on the Twisted framework. It started as an alternative to the Tinderbox project and is now used in Mozilla, Webkit, Chromium, and others.
@@ -112,7 +112,8 @@ Product management is the organizational structure within a business that manage
 
 ####•What is roadmapping? How can you do it large scale?
 
-Roadmapping is a powerful technique for planning an organisation’s technological capabilities to ensure they meet its commercial or strategic goals[1]. Roadmaps present products and technologies required to realize these products, as well as their mutual relationship over a period. Teamwork, integral involvement by the organization and good communication are essential characteristics of the process. Benefits include a shared product–technology strategy and a cross-functional approach to product and technology planning and vision building. The roadmap drafting process can be supported by such tools as maturity grid, Quality Function Deployment and the Innovation Matrix[2]. First of all, roadmapping in large scale is not a Gantt chart. 
+Roadmapping is a powerful technique for planning an organisation’s technological capabilities to ensure they meet its commercial or strategic goals[1]. Roadmaps present products and technologies required to realize these products, as well as their mutual relationship over a period. Teamwork, integral involvement by the organization and good communication are essential characteristics of the process. Benefits include a shared product–technology strategy and a cross-functional approach to product and technology planning and vision building. The roadmap drafting process can be supported by such tools as maturity grid, Quality Function Deployment and the Innovation Matrix[2]. First of all, roadmapping in large scale is not a Gantt chart.  未完
+
 
 [1]http://www.ifm.eng.cam.ac.uk/roadmapping/
 
