@@ -112,12 +112,20 @@ Product management is the organizational structure within a business that manage
 
 ####•What is roadmapping? How can you do it large scale?
 
-Roadmapping is a powerful technique for planning an organisation’s technological capabilities to ensure they meet its commercial or strategic goals[1]. Roadmaps present products and technologies required to realize these products, as well as their mutual relationship over a period. Teamwork, integral involvement by the organization and good communication are essential characteristics of the process. Benefits include a shared product–technology strategy and a cross-functional approach to product and technology planning and vision building. The roadmap drafting process can be supported by such tools as maturity grid, Quality Function Deployment and the Innovation Matrix[2]. First of all, roadmapping in large scale is not a Gantt chart.  未完
+Roadmapping is a powerful technique for planning an organisation’s technological capabilities to ensure they meet its commercial or strategic goals[1]. Roadmaps present products and technologies required to realize these products, as well as their mutual relationship over a period. Teamwork, integral involvement by the organization and good communication are essential characteristics of the process. Benefits include a shared product–technology strategy and a cross-functional approach to product and technology planning and vision building. The roadmap drafting process can be supported by such tools as maturity grid, Quality Function Deployment and the Innovation Matrix[2]. First of all, roadmapping in large scale is not a Gantt chart. Secondly, considering the roadmapping of requirement engineering with large scale, I will  take more business oriented decision when e.g. eliciting and analyzing requirements or when performing release planning[3]. From long-term perspective,roadmaps have a long term perspective, it is important to frequently update and review marketing information. The detail process of applying  roadmapping in large scale:
+• Analyze market segments
+• Market and competitor analysis
+• Eliciting and negotiating requirements from key customers
+• Planning product launches and marketing campaigns
+• Identifying and analyzing Critical Success Factors (CSF)
+• Identify bases of competitive advantage[3]
 
 
 [1]http://www.ifm.eng.cam.ac.uk/roadmapping/
 
 [2]Roadmapping Integrates Business and Technology
+
+[3]Market-Driven Requirements Engineering Process Model, version 1.0
 ###Articles
 ####•A Cost–Value Approach for PrioritizingRequirements/Karlsson & Ryan
 
