@@ -155,6 +155,11 @@ the other tailoring points described above. The number of abstraction levels, ab
 
 ####•Requirements engineering: In search of the dependent variables/Gorschek & Davis
 
+This paper provide a framework of dependednt variables to assess quality of requirements engineering and other higher levels,  whether the project was successful, whether the resulting product was successful, whether or not the company was successful and whether there
+was a positive or negative impact on society as a whole. The authors of this paper think the effect of requirements engineering transcends project instances, and attempt to change the way requirements engineering is conducted and expect that positive outcomes will result. They present a framework of dependent variables, each of which can serve as a requirements engineering quality assessment basis. The levels of requirements process change dependent variables from center to outside are requirements phase, prohect, product, company and society.
+
+requirements phase is the easiest measurement among companies and it inlucdes dependent variables that related to requirements cost and requirements quality. Project is normally equal to 'project success' and it includes dependent variables that related to project cost and time, project estimates and degree of requirements change. Procduct  
+
 ###Reflections to the seminar discussion questions.
 
 
