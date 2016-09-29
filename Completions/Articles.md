@@ -202,6 +202,10 @@ Architectural design is the point at which the requirements process overlaps wit
 
 ###Articles
 ####•Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering/Wnuk et al.
+
+-Introduction 
+
+
 ####•An industrail Survey of Requirements Interdependencies in Software Product Release Planning/Carlshamre et al.(加结论)
 ####•Scaled Agile Framework/Leffinwell
 
