@@ -166,6 +166,21 @@ It is worth noting that a process change that is highly successful at the requir
 
 ###Reflections to the seminar discussion questions.
 
+• Large Scale RE
+– What is large scale requirements engineering?
+– What is market-driven requirements engineering?
+– What is continuous requirements engineering?
+– What are the unique challenges involved?
+– How do you deal with large scale RE?
+– How do you deal with MD RE?
+– How do you deal with continuous RE?
+• Release Planning
+– What is a release?
+– To whom do you release?
+– What do you release? (Requirements?)
+– When do you release?
+– How often do you release?
+– How do we do release planning?
 
 
 # Seminar 2
@@ -193,6 +208,22 @@ Architectural design is the point at which the requirements process overlaps wit
 http://www.scaledagileframework.com/ 没有免费文章
 
 ###Reflections to the seminar discussion questions.
+
+• Roadmapping
+– What is a roadmap?
+– How does it connect with release planning?
+– How does it connect with architecture runway?
+– How can you roadmap several products at once?
+• Portfolio Management
+– How should we manage several products?
+∗ Technically, we may do it with a product line architecture, but
+what about the requirements?
+∗ One Req. DB? One per product? Overlapping features?
+– How do we deal with overlap between products?
+∗ Cf. Gorschek & Davis
+∗ Collaborative / Competitive
+– How do you distribute resources between your products?
+
 
 # Seminar 3
 ###Reflections to the seminar discussion questions.
