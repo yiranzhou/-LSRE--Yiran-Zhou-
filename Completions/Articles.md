@@ -204,6 +204,26 @@ Architectural design is the point at which the requirements process overlaps wit
 ####•Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering/Wnuk et al.
 
 -Introduction 
+challenge在requirement engineering 里面，scope，overscoping。本篇论文主要介绍了eight main causes of overscoping complemented
+by a number of root causes, and nine main effects of overscoping。
+
+-Related work,
+risk在requirement engineering里面，并且还有scope management。还有scope在agile。
+
+-Case
+case company是一个。。。公司。
+
+-Research method
+Firgure 1. 3 phases
+
+-Interview results
+1.causes of overscoping,还有每一个cause 的分析 root cause analysis
+2. effects of overscoping
+3.Impact of agile RE practices
+-Validation，可以一笔带过
+
+-Interpretation and discussion
+-Conclusions and further work
 
 
 ####•An industrail Survey of Requirements Interdependencies in Software Product Release Planning/Carlshamre et al.(加结论)
