@@ -179,15 +179,8 @@ It is worth noting that a process change that is highly successful at the requir
 
 ###Reflections to the seminar discussion questions.
 
-Question of Seminar 0 has explaned large scale requirements engineering.To some extent, market-driven requirements engineering is often equated to large scale requirements engineering. According to [1],there exists the market-driven approach to requirements engineering (market-driven requirements engineering or MDRE). This is the case applicable to software organizations that develop software to a market, which can be a combination of a number of known customers or, on another extreme, a mass market where customers cannot be clearly pinpointed. 
-• Large Scale RE
-– What is large scale requirements engineering?
-– What is market-driven requirements engineering?
-– What is continuous requirements engineering?
-– What are the unique challenges involved?
-– How do you deal with large scale RE?
-– How do you deal with MD RE?
-– How do you deal with continuous RE?
+Question of Seminar 0 has explaned large scale requirements engineering.To some extent, market-driven requirements engineering is often equated to large scale requirements engineering. I did not find clear definition of MDRE and continuous requirements engineering from the papers of this seminar. According to [1], the market-driven approach to requirements engineering (market-driven requirements engineering) is the case applicable to software organizations that develop software to a market, which can be a combination of a number of known customers or, on another extreme, a mass market where customers cannot be clearly pinpointed. When looking at the term "continuous requirements engineering", there is a limited number of sources using this term in different collections of scientific papers[2]. Requirements engineering has to become a continuous activity instead of being just a part of temporary information systems projects in Continuous requirement engineering. In my opinion, this is also a software development trend that all development activities are continuous, in order to adapt to the market. There are many unique challenges in these three requirement enginering. For instance, the dependence of each requirement in LSRE is complexity, the changes of market in MDRE and  limited possibilities to see the relationship between information circulation in business processes and information life cycle in information storage systems[2]. To deal with LSRE, MDRE and continuous RE, the most important thing, I think, is to  
+
 • Release Planning
 – What is a release?
 – To whom do you release?
@@ -197,6 +190,7 @@ Question of Seminar 0 has explaned large scale requirements engineering.To some 
 – How do we do release planning?
 
 [1]Market-Driven Requirements Engineering Process Model, version 1.0
+[2]Enterprise Architecture and Knowledge Perspectives on Continuous Requirements Engineering 
 # Seminar 2
 
 ###Qeustions
