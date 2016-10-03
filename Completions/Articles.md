@@ -190,13 +190,17 @@ Question of Seminar 0 has explaned large scale requirements engineering.To some 
 – How do we do release planning?
 
 [1]Market-Driven Requirements Engineering Process Model, version 1.0
-[2]Enterprise Architecture and Knowledge Perspectives on Continuous Requirements Engineering 
+
+[2]Enterprise Architecture and Knowledge Perspectives on Continuous Requirements Engineering
+
 # Seminar 2
 
 ###Qeustions
 ####•Read up on the Boston Matrix(add reference)
 
-cr http://www.oxlearn.com/arg_Marketing-Resources-The-Boston-Matrix_11_35
+reference 
+
+http://www.oxlearn.com/arg_Marketing-Resources-The-Boston-Matrix_11_35
 
 ####•How do you connect your requirements to your architecture?（wrong answer）
 
