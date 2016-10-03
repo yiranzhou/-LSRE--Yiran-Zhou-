@@ -54,13 +54,17 @@ Release planning, the process of deciding which features and quality level shoul
 
 - two types of dependency constraints: a coupling relation called C and a precedence relation called P
 
-- T resource types and capacities Cap(k, t) relate to all releases k = 1 … K and to all resource types t = 1 … T. Every feature f(i) requires an amount r(i, t) of resources of type t. Thus, each release plan x assigning feature f(i) to release k expressed as x(i) = k must satisfy ∑(x(i))=k r(i, t) <= Cap(k, t) (1) for all releases k and resource types t.
+- T resource types and capacities Cap(k, t) relate to all releases k = 1 … K and to all resource types t = 1 … T. Every feature f(i) requires an amount r(i, t) of resources of type t. Thus, each release plan x assigning feature f(i) to release k expressed as x(i) = k must satisfy ∑x(i)=k r(i, t) <= Cap(k, t) (1) for all releases k and resource types t.
 
 - a set of stakeholder S = {S(1), …, S(q)}
 
-- a relative importance of λ(p)∈{1, …, 9} to each stakeholder p
+- a relative importance of λ(p)∈{1, …, 9} to each stakeholder p For the value proposition, each stakeholder is asked to assign an ordinal value, value(p, i) ∈ {1, 2, …, 9}, to each feature based on its assumed (relative) impact on the product’s overall value. So, value(p, i) = 1 and value(p, i) = 9 represent the lowest and highest values, respectively. Each stakeholder has nine votes for each feature,which we’ll distribute among three possible options: assign to release 1, assign to release 2, or postpone. An urgency vote urgency(p, i) = (9, 0, 0) indicates that stakeholder S(p) has assigned the highest possible urgency to feature f(i) and thus wants to include it in the first release.
 
-For the value proposition, each stakeholder is asked to assign an ordinal value, value(p, i) ∈ {1, 2, …, 9}, to each feature based on its assumed (relative) impact on the product’s overall value. So, value(p, i) = 1 and value(p, i) = 9 represent the lowest and highest values, respectively. Each stakeholder has nine votes for each feature,which we’ll distribute among three possible options: assign to release 1, assign to release 2, or postpone.
+- An additive function exists in which the total objective function value is determined as the sum of the weighted average satisfaction WAS(i, k) of stakeholder priorities for all features f(i) when assigned to release k.
+
+- function F(x) among all release plans x subject to the satisfaction of resource constraints (described in equation 1) and dependency constraints (just given). F(x) is given as F(x) = ∑k = 1…K ∑i: x(i) = k WAS(i, k) (2). WAS(i,k) = ζ(k)[∑p=1…q λ(p)·value(p,i)·urgency(p, i, k)] (3)
+
+-This paper propovide a sophisticated methodology let the organization easily plan the release plans and consider the impact of varying problem parameters.
 
 ####•Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
 
