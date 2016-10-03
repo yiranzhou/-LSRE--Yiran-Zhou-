@@ -300,70 +300,72 @@ continuous integration process.
 
 5.Result
 
-1)Continuous integration challenges:a)Mindset:
+1) Continuous integration challenges:
+
+a) Mindset:
 - scepticism. Not everyone in developemnt team are postive about continuous intergration, but once they get the rewards of continuous integration, they will overcome the issues that they think might not good in continuous integration.
 - change old habits. The continuous integration challenged the old habits that the developers are used to working.
 - exposing work intention. Continuous integration emphasises early and frequent integrations.
 
-b)Tool & Infrastructure:
+b) Tool & Infrastructure:
 - code review. Tools for reviewing integrated code has been reported to lack the nessacery features.
 - maturity.These tools are not so efficient for a continuous integration process.
 - regression feedback time. The feedback loops from autumated regression tests are too long.
 - integration queue. Due to the SGSN-MME product(many people working at same time but in different place), it is difficult to manage the integration queue.
 - Test automation. The support of test automation is lacking in the current infrastructure.
 
-c)Testing:
+c) Testing:
 - untable test case. Test cases at the studied company are sometimes unstable and may fail regardless of the code.
 - too many manual tests. There are a lot of manual tests, which resulted in gaps in current testing frameworks.
 - implementation and test dependencies. A problem related to writing test cases i syncing them with the code they are supposed to test.
 - preserving quality. There are not so much docus on quality and a lot of developers working on this product which means guranteeing the qulity of continuous integration becomes challenging.
 
-d)Domain applicability:
+d) Domain applicability:
 - process suitability. While taking a step towards more frequent integrations using continuous integration, the studied company has been experiencing problems using the same desired frequency throughout all parts of product.
 - procudt complexity. SGSN-MME is a mature product and has been developed for over 15 years with around 30 teams.
 
-e)Understanding:
+e) Understanding:
 - unclear goals. Setting up clear goals for the teams migrating towards continuous integration is currently an impediment for the SSN-MME program.
 - increased pressure. The initiative to adopt continuous integration has resulted in increased pressure on the teams according to some interviewees.
 - different interpretations. According to a line manager, most managers have their own understanding of what continuous integration i and should be.
 - Bottom-up approach. The findings of this study indicate that continuous integration is being implemented with a bottom up approach as stated by a CI driver.
 
-f)Code dependecies:
+f) Code dependecies:
 - integration coordination. The task of coordinating integration dependencies has been more difficult since the adoption of continuous integration.
 - Dead code. Integrating partial code for a feature is currently an issue for the studied company. Tests will fail until all parts are in place.
 
-g)Software requirement:
+g) Software requirement:
 - requirement breakdown. The increased integration frequency has put further pressure on breaking down requiremnet.
 - deliver feature growth. It is difficult to know whether small changes that do not directly add value to a frature are worth integrating.
 
-2)Software Requirement Breakdown Challenges
+2) Software Requirement Breakdown Challenges
 
-a)Requirement abstraction:
+a) Requirement abstraction:
 - ambiguous requirements. The studied company faced ambiguous requirements.
 - architectural design. It is a challenge that keep the architecture in mind when using continuous integration.
 - product complexity. The SGSN-MME product has been identified as a challenge when breaking down requirements.
 - large requirements. Several interviwees report on requirements being too large.
 - low level requirements. One developer identifoed as a challenge the breakdown of low level requirements to allow higher integration frequencies.
 
-b)Alignment of requirements and tests: implementation and test dependencies. Aligning the implementation of requirements and their tests is considered a problem by many developers.
+b) Alignment of requirements and tests: implementation and test dependencies. Aligning the implementation of requirements and their tests is considered a problem by many developers.
 
-c)Custormer value:
+c) Custormer value:
 - access to customer.Sin the inroduction of continuous integration, collaborating with customer in regards to the requirements has been difficult according to some interviewees.
 - delivering customer value. The studied company has introduced an addtional requirement abstraction level, more specifically "working scenarios". This allows requirements to be broken down into small pieces. But these working scenarios do not necessarily contain complete customer value.
 
-d)Guiding princle:
+d) Guiding princle:
 - lack of guidance. The teams decide how to  break down software requirements instead of guidance.
 - no unified process. Teams were given a lot of freedom, and they can set their own pace of integration and how requirements breakdown.
 - ongoing esponsibility shift. Process and responsibility of breaking down software requirements is undergoing a total overhual.
 - unfit process. The process used by teams is not mature enough and could be improved.
 
-3)Software requirements breakdown's influence on continuous integration
+3) Software requirements breakdown's influence on continuous integration
 
-a)The necessity of software requirements breakdown:
+a) The necessity of software requirements breakdown:
 - maintenance versus feature development. Teams that are developing new features have been facing more difficulties while transitioning to continuous integration compared to teams that are mainly maintaining existing code and fixing bugs.
 - Big impact requirements.As mentioned above, teams that are mainly involved in product feature development have more difficulties adopting continuous integration due to the issues in breaking down requirements.
 
-b)Implications of software requirements breakdown:
+b) Implications of software requirements breakdown:
 - Implementation dependencies.Finding the right balance between small enough requirement units and high integration frequency without compromising the implementation unity is reported to be an issue at the studied company.
 - Test dependencies.While breaking down software requirements into smaller units, it was found that test dependencies played an important role. These smaller tasks need to be individually testable if they are to be integrated separately.
 - On Demand Software Delivery.Ericsson’s vision in the next couple of years is to implement On Demand Software Delivery (ODSD). While the connection of continuous integration to ODSD is not clear. The findings of this study show that continuous integration has at least a few implications on transitioning to ODSD.
