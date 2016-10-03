@@ -46,6 +46,22 @@ Release planning, the process of deciding which features and quality level shoul
 
 -This approach formulates a series of problems, like Desicion variables, dependencies between feature, resource constraints, stakeholders, feature prioritization, objective function, as variants of the original formal model. This paper provides a hybrid approach based on integer linear programming.The solution algorithms the authors have adopted are based on solving a sequence of linear programming problems without integer conditions. Their approach formulates a series of problems as variants of the original formal model. In this way, art and science complement each other. Based on the art-based method to deal with the complexity of the number of factors that increase the difficulties and problems RP. Science-based method to deal with the complexity of the better, but you can not use the same analysis capabilities as human problems policymakers assessment.The authors improve their approach to perform a variety of tasks, modeling, exploration, and consolidation. After formalizing the problem, the decision maker can perform what-if scenarios and can base replanning on the results.
 
+-The formulation:
+
+- features F = {f(1), f(2), …, f(n)}.
+
+- decision variables {x(1), x(2), …, x(n)}, where x(i) = k if we assign requirement i to release option k ∈{1, 2, … K}; otherwise, x(i) = 0.
+
+- two types of dependency constraints: a coupling relation called C and a precedence relation called P
+
+- T resource types and capacities Cap(k, t) relate to all releases k = 1 … K and to all resource types t = 1 … T. Every feature f(i) requires an amount r(i, t) of resources of type t. Thus, each release plan x assigning feature f(i) to release k expressed as x(i) = k must satisfy ∑(x(i))=k r(i, t) <= Cap(k, t) (1) for all releases k and resource types t.
+
+- a set of stakeholder S = {S(1), …, S(q)}
+
+- a relative importance of λ(p)∈{1, …, 9} to each stakeholder p
+
+For the value proposition, each stakeholder is asked to assign an ordinal value, value(p, i) ∈ {1, 2, …, 9}, to each feature based on its assumed (relative) impact on the product’s overall value. So, value(p, i) = 1 and value(p, i) = 9 represent the lowest and highest values, respectively. Each stakeholder has nine votes for each feature,which we’ll distribute among three possible options: assign to release 1, assign to release 2, or postpone.
+
 ####•Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
 
 -QUPER model is developed for supporting release planning and roadmapping of quality requirements.This paper presents one case of QUPER tailoring, implementation, and most important evaluation, conducted at Sony Ericsson. The QUPER model was developed in three main steps: 1. Problem definition help understand different requirement decision scenarios; 2.Model definition based on first step and including a benefit view, a cost view, a roadmap view, and the concepts of benefit breakpoints and cost barriers; 3. Experts are ivolved in Model validation. And we can observe that quality is continuous and non-linear from these views.
