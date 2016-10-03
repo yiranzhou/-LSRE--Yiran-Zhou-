@@ -38,7 +38,7 @@ release, when it should be released, and at what cost[3].
 Release planning, the process of deciding which features and quality level should be included in which release [3], which is both a cognitively and computationally difficult problem, is classified as a wicked problem since different kinds of uncertainty make it difficult to formulate and solve the problem. Moreover, the objective of release planning is to ’maximize the benefit’; however, the difficulty lies in how to give a measurable definition of ’benefit’[4].
 
 ###Articles
-####•The Art and Science of Software Release Planning  未完 
+####•The Art and Science of Software Release Planning
 
 -The art of RP approach relies on human intuition, communication, and capabilities to negotiate between conflicting objectives and constraints. The science of RP approach formalizes the problem and applies computational algorithms to generate best solutions. The art of release planning addresses RP’s implicit and tacit aspects. The science of RP is primarily based on the belief that we can (at least approximately) formalize the problem, and that solving this formalized problem will produce meaningful results. 
 
@@ -49,19 +49,12 @@ Release planning, the process of deciding which features and quality level shoul
 -The formulation:
 
 - features F = {f(1), f(2), …, f(n)}.
-
 - decision variables {x(1), x(2), …, x(n)}, where x(i) = k if we assign requirement i to release option k ∈{1, 2, … K}; otherwise, x(i) = 0.
-
 - two types of dependency constraints: a coupling relation called C and a precedence relation called P
-
 - T resource types and capacities Cap(k, t) relate to all releases k = 1 … K and to all resource types t = 1 … T. Every feature f(i) requires an amount r(i, t) of resources of type t. Thus, each release plan x assigning feature f(i) to release k expressed as x(i) = k must satisfy ∑x(i)=k r(i, t) <= Cap(k, t) (1) for all releases k and resource types t.
-
 - a set of stakeholder S = {S(1), …, S(q)}
-
 - a relative importance of λ(p)∈{1, …, 9} to each stakeholder p For the value proposition, each stakeholder is asked to assign an ordinal value, value(p, i) ∈ {1, 2, …, 9}, to each feature based on its assumed (relative) impact on the product’s overall value. So, value(p, i) = 1 and value(p, i) = 9 represent the lowest and highest values, respectively. Each stakeholder has nine votes for each feature,which we’ll distribute among three possible options: assign to release 1, assign to release 2, or postpone. An urgency vote urgency(p, i) = (9, 0, 0) indicates that stakeholder S(p) has assigned the highest possible urgency to feature f(i) and thus wants to include it in the first release.
-
 - An additive function exists in which the total objective function value is determined as the sum of the weighted average satisfaction WAS(i, k) of stakeholder priorities for all features f(i) when assigned to release k.
-
 - function F(x) among all release plans x subject to the satisfaction of resource constraints (described in equation 1) and dependency constraints (just given). F(x) is given as F(x) = ∑k = 1…K ∑i: x(i) = k WAS(i, k) (2). WAS(i,k) = ζ(k)[∑p=1…q λ(p)·value(p,i)·urgency(p, i, k)] (3)
 
 -This paper propovide a sophisticated methodology let the organization easily plan the release plans and consider the impact of varying problem parameters.
@@ -122,7 +115,7 @@ Seminar 0 disscused what requirement is and how to work with them. The papers of
 - Go was created and then open sourced by ThoughtWorks. As with other advanced CI servers, Go lets you distribute your builds across different systems and monitor them all in one place.
 - Built on Ruby, Integrity needs Ruby 1.8.7 or newer, RubyGems 1.3.5 or newer, and Git 1.6 or newer. 
 
-cr: https://opensource.com/business/15/7/six-continuous-integration-tools
+reference: https://opensource.com/business/15/7/six-continuous-integration-tools
 
 ####•what is technical product management?
 
@@ -186,6 +179,7 @@ It is worth noting that a process change that is highly successful at the requir
 
 ###Reflections to the seminar discussion questions.
 
+Question of Seminar 0 has explaned large scale requirements engineering.To some extent, market-driven requirements engineering is often equated to large scale requirements engineering. According to [1],there exists the market-driven approach to requirements engineering (market-driven requirements engineering or MDRE). This is the case applicable to software organizations that develop software to a market, which can be a combination of a number of known customers or, on another extreme, a mass market where customers cannot be clearly pinpointed. 
 • Large Scale RE
 – What is large scale requirements engineering?
 – What is market-driven requirements engineering?
@@ -202,7 +196,7 @@ It is worth noting that a process change that is highly successful at the requir
 – How often do you release?
 – How do we do release planning?
 
-
+[1]Market-Driven Requirements Engineering Process Model, version 1.0
 # Seminar 2
 
 ###Qeustions
