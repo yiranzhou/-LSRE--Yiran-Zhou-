@@ -376,3 +376,6 @@ b) Implications of software requirements breakdown:
 This study set out to identify the challenges of continuous integration and requirements break down and how the latter influences the 
 implementation of a continuous integration process.
 
+###Reflections to the seminar discussion questions.
+
+
