@@ -258,6 +258,18 @@ what about the requirements?
 
 # Seminar 3
 ###Reflections to the seminar discussion questions.
+
+• Into the Projects
+– How do you transform epics into reasonable chunks of work?
+– How do you distribute requirements between (more than) several
+teams?
+– How do you coordinate the development?
+• Requirements and Architecture Decisions
+– How do you use requirements to take decisions on construction?
+– How do you find and deal with legacy requirements when designing
+for a new requirement?
+
+
 # Seminar 4
 ###Qeustions
 ####- tools for requirements management:
