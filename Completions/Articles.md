@@ -397,4 +397,13 @@ implementation of a continuous integration process.
 
 ###Reflections to the seminar discussion questions.
 
+Horizontal scaling: The Life of a Requirement
+– What scope changes is likely to happen (Wnuk)?
+– How do you support a released requirement?
+– How do you deal with customer adaptations?
+• Quality Requirements
+– How do quality requirements impact other requirements?
+– How do quality requirements evolve over time?
+– How do you deal with differing quality requirements in a product line
+setting?
 
