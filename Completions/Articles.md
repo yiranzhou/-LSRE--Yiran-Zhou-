@@ -207,6 +207,10 @@ Architectural design is the point at which the requirements process overlaps wit
 ####•Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering/Wnuk et al.
 
 -Introduction 
+
+continuously shifting market needs [1] with a large number of new and changing requirements [28] caused both by a capricious market situation [19] and by evolving technologies
+
+
 challenge在requirement engineering 里面，scope，overscoping。本篇论文主要介绍了eight main causes of overscoping complemented
 by a number of root causes, and nine main effects of overscoping。
 
