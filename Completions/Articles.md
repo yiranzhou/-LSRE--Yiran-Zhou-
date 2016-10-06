@@ -207,22 +207,24 @@ Architectural design is the point at which the requirements process overlaps wit
 ####•Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering/Wnuk et al.
 
 -Introduction 
+
 There are many challengs in LSRE, such as continuously shifting market needs with a large number of new and changing requirements caused both by a capricious market situation and by evolving technologies, project scope at a large software company changed significantly throughout the entire project life cycle and the causes and effects of overscoping even though requirements engineering (RE) decision making is an acknowledged challenge. The main goal of this paper is to increase the understanding of factors involved in overscoping and thereby highlight this risk and take a step towards addressing and avoiding overscoping of projects. The contribution of the presented work includes eight main causes of overscoping complemented by a number of root causes, and nine main effects of overscoping.
 
 -Related work
-This part of this paper introduce some risk in requirements engineering, unrealistic schedules and budgets, overloading projects with scope, scope that is extended beyond the formal requirements by the developers, i.e. scope creep. This paper also mentions that There are two characteristics of MDRE which further aggravates RE decision making, namely a lack of actual customers with which to negotiate requirements and a continuous inflow of requirements from multiple channels. Scope management is considered as one of the core functions of software release planning and a key activity for achieving economic benefits in product line development 
 
-
-risk在requirement engineering里面，并且还有scope management。还有scope在agile。
-
+This part of this paper introduce some risk in requirements engineering, unrealistic schedules and budgets, overloading projects with scope, scope that is extended beyond the formal requirements by the developers, i.e. scope creep. This paper also mentions that there are two characteristics of MDRE which further aggravates RE decision making, namely a lack of actual customers with which to negotiate requirements and a continuous inflow of requirements from multiple channels. Scope management is considered as one of the core functions of software release planning and a key activity for achieving economic benefits in product line development 
 
 -Case
-case company是一个。。。公司。
 
-The case study has been conducted at a large marketdriven software development company that has started to shift towards a more agile way of working. 
+The case study has been conducted at a large marketdriven software development company that has started to shift towards a more agile way of working. The case company has around 5000 employees and develops embedded systems for a global market using a product line approach. Several organizational units within the company are involved in the development. the requirements unit that manages the scope and the requirements; the software unit that develops the software for the platform; the product unit that develops products based on the platform releases; and usability design unit responsible for designing the user interface.The company used a stage-gate model. There were milestones (MS) for controlling and monitoring the project progress. In particular, there were four milestones for the requirements management and design (MS1–MS4) and three milestones for the implementation and maintenance (MS5–MS7). For each of these milestones,
+the project scope was updated and baselined. The new development process has been influenced by ideas and principles from the agile development processes eXtreme programming (XP) and Scrum. The agile RE practices are:One continuous scope and release-planning flow (P1); Cross-functional development teams (P2); Gradual and iterative detailing of requirements (P3); Integrated requirements engineering (P4);and User stories and acceptance criteria (P5).
 
 -Research method
-Firgure 1. 3 phases
+
+- Previous research: the authors define the "RQ1: What causes overscoping?" and "RQ2: What are the effects?" for phase-based process, and "RQ3: How may agile RE practices impact the causes & effects?" for agile development process.
+- Case study:
+
+RESEARCH QUESTIONS on OVERSCOPING
 
 -Interview results
 1.causes of overscoping,还有每一个cause 的分析 root cause analysis
