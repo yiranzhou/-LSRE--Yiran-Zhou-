@@ -207,18 +207,19 @@ Architectural design is the point at which the requirements process overlaps wit
 ####•Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering/Wnuk et al.
 
 -Introduction 
+There are many challengs in LSRE, such as continuously shifting market needs with a large number of new and changing requirements caused both by a capricious market situation and by evolving technologies, project scope at a large software company changed significantly throughout the entire project life cycle and the causes and effects of overscoping even though requirements engineering (RE) decision making is an acknowledged challenge. The main goal of this paper is to increase the understanding of factors involved in overscoping and thereby highlight this risk and take a step towards addressing and avoiding overscoping of projects. The contribution of the presented work includes eight main causes of overscoping complemented by a number of root causes, and nine main effects of overscoping.
 
-continuously shifting market needs [1] with a large number of new and changing requirements [28] caused both by a capricious market situation [19] and by evolving technologies
+-Related work
+This part of this paper introduce some risk in requirements engineering, unrealistic schedules and budgets, overloading projects with scope, scope that is extended beyond the formal requirements by the developers, i.e. scope creep. This paper also mentions that There are two characteristics of MDRE which further aggravates RE decision making, namely a lack of actual customers with which to negotiate requirements and a continuous inflow of requirements from multiple channels. Scope management is considered as one of the core functions of software release planning and a key activity for achieving economic benefits in product line development 
 
 
-challenge在requirement engineering 里面，scope，overscoping。本篇论文主要介绍了eight main causes of overscoping complemented
-by a number of root causes, and nine main effects of overscoping。
-
--Related work,
 risk在requirement engineering里面，并且还有scope management。还有scope在agile。
+
 
 -Case
 case company是一个。。。公司。
+
+The case study has been conducted at a large marketdriven software development company that has started to shift towards a more agile way of working. 
 
 -Research method
 Firgure 1. 3 phases
