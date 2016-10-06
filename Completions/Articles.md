@@ -226,7 +226,10 @@ the project scope was updated and baselined. The new development process has bee
 
 -Interview results
 
-1.causes of overscoping,还有每一个cause 的分析 root cause analysis
+The mark of each causes 
+1.Causes of overscoping.All interviewees had Experienced or Agreed to overscoping as a challenge, and a majority had Experienced or Agreed to causes 1–3. No interviewees Disagreed to any of the causes, though causes 4 and 5 both had less than a majority of Experienced or Agreed interviewees. Causes 4–5 were Not mentioned by all, while cause 6, which was derived from 5 of the interviewees, was Not mentioned by the others.(In addition, five of the eight interviewees were found to describe a sixth main cause for overscoping, namely C6 unclear vision of overall goal.)
+
+还有每一个cause 的分析 root cause analysis
 2. effects of overscoping
 3.Impact of agile RE practices
 -Validation，可以一笔带过
