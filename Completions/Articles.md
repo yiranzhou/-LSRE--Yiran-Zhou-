@@ -222,11 +222,10 @@ the project scope was updated and baselined. The new development process has bee
 -Research method
 
 - Previous research: the authors define the "RQ1: What causes overscoping?" and "RQ2: What are the effects?" for phase-based process, and "RQ3: How may agile RE practices impact the causes & effects?" for agile development process.
-- Case study:
-
-RESEARCH QUESTIONS on OVERSCOPING
+- Case study: 1)Phase one: pre-study and hypothesis generation: the experience of one of the authors (who has worked at the case company) was used to identify possible (assumed) causes and effect of overscoping. 5 assumed causes: continuous requirements inflow via multiple channels (C1); no overview of software resource availability (C2); low DT involvement in early phases (C3); requirements not agreed with DT (C4); and detailed requirements specification is produced upfront (C5). 2)Phase two: an interview study at the case company: semi-structured interviews with a high degree of open discussion between the interviewer and the interviewee were held. The hypothesis provided a framework that helped to discuss, explore and enrich the understanding of this complex phenomenon. 9 practitioners with roles and experiences throughout life cycle. 3)Phase three: validation of results via questionnaire. The validity of the results from 6 (other) practitioners.
 
 -Interview results
+
 1.causes of overscoping,还有每一个cause 的分析 root cause analysis
 2. effects of overscoping
 3.Impact of agile RE practices
