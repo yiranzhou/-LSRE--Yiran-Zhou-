@@ -232,11 +232,22 @@ the project scope was updated and baselined. The new development process has bee
 
 3. Effects of overscoping. The following are the six main effects of overscoping: many requirement changes after the project scope is set (E1);software quality(E2) was negatively affected by overscoping both due to the high workload and due to the many requirement changes; resulting in delayed deliveries(E3); customer expectations are not always met (E4); communication gaps (E5) between the requirements and software units, development teams and software project managers, the software and the product unit; challenge to keep the SRS updated (E6).     
 
-4. Impact of agile RE practices
--Validation，可以一笔带过
+4. Impact of agile RE practices. After introducing the agile RE practices, some overscoping is still experienced, it is a more manageable challenge than with the previous phase-based process. The following practices were mentioned by the interviewees as impacting some of the causes and/or root causes of overscoping:  one continuous scope & release-planning flow (P1); cross-functional development teams (P2); and, gradual and iterative detailing of requirements (P3).
 
 -Interpretation and discussion
--Conclusions and further work
+
+1. Causes of overscoping: These causes mainly originate from the nature of the MDRE context in which the company operates, but are also due to issues concerning organizational culture and structures, and communication.  In contrast, practitioners with experience of good cooperation and well-communicating teams described overscoping as a less serious and more manageable challenge. 
+2. The effects of overscoping: The results indicate that overscoping may lead to a number of effects (or consequences), many of which are judged to be serious and potentially very costly for the company. Several of the identified effects may be in line with held beliefs about what overloading a project with too much work may lead to. The aim of this study is to investigate if such beliefs can be supported by empirical evidence or not, and if more surprising phenomena arise in relation to a specific, real-world overscoping situation. 
+3. How agile RE practices may impact overscoping: Our study identifies that three of the agile RE practices being introduced at the case company may impact several of the causes and root causes of overscoping. In addition, three more practices were suggested by questionnaire respondents as addressing overscoping. The details of how the identified agile RE practices may impact overscoping (mentioned root causes can be seen in Fig. 2) are discussed below. We interpret the results as an indication that overscoping is still a challenge for the case company, though more manageable with the (partly implemented) agile RE practices. Further investigations are needed to fully understand the situation in the agile context. Threats to validity and limitations
+
+4. Threats to validity and limitations: As for every study there are limitations that should be discussed and addressed. These threats to validity and steps taken to mitigate them are reported here based on guidelines provided by Robson for flexible design studies [60]. Another important aspect for the quality of a flexible design research is the investigator [60], and for this study all researchers involved have previous experience in conducting empirical research, both interview studies and surveys.
+
+
+-Conclusions
+
+Decision making is at the heart of requirements engineering (RE) [5] and within market-driven requirements engineering  (MDRE) release planning is one of the most important and challenging tasks.Our study provides a detailed picture of factors involved in overscoping and confirms that scoping is a challenging part of requirements engineering and one of the risks in project management.overscoping is mainly caused by the fast-moving market-driven domain in which the case company operates, and how this inflow of requirements is
+managed. Delays and quality problems are expensive, not just considering the cost of fixing the quality issues, but also in loss of market shares and brand value. Development projects need to respond quickly to changes, while at the same time handling the complexity of developing software in a large-scale setting. despite introducing agile RE practices, overscoping is still an issue for the case company, although more manageable. agile RE practices also pose challenges [57], e.g. communication between teams [36,53], difficulty in cost estimation [57]. 
+
 
 
 ####•An industrail Survey of Requirements Interdependencies in Software Product Release Planning/Carlshamre et al.(加结论)
