@@ -226,12 +226,13 @@ the project scope was updated and baselined. The new development process has bee
 
 -Interview results
 
-The mark of each causes 
-1.Causes of overscoping.All interviewees had Experienced or Agreed to overscoping as a challenge, and a majority had Experienced or Agreed to causes 1–3. No interviewees Disagreed to any of the causes, though causes 4 and 5 both had less than a majority of Experienced or Agreed interviewees. Causes 4–5 were Not mentioned by all, while cause 6, which was derived from 5 of the interviewees, was Not mentioned by the others.(In addition, five of the eight interviewees were found to describe a sixth main cause for overscoping, namely C6 unclear vision of overall goal.)
+1. Causes of overscoping.All interviewees had Experienced or Agreed to overscoping as a challenge, and a majority had Experienced or Agreed to causes 1–3. No interviewees Disagreed to any of the causes, though causes 4 and 5 both had less than a majority of Experienced or Agreed interviewees. Causes 4–5 were Not mentioned by all, while cause 6, which was derived from 5 of the interviewees, was Not mentioned by the others.(In addition, five of the eight interviewees were found to describe a sixth main cause for overscoping, namely C6 unclear vision of overall goal.)
 
-2. Root cause analysis (RQ1)
-3. effects of overscoping
-4.Impact of agile RE practices
+2. Root cause analysis (RQ1). Root cause of C1: requirements produced by defining many different product variants in the product line; many late new market requirements and changes incurred by the long project lead times; and communication gaps. Root cause of C2: The lack of overview of available software development resources was believed to be a consequence of communication gaps within the software unit and between the develipment teams. Root cause of C3: software resources were rarely available in early project phases; weak and incorrect cost estimations; low development capacity of the software unit; gaps in the communication between the requirements unit and the software unit. Root cause of C4: Low development team involvement in the early phases; communication gaps; additionally, unclear, ambiguous requirements, low understanding of scope selection. Root cause of C5:The phase-based process defined that a requirements specification should be produced by MS2, therefore no further root causes have been identified for this cause. Root of caucse C6: the lack of clear business strategy; scope from a pure technology standpoint; a weak and un-unified business priority; several communication gaps.
+
+3. Effects of overscoping. 
+
+4. Impact of agile RE practices
 -Validation，可以一笔带过
 
 -Interpretation and discussion
