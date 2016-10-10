@@ -106,22 +106,28 @@ Seminar 0 disscused what requirement is and how to work with them. The papers of
 # Seminar 1
 
 ###Qeustions
-####•what tools are avaliable for Continuous Integration?未完还有一 实践
+####•what tools are avaliable for Continuous Integration?
 
 - Jenkins was created after a falling out between Hudson project contributors and the company that acquired Sun Microsystems.
 - Developed in Python, Buildbot is based on the Twisted framework. It started as an alternative to the Tinderbox project and is now used in Mozilla, Webkit, Chromium, and others.
 - Travis CI is probably one of the easiest CI servers to get started with.
 - Strider is written in Node.JS and JavaScript, and uses MongoDB as a backing store. MongoDB and Node.js are prerequisites for installing Strider.
 - Go was created and then open sourced by ThoughtWorks. As with other advanced CI servers, Go lets you distribute your builds across different systems and monitor them all in one place.
-- Built on Ruby, Integrity needs Ruby 1.8.7 or newer, RubyGems 1.3.5 or newer, and Git 1.6 or newer. 
+- Built on Ruby, Integrity needs Ruby 1.8.7 or newer, RubyGems 1.3.5 or newer, and Git 1.6 or newer.[1] 
 
-reference: https://opensource.com/business/15/7/six-continuous-integration-tools
+Reference
+
+[1]P. 29 J. 2015 N. T. 59up, “6 top continuous integration tools,” Opensource.com. [Online]. Available: https://opensource.com/business/15/7/six-continuous-integration-tools. [Accessed: 10-Oct-2016].
 
 ####•what is technical product management?
 
-Product management is the organizational structure within a business that manages the development, marketing and sale of a product or set of products throughout the product life cycle. It encompasses the broad set of activities required to get the product to market and to support it thereafter.（http://www.businessdictionary.com/definition/product-management.html）In my opinion, technical product management should be relative to a concept of marketing management. It consider the software development process from the perspective of technical. But Market-Driven Requirements Engineering (MDRE) handles the continuous flow of requirements in an engineering effort, and is not limited to a development instance but part of technical product management as a whole. The market-driven environment generates large amounts of requirements from multiple sources, internal and external, threatening to overload the technical management of products.[1]
+Product management is the organizational structure within a business that manages the development, marketing and sale of a product or set of products throughout the product life cycle. It encompasses the broad set of activities required to get the product to market and to support it thereafter.[1]In my opinion, technical product management should be relative to a concept of marketing management. It consider the software development process from the perspective of technical. But Market-Driven Requirements Engineering (MDRE) handles the continuous flow of requirements in an engineering effort, and is not limited to a development instance but part of technical product management as a whole. The market-driven environment generates large amounts of requirements from multiple sources, internal and external, threatening to overload the technical management of products.[2]
 
-[1]REQUIREMENTS ENGINEERING SUPPORTING TECHNICAL PRODUCT MANAGEMENT
+Reference
+
+[1]“What is product management? definition and meaning,” BusinessDictionary.com. [Online]. Available: http://www.businessdictionary.com/definition/product-management.html. [Accessed: 10-Oct-2016].
+
+[2]T. Gorschek, “Requirements engineering supporting technical product management,” 2006.
 
 ####•What is roadmapping? How can you do it large scale?
 
@@ -133,12 +139,14 @@ Roadmapping is a powerful technique for planning an organisation’s technologic
 - Identifying and analyzing Critical Success Factors (CSF)
 - Identify bases of competitive advantage[3]
 
+Reference
 
-[1]http://www.ifm.eng.cam.ac.uk/roadmapping/
+[1]" Roadmapping for strategy and innovation, " ifm.eng.cam.ac.uk. [Online]. Available: http://www.ifm.eng.cam.ac.uk/roadmapping/ [Accessed: 10-Oct-2016].
 
-[2]Roadmapping Integrates Business and Technology
+[2]P. Groenveld, “Roadmapping integrates business and technology,” Research-Technology Management, vol. 40, no. 5, pp. 48–55, 1997.
 
-[3]Market-Driven Requirements Engineering Process Model, version 1.0
+[3]A. Gomes–andrigo, A. Pettersson, and T. Gorschek–tony, “Market-Driven Requirements Engineering Process Model, version 1.0.”
+
 ###Articles
 ####•A Cost–Value Approach for Prioritizing Requirements/Karlsson & Ryan
 
@@ -181,9 +189,11 @@ It is worth noting that a process change that is highly successful at the requir
 
 Question of Seminar 0 has explained large scale requirements engineering. To some extent, market-driven requirements engineering is often equated to large scale requirements engineering. I did not find clear definition of MDRE and continuous requirements engineering from the papers of this seminar. According to [1], the market-driven approach to requirements engineering (market-driven requirements engineering) is the case applicable to software organizations that develop software to a market, which can be a combination of a number of known customers or, on another extreme, a mass market where customers cannot be clearly pinpointed. When looking at the term "continuous requirements engineering", there is a limited number of sources using this term in different collections of scientific papers[2]. Requirements engineering has to become a continuous activity instead of being just a part of temporary information systems projects in Continuous requirement engineering. In my opinion, this is also a software development trend that all development activities are continuous, in order to adapt to the market. There are many unique challenges in these three requirement enginering. For instance, the dependence of each requirement in LSRE is complexity, the changes of market in MDRE and  limited possibilities to see the relationship between information circulation in business processes and information life cycle in information storage systems[2]. To deal with LSRE, MDRE and continuous RE, the most important thing, I think, is to keep development process flexible, in other words, as far as possible to adapt to changes of requirements. The release planning works for deciding which requirements really matter based on many constraints, such time and budget. The most important goal of software development is to meet the needs of stakehodler, so do release planning. Accordint to Karlsson & Ryan, they use THE ANALYTIC HIERARCHY PROCESS to prioritize the requirements so that they can decide the releas planning of requirements. But we still need to identify their relative value by ourselves. The frequency of releasing should be different, depending on the different types of software. By the way, in my opinion, the regular updates (maybe not release some new requirements) is helpful for increasing user activity. Finally, The core of release planning is considering the cost and value of each requirements, in other words, balancing the cost and value when deciding whether a requirements should be released.  
 
-[1]Market-Driven Requirements Engineering Process Model, version 1.0
+Reference 
 
-[2]Enterprise Architecture and Knowledge Perspectives on Continuous Requirements Engineering
+[1]A. Gomes–andrigo, A. Pettersson, and T. Gorschek–tony, “Market-Driven Requirements Engineering Process Model, version 1.0.”
+
+[2]M. Kirikova, “Enterprise Architecture and Knowledge Perspectives on Continuous Requirements Engineering.,” in REFSQ Workshops, 2015, pp. 44–51.
 
 # Seminar 2
 
@@ -192,13 +202,12 @@ Question of Seminar 0 has explained large scale requirements engineering. To som
 
 reference 
 
-http://www.oxlearn.com/arg_Marketing-Resources-The-Boston-Matrix_11_35
+"MARKETING RESOURCES Marketing Resources " [Online]. Available: http://www.oxlearn.com/arg_Marketing-Resources-The-Boston-Matrix_11_35 [Accessed: 10-Oct-2016].
 
 ####•How do you connect your requirements to your architecture?（wrong answer）
 
-Architectural design is the point at which the requirements process overlaps with software or systems design and illustrates how impossible it is to cleanly decouple the two tasks.In many cases, the software engineer acts as software architect because the process of analyzing and elaborating the requirements demands that the components that will be responsible for satisfying the requirements be identified. This is requirements allocationthe assignment, to components, of the responsibility for satisfying requirements.[1]
+Architectural design is the point at which the requirements process overlaps with software or systems design and illustrates how impossible it is to cleanly decouple the two tasks.In many cases, the software engineer acts as software architect because the process of analyzing and elaborating the requirements demands that the components that will be responsible for satisfying the requirements be identified. This is requirements allocationthe assignment, to components, of the responsibility for satisfying requirements.
 
-[1]http://www.computer.org/portal/web/swebok/htmlformat
 
 ####•Can you connect all requirements directly? What do you do if you cannot?（weak answer）
 
@@ -263,26 +272,18 @@ Release planning is a cruial activity in MDRE, in an ideal situation, where ther
 
 The web page http://www.scaledagileframework.com/ shows that all of SAFe in one picture. There are three level in SAFe, Portfolio, Program and Team. The Portfolio is the highest level of concern in SAFe. It vision sketches out epics, strategy and value streams. The  Program level is where development teams and other resources are applied to some important, ongoing development mission. The Program level, where 50-125 people at a time work on a specific program, is well-represented. Below the program level is Team level. The SAFe Team level is part of the Program level. All SAFe teams are part of one Agile Release Train(ART)-the central construct of the program level. Scrum, extreme programming and other agile methods tend to focus, and stop, at the team level. SAFe presents a single, unified view of the work to executives, allowing them to drill down for details or up for trends and analysis. 
 
+Reference
 
 [1]http://www.scaledagileframework.com/ 
+
 [2]http://www.cio.com/article/2936942/enterprise-software/introducing-the-scaled-agile-framework.html
 ###Reflections to the seminar discussion questions.
 
-• Roadmapping
-– What is a roadmap?
-– How does it connect with release planning?
-– How does it connect with architecture runway?
-– How can you roadmap several products at once?
-• Portfolio Management
-– How should we manage several products?
-∗ Technically, we may do it with a product line architecture, but
-what about the requirements?
-∗ One Req. DB? One per product? Overlapping features?
-– How do we deal with overlap between products?
-∗ Cf. Gorschek & Davis
-∗ Collaborative / Competitive
-– How do you distribute resources between your products?
+Roadmapping has been discussed in Seminar 1 questions. There are specialized part for portfolio management in the sacled agile framework. In SAFe, portfolio management represents the highest-level fiduciary and content authority. There, the responsibilities for strategy and investment funding, program management, and governance rest with those business managers and executives who understand the enterprise business trategy, thchnology, and financial constraints and define and implement the portfolio solution strategy[1]. A software product line is a set of software-intensive systems sharing a common, managed set of features that satisfy the specific needs of a particular market segment or mission and that are developed from a common set of core assets in a prescribed way.This also comprises issues like variability across different product lines. Several case studies have shown that introducing product lines organizations improves performance. It contains four main processes: partnering & contracting, market trend identification, product lifecycle management and product line identification[2]. No matter overlap feature or resources allocation should follow the release planning. A development team should deliver the high-priority requirements, and the resources should be distributed to the high-priority requirements.
 
+[1]http://www.scaledagileframework.com/portfolio-level/
+
+[2]I. Van De Weerd, S. Brinkkemper, R. Nieuwenhuis, J. Versendaal, and L. Bijlsma, “Towards a reference framework for software product management,” in 14th IEEE International Requirements Engineering Conference (RE’06), 2006, pp. 319–322.( Paper of Seminar 2)
 
 # Seminar 3
 ###Reflections to the seminar discussion questions.
