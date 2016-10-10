@@ -329,14 +329,14 @@ Trace Cloud, Blueptint,  Agile manager
 2.Related work: 
 - Lean software developemnt infuluences Agile Methodologies, Agile Methodologies employ continous integration, and continuous integration enable continuous deployment. Continuous integration emphasises requirement breakdown.
 - The scope of this paper is continuous integration and requirement breakdown.
-- Software requirement breakdown: 1)Identify direct and indirect stakehoders. The stakehoders decides the requirements. 2)Elicited requirements(funtional and non-functional) need to be prioritized. 3)RAM. Adequate leves of abstractions is essential for breaking down requirements in continuous integration process. 4)These quality and attributes in RAM do not guarantee that requirements have been broken down enough.
+- Software requirement breakdown: 1)Identify direct and indirect stakeholders. The stakeholders decides the requirements. 2)Elicited requirements(funtional and non-functional) need to be prioritized. 3)RAM. Adequate leves of abstractions is essential for breaking down requirements in continuous integration process. 4)These quality and attributes in RAM do not guarantee that requirements have been broken down enough.
 
 3.Research approach
 - Research question: challenges of continuous integration process, requirement breakdown in practice and how requirement influences 
 continuous integration process.
 - Research methodology:case study in Ericsson
 - Data collection: interview(including protocol).
-- Data analysis: collected qualitatve data are  classified and analysed.
+- Data analysis: collected qualitatve data are classified and analysed.
 
 4.Case study
 - Continuous integration:Teams working on SGSN-MME product use multiple branches: work branch-latest local version-pre test build-latest  stable version. Each new code need pass the test of the previous branch. For instance, pre-test bulid branch requires that the code to  pass the tests of latest local version branch.
