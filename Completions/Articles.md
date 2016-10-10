@@ -288,15 +288,11 @@ Roadmapping has been discussed in Seminar 1 questions. There are specialized par
 # Seminar 3
 ###Reflections to the seminar discussion questions.
 
-• Into the Projects
-– How do you transform epics into reasonable chunks of work?
-– How do you distribute requirements between (more than) several
-teams?
-– How do you coordinate the development?
-• Requirements and Architecture Decisions
-– How do you use requirements to take decisions on construction?
-– How do you find and deal with legacy requirements when designing
-for a new requirement?
+If I do not misunderstand 'transform epics into reasonable chunks of work', is this question about work breakdown structure? I did not find relative knowledge about work distribution in Seminar 3 papers. Identifying the main deliverables of a project is the starting point for deriving a work breakdown structure. In the process of breaking down the tasks, one can break them down into different levels of detail. One can detail a high-level task into ten sub-tasks while another can detail the same high-level task into 20 sub-tasks. To distribute requirements between sveral team, I think, should follow some criterion, such as costs, dependencies of feature or requirements. For instance,  high coupling requirements should be allocated to the same development team. 
+
+In the construction and testing stage, the main activity of requirements management is to make sure that work and cost stay within schedule and budget, and that the emerging tool does in fact meet requirements. A main tool used in this stage is prototype construction. 
+
+Acorrding to the paper Obsolete Software Requirements, the pace of incoming requirements, software companies have to identify which requirements has obsolete or outdated in MDRE. The identification, handling, and removal of obsolete requirements is crucial. Fisrtly, we need know what is legacy(obsolete) requirements: an obsolete software requirement is a software requirement (implemented or not) that is no longer required for the current release or future releases and, for various reasons, has little or no business value for the potential customers or users of a software product. The legacy requirements should be pointed out manully. Almost people will keep the legacy requirements and assigned them a status called "obsolete". This might indicate that OSRs are a useful source of information about the history of product for both requirement analyst and software development roles.
 
 
 # Seminar 4
