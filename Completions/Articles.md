@@ -250,10 +250,22 @@ Decision making is at the heart of requirements engineering (RE) and within mark
 
 
 ####•An industrail Survey of Requirements Interdependencies in Software Product Release Planning/Carlshamre et al.(加结论)
+
+Results and analysis: 
+
+The types of interdependencies were expained and discussed, and the types are relevant and intelligible. AND usually emanates from a parent-child relationship and can be traced in a requirements management tool. REQUIRES implies that the direction of the relationship should bt the opposite. TEMPORAL dependencies are rarely interesting, since they usually can be seen as a REQUIRED dependency, or an ICOST dependency. CVALUE dependencies are important from a product planning perspective. CVALUE and ICOST dependencies are sometimes found in combination. OR dependency usually indicates that further investigations are needed. Theoretically, there can be 190 pair-wise interdependencies among 20 requirements. In case 1,2 and 3, the most common type of interdependency was value-related, i.e., either ICOST or CVALUE. In these cases such interdependencies were responsible for between 59% and 90% of all identified relationships. In case4 and 5, the most common type was functionality-related, i.e., either AND or REQUIRES. And we can easily find that product-oriented cases is different from bespoke development. By representing requirements and their interdependencies by objects and arrows in a traditional form it is possible to draw important conclusion associated with release planning. 
+
+Conclusion:
+
+Release planning is a cruial activity in MDRE, in an ideal situation, where there are no inderdependencies between requirements, release planning is a matter of prioritizing the requirements, and then selecting a number of top priority requirements, depending on the available resources and the delivery date at hand. But in the survey of this study, only 20 % requirements are singular, so that we need tools and methods to support identification and management of interdependencies. This study proposed a classification scheme for interdependencies, including functional(AND, REQUIRES) and value-related(ICOST, CVALUE). And the functionality-related interdependencies  are more in bespoke development situation, whereas there are more value-related interdependencies in a product development situation. 
+
 ####•Scaled Agile Framework/Leffinwell
 
-http://www.scaledagileframework.com/ 没有免费文章
+The web page http://www.scaledagileframework.com/ shows that all of SAFe in one picture. There are three level in SAFe, Portfolio, Program and Team. The Portfolio is the highest level of concern in SAFe. It vision sketches out epics, strategy and value streams. The  Program level is where development teams and other resources are applied to some important, ongoing development mission. The Program level, where 50-125 people at a time work on a specific program, is well-represented. Below the program level is Team level. The SAFe Team level is part of the Program level. All SAFe teams are part of one Agile Release Train(ART)-the central construct of the program level. Scrum, extreme programming and other agile methods tend to focus, and stop, at the team level. SAFe presents a single, unified view of the work to executives, allowing them to drill down for details or up for trends and analysis. 
 
+
+[1]http://www.scaledagileframework.com/ 
+[2]http://www.cio.com/article/2936942/enterprise-software/introducing-the-scaled-agile-framework.html
 ###Reflections to the seminar discussion questions.
 
 • Roadmapping
