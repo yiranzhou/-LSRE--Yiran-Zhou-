@@ -422,6 +422,10 @@ implementation of a continuous integration process.
 
 ###Reflections to the seminar discussion questions.
 
+Firstly, deciding which requirements to include into the scope of an upcoming project is not a trivial task. Wnuk's scope tracking measurements could spot the problem of setting too large a scope compared to available resources as well as increase the understanding of the consequences of setting a limited scope early. Wnuk
+
+Thanks to the graphs( Feature Survival Chart (FSC)), we can see which decisions have been made when and how large impact on the scope they had
+
 Horizontal scaling: The Life of a Requirement
 – What scope changes is likely to happen (Wnuk)?
 – How do you support a released requirement?
