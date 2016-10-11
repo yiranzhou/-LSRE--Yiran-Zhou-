@@ -422,9 +422,7 @@ implementation of a continuous integration process.
 
 ###Reflections to the seminar discussion questions.
 
-Firstly, deciding which requirements to include into the scope of an upcoming project is not a trivial task. Wnuk's scope tracking measurements could spot the problem of setting too large a scope compared to available resources as well as increase the understanding of the consequences of setting a limited scope early. Wnuk
-
-Thanks to the graphs( Feature Survival Chart (FSC)), we can see which decisions have been made when and how large impact on the scope they had
+Firstly, deciding which requirements to include into the scope of an upcoming project is not a trivial task. Wnuk's scope tracking measurements could spot the problem of setting too large a scope compared to available resources as well as increase the understanding of the consequences of setting a limited scope early. Acorrding to the case in Wnuk'paper What happened to our feature, a large scope reduction that happened between MS3 and MS4. In MS3, The effort estimates are refined and the scope is updated and baselined. DTs refine system requirements and start designing. In MS4, the requirements work and design are finished, and ready to start implementation. The final scope is decided and agreed with the development resources. The strategic reason and the other one is the cancellation of one of the products from the product line project. And after MS4, a large set of features introduced to the scope of the project. The reasons for this change turned out to be an ongoing work to improve performance requirements. Because of this reason, it was decided shortly after MS4 to include these features into the scope.
 
 Horizontal scaling: The Life of a Requirement
 – What scope changes is likely to happen (Wnuk)?
