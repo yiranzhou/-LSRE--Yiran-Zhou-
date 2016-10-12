@@ -25,18 +25,6 @@ When large organizations develop systems for large markets, the size and complex
 - Unclear req.
 - Difficult to make relevant grouping. 
 
-#### Reference  
-
-[1]B. Regnell, R. B. Svensson, and K. Wnuk, “Can we beat the complexity of very large-scale requirements engineering?,” in Requirements Engineering: Foundation for Software Quality, Springer, 2008, pp. 123–128.
-
-[2]M. S. Feather, S. L. Cornford, and M. Gibbel, “Scalable mechanisms for requirements interaction management,” in Requirements Engineering, 2000. Proceedings. 4th International Conference on, 2000, pp. 119–129.
-
-[3]Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
-
-[4]A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
-
-[5]Scaling Up Requirements Engineering –Exploring the Challenges of Increasing Size and Complexity in MarketDriven Software Development
-
 ####• What is the order of magnitude of the number of requirements we are discussing?
 
 According to the B.Renell,  They defines orders of magnitude in RE based on the size of the set of requirements
@@ -49,6 +37,17 @@ release, when it should be released, and at what cost[3].
 
 Release planning, the process of deciding which features and quality level should be included in which release [3], which is both a cognitively and computationally difficult problem, is classified as a wicked problem since different kinds of uncertainty make it difficult to formulate and solve the problem. Moreover, the objective of release planning is to ’maximize the benefit’; however, the difficulty lies in how to give a measurable definition of ’benefit’[4].
 
+#### Reference  
+
+[1]B. Regnell, R. B. Svensson, and K. Wnuk, “Can we beat the complexity of very large-scale requirements engineering?,” in Requirements Engineering: Foundation for Software Quality, Springer, 2008, pp. 123–128.
+
+[2]M. S. Feather, S. L. Cornford, and M. Gibbel, “Scalable mechanisms for requirements interaction management,” in Requirements Engineering, 2000. Proceedings. 4th International Conference on, 2000, pp. 119–129.
+
+[3]Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
+
+[4]A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
+
+[5]Scaling Up Requirements Engineering –Exploring the Challenges of Increasing Size and Complexity in MarketDriven Software Development
 ###Articles
 ####•The Art and Science of Software Release Planning
 
