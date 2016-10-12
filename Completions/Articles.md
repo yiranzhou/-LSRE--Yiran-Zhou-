@@ -25,6 +25,18 @@ When large organizations develop systems for large markets, the size and complex
 - Unclear req.
 - Difficult to make relevant grouping. 
 
+#### Reference  
+
+[1]B. Regnell, R. B. Svensson, and K. Wnuk, “Can we beat the complexity of very large-scale requirements engineering?,” in Requirements Engineering: Foundation for Software Quality, Springer, 2008, pp. 123–128.
+
+[2]M. S. Feather, S. L. Cornford, and M. Gibbel, “Scalable mechanisms for requirements interaction management,” in Requirements Engineering, 2000. Proceedings. 4th International Conference on, 2000, pp. 119–129.
+
+[3]Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
+
+[4]A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
+
+[5]Scaling Up Requirements Engineering –Exploring the Challenges of Increasing Size and Complexity in MarketDriven Software Development
+
 ####• What is the order of magnitude of the number of requirements we are discussing?
 
 According to the B.Renell,  They defines orders of magnitude in RE based on the size of the set of requirements
@@ -92,17 +104,7 @@ world's largest telecommunication systems providers in their software developmen
 
 Seminar 0 disscused what requirement is and how to work with them. The papers of Seminar 0 presents tow methods on requirements, QUPER and PEPEAT. These two methods both can be used in the almost process of requirements engineering, except collecting original requirements. For instance, first step of QUPER is problem definition, which is similar with the elicitation phase of REPEAT, which both need define original requirements. QUPER help understand different requirement decision scenarios, while REPEAT collect and classify requirements from requirement database by issurer and expert. The second phase is about roadmapping of requirements release. According to the detail specification of requirements(REPEAT) and three views(QUPER) of requirements, I can decide the release plan of requirements. Finally, the QUPER model will involve expert to ensure the validation of the model. And if the requirements change, the new requirements will be constructed and verrificated, then enter into conclusion phase. What's more, the art and science of release plan promises to carry RP’s state of the practice to a higher level.
 
-#### Reference  
 
-[1]B. Regnell, R. B. Svensson, and K. Wnuk, “Can we beat the complexity of very large-scale requirements engineering?,” in Requirements Engineering: Foundation for Software Quality, Springer, 2008, pp. 123–128.
-
-[2]M. S. Feather, S. L. Cornford, and M. Gibbel, “Scalable mechanisms for requirements interaction management,” in Requirements Engineering, 2000. Proceedings. 4th International Conference on, 2000, pp. 119–129.
-
-[3]Introducing Support for Release Planning of Quality Requirements -An Industrial Evaluation of the QUPER Model
-
-[4]A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation of Quality Requirements
-
-[5]Scaling Up Requirements Engineering –Exploring the Challenges of Increasing Size and Complexity in MarketDriven Software Development
 # Seminar 1
 
 ###Qeustions
@@ -115,23 +117,13 @@ Seminar 0 disscused what requirement is and how to work with them. The papers of
 - Go was created and then open sourced by ThoughtWorks. As with other advanced CI servers, Go lets you distribute your builds across different systems and monitor them all in one place.
 - Built on Ruby, Integrity needs Ruby 1.8.7 or newer, RubyGems 1.3.5 or newer, and Git 1.6 or newer.[1] 
 
-Reference
-
-[1]P. 29 J. 2015 N. T. 59up, “6 top continuous integration tools,” Opensource.com. [Online]. Available: https://opensource.com/business/15/7/six-continuous-integration-tools. [Accessed: 10-Oct-2016].
-
 ####•what is technical product management?
 
-Product management is the organizational structure within a business that manages the development, marketing and sale of a product or set of products throughout the product life cycle. It encompasses the broad set of activities required to get the product to market and to support it thereafter.[1]In my opinion, technical product management should be relative to a concept of marketing management. It consider the software development process from the perspective of technical. But Market-Driven Requirements Engineering (MDRE) handles the continuous flow of requirements in an engineering effort, and is not limited to a development instance but part of technical product management as a whole. The market-driven environment generates large amounts of requirements from multiple sources, internal and external, threatening to overload the technical management of products.[2]
-
-Reference
-
-[1]“What is product management? definition and meaning,” BusinessDictionary.com. [Online]. Available: http://www.businessdictionary.com/definition/product-management.html. [Accessed: 10-Oct-2016].
-
-[2]T. Gorschek, “Requirements engineering supporting technical product management,” 2006.
+Product management is the organizational structure within a business that manages the development, marketing and sale of a product or set of products throughout the product life cycle. It encompasses the broad set of activities required to get the product to market and to support it thereafter [2].In my opinion, technical product management should be relative to a concept of marketing management. It consider the software development process from the perspective of technical. But Market-Driven Requirements Engineering (MDRE) handles the continuous flow of requirements in an engineering effort, and is not limited to a development instance but part of technical product management as a whole. The market-driven environment generates large amounts of requirements from multiple sources, internal and external, threatening to overload the technical management of products [3].
 
 ####•What is roadmapping? How can you do it large scale?
 
-Roadmapping is a powerful technique for planning an organisation’s technological capabilities to ensure they meet its commercial or strategic goals[1]. Roadmaps present products and technologies required to realize these products, as well as their mutual relationship over a period. Teamwork, integral involvement by the organization and good communication are essential characteristics of the process. Benefits include a shared product–technology strategy and a cross-functional approach to product and technology planning and vision building. The roadmap drafting process can be supported by such tools as maturity grid, Quality Function Deployment and the Innovation Matrix[2]. First of all, roadmapping in large scale is not a Gantt chart. Secondly, considering the roadmapping of requirement engineering with large scale, I will  take more business oriented decision when e.g. eliciting and analyzing requirements or when performing release planning[3]. From long-term perspective, roadmaps have a long term perspective, it is important to frequently update and review marketing information. The detail process of applying  roadmapping in large scale:
+Roadmapping is a powerful technique for planning an organisation’s technological capabilities to ensure they meet its commercial or strategic goals[4]. Roadmaps present products and technologies required to realize these products, as well as their mutual relationship over a period. Teamwork, integral involvement by the organization and good communication are essential characteristics of the process. Benefits include a shared product–technology strategy and a cross-functional approach to product and technology planning and vision building. The roadmap drafting process can be supported by such tools as maturity grid, Quality Function Deployment and the Innovation Matrix[5]. First of all, roadmapping in large scale is not a Gantt chart. Secondly, considering the roadmapping of requirement engineering with large scale, I will  take more business oriented decision when e.g. eliciting and analyzing requirements or when performing release planning[6]. From long-term perspective, roadmaps have a long term perspective, it is important to frequently update and review marketing information. The detail process of applying  roadmapping in large scale:
 - Analyze market segments
 - Market and competitor analysis
 - Eliciting and negotiating requirements from key customers
@@ -139,13 +131,19 @@ Roadmapping is a powerful technique for planning an organisation’s technologic
 - Identifying and analyzing Critical Success Factors (CSF)
 - Identify bases of competitive advantage[3]
 
-Reference
+#### Reference
 
-[1]" Roadmapping for strategy and innovation, " ifm.eng.cam.ac.uk. [Online]. Available: http://www.ifm.eng.cam.ac.uk/roadmapping/ [Accessed: 10-Oct-2016].
+[1]P. 29 J. 2015 N. T. 59up, “6 top continuous integration tools,” Opensource.com. [Online]. Available: https://opensource.com/business/15/7/six-continuous-integration-tools. [Accessed: 10-Oct-2016].
 
-[2]P. Groenveld, “Roadmapping integrates business and technology,” Research-Technology Management, vol. 40, no. 5, pp. 48–55, 1997.
+[2]“What is product management? definition and meaning,” BusinessDictionary.com. [Online]. Available: http://www.businessdictionary.com/definition/product-management.html. [Accessed: 10-Oct-2016].
 
-[3]A. Gomes–andrigo, A. Pettersson, and T. Gorschek–tony, “Market-Driven Requirements Engineering Process Model, version 1.0.”
+[3]T. Gorschek, “Requirements engineering supporting technical product management,” 2006.
+
+[4]" Roadmapping for strategy and innovation, " ifm.eng.cam.ac.uk. [Online]. Available: http://www.ifm.eng.cam.ac.uk/roadmapping/ [Accessed: 10-Oct-2016].
+
+[5]P. Groenveld, “Roadmapping integrates business and technology,” Research-Technology Management, vol. 40, no. 5, pp. 48–55, 1997.
+
+[6]A. Gomes–andrigo, A. Pettersson, and T. Gorschek–tony, “Market-Driven Requirements Engineering Process Model, version 1.0.”
 
 ###Articles
 ####•A Cost–Value Approach for Prioritizing Requirements/Karlsson & Ryan
@@ -189,7 +187,7 @@ It is worth noting that a process change that is highly successful at the requir
 
 Question of Seminar 0 has explained large scale requirements engineering. To some extent, market-driven requirements engineering is often equated to large scale requirements engineering. I did not find clear definition of MDRE and continuous requirements engineering from the papers of this seminar. According to [1], the market-driven approach to requirements engineering (market-driven requirements engineering) is the case applicable to software organizations that develop software to a market, which can be a combination of a number of known customers or, on another extreme, a mass market where customers cannot be clearly pinpointed. When looking at the term "continuous requirements engineering", there is a limited number of sources using this term in different collections of scientific papers[2]. Requirements engineering has to become a continuous activity instead of being just a part of temporary information systems projects in Continuous requirement engineering. In my opinion, this is also a software development trend that all development activities are continuous, in order to adapt to the market. There are many unique challenges in these three requirement enginering. For instance, the dependence of each requirement in LSRE is complexity, the changes of market in MDRE and  limited possibilities to see the relationship between information circulation in business processes and information life cycle in information storage systems[2]. To deal with LSRE, MDRE and continuous RE, the most important thing, I think, is to keep development process flexible, in other words, as far as possible to adapt to changes of requirements. The release planning works for deciding which requirements really matter based on many constraints, such time and budget. The most important goal of software development is to meet the needs of stakehodler, so do release planning. Accordint to Karlsson & Ryan, they use THE ANALYTIC HIERARCHY PROCESS to prioritize the requirements so that they can decide the releas planning of requirements. But we still need to identify their relative value by ourselves. The frequency of releasing should be different, depending on the different types of software. By the way, in my opinion, the regular updates (maybe not release some new requirements) is helpful for increasing user activity. Finally, The core of release planning is considering the cost and value of each requirements, in other words, balancing the cost and value when deciding whether a requirements should be released.  
 
-Reference 
+####Reference 
 
 [1]A. Gomes–andrigo, A. Pettersson, and T. Gorschek–tony, “Market-Driven Requirements Engineering Process Model, version 1.0.”
 
@@ -211,7 +209,8 @@ Architectural design is the point at which the requirements process overlaps wit
 
 ####•Can you connect all requirements directly? What do you do if you cannot?（weak answer）
 
-    
+
+
 ###Articles
 ####•Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering/Wnuk et al.
 
@@ -272,18 +271,19 @@ Release planning is a cruial activity in MDRE, in an ideal situation, where ther
 
 The web page http://www.scaledagileframework.com/ shows that all of SAFe in one picture. There are three level in SAFe, Portfolio, Program and Team. The Portfolio is the highest level of concern in SAFe. It vision sketches out epics, strategy and value streams. The  Program level is where development teams and other resources are applied to some important, ongoing development mission. The Program level, where 50-125 people at a time work on a specific program, is well-represented. Below the program level is Team level. The SAFe Team level is part of the Program level. All SAFe teams are part of one Agile Release Train(ART)-the central construct of the program level. Scrum, extreme programming and other agile methods tend to focus, and stop, at the team level. SAFe presents a single, unified view of the work to executives, allowing them to drill down for details or up for trends and analysis. 
 
-Reference
+###Reflections to the seminar discussion questions.
+
+Roadmapping has been discussed in Seminar 1 questions. There are specialized part for portfolio management in the sacled agile framework. In SAFe, portfolio management represents the highest-level fiduciary and content authority. There, the responsibilities for strategy and investment funding, program management, and governance rest with those business managers and executives who understand the enterprise business trategy, thchnology, and financial constraints and define and implement the portfolio solution strategy[3]. A software product line is a set of software-intensive systems sharing a common, managed set of features that satisfy the specific needs of a particular market segment or mission and that are developed from a common set of core assets in a prescribed way.This also comprises issues like variability across different product lines. Several case studies have shown that introducing product lines organizations improves performance. It contains four main processes: partnering & contracting, market trend identification, product lifecycle management and product line identification[4]. No matter overlap feature or resources allocation should follow the release planning. A development team should deliver the high-priority requirements, and the resources should be distributed to the high-priority requirements.
+
+####Reference
 
 [1]http://www.scaledagileframework.com/ 
 
 [2]http://www.cio.com/article/2936942/enterprise-software/introducing-the-scaled-agile-framework.html
-###Reflections to the seminar discussion questions.
 
-Roadmapping has been discussed in Seminar 1 questions. There are specialized part for portfolio management in the sacled agile framework. In SAFe, portfolio management represents the highest-level fiduciary and content authority. There, the responsibilities for strategy and investment funding, program management, and governance rest with those business managers and executives who understand the enterprise business trategy, thchnology, and financial constraints and define and implement the portfolio solution strategy[1]. A software product line is a set of software-intensive systems sharing a common, managed set of features that satisfy the specific needs of a particular market segment or mission and that are developed from a common set of core assets in a prescribed way.This also comprises issues like variability across different product lines. Several case studies have shown that introducing product lines organizations improves performance. It contains four main processes: partnering & contracting, market trend identification, product lifecycle management and product line identification[2]. No matter overlap feature or resources allocation should follow the release planning. A development team should deliver the high-priority requirements, and the resources should be distributed to the high-priority requirements.
+[3]http://www.scaledagileframework.com/portfolio-level/
 
-[1]http://www.scaledagileframework.com/portfolio-level/
-
-[2]I. Van De Weerd, S. Brinkkemper, R. Nieuwenhuis, J. Versendaal, and L. Bijlsma, “Towards a reference framework for software product management,” in 14th IEEE International Requirements Engineering Conference (RE’06), 2006, pp. 319–322.( Paper of Seminar 2)
+[4]I. Van De Weerd, S. Brinkkemper, R. Nieuwenhuis, J. Versendaal, and L. Bijlsma, “Towards a reference framework for software product management,” in 14th IEEE International Requirements Engineering Conference (RE’06), 2006, pp. 319–322.( Paper of Seminar 2)
 
 # Seminar 3
 ###Reflections to the seminar discussion questions.
@@ -311,12 +311,14 @@ There are large number of tools for requirement management. And many of them are
 - Rational DOORS: a requirements management application for optimizing requirements communication, collaboration and verification throughout your organization and supply chain. This scalable solution can help you meet business goals by managing project scope and cost. Rational DOORS lets you capture, trace, analyze and manage changes to information while maintaining compliance to regulations and standards.
 - Accompa: Mid-market Requirements Management Tools.
 
-cr：http://www.capterra.com/requirements-management-software/
-    http://makingofsoftware.com/resources/list-of-rm-tools
-
 ####- tools for agile requirements management:
 
 Trace Cloud, Blueptint,  Agile manager 
+
+####Reference
+
+[1]http://www.capterra.com/requirements-management-software/
+[2]http://makingofsoftware.com/resources/list-of-rm-tools
 
 ###Articles
 ####•Assessing challenges of continuous integration in the context of software requirements breakdown: a case study/Debbiche & Dienér(This is not a readable summary of the work.)
@@ -425,4 +427,8 @@ implementation of a continuous integration process.
 Firstly, deciding which requirements to include into the scope of an upcoming project is not a trivial task. Wnuk's scope tracking measurements could spot the problem of setting too large a scope compared to available resources as well as increase the understanding of the consequences of setting a limited scope early. Acorrding to the case in Wnuk'paper What happened to our feature, a large scope reduction that happened between MS3 and MS4. In MS3, The effort estimates are refined and the scope is updated and baselined. DTs refine system requirements and start designing. In MS4, the requirements work and design are finished, and ready to start implementation. The final scope is decided and agreed with the development resources. The strategic reason and the other one is the cancellation of one of the products from the product line project. And after MS4, a large set of features introduced to the scope of the project. The reasons for this change turned out to be an ongoing work to improve performance requirements. Because of this reason, it was decided shortly after MS4 to include these features into the scope. Also, we can see this case introduce some features into the scope so late because of customers. So we should always be able to meet customer needs, at the same time negotiating with customers as much as possible to reduce changes.
 
 Many requirements are ambiguous, incomplete, infeasible, unverifiable, inadequately prioritized, and mutually inconsistent[1]. poor quality of individual requirements and the requirements specifications that document them is a primary reason why so many projects continue to fail[1]. However, the poor quality of the requirements is not recognized during RE process. Functional requirements can be identified by a single analysis technique(e.g., use case modeling), the same analysis is not appropriate for quality requirements, e.g., hazard analysis for safety requirements. In a product line, we should identify types of quality requirements and use apposite quality requirement model. The quality requirements must be described correct, feasible, complete. According to [1], quality requirement should  have certain characteristics, Mandatory, Feasible, Scalable, Unambiguous, Verifiable, Correct, Prioritized, Traced.
+
+####Reference
+
+[1]D. Firesmith, “Quality Requirements Checklist.,” Journal of Object Technology, vol. 4, no. 9, pp. 31–38, 2005.
 
