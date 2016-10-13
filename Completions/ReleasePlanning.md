@@ -16,3 +16,7 @@ Todo in order to Pass:
 - List and discuss at least three pros and three cons with the selected release planning method (1 page)
 - Apply it on the requirements in the LSRE-ReleasePlanningProject repository. Describe what you do, and why. (5 pages)
 - Describe your experiences from using the selected release planning method, and your experiences from using GitHub's issue tracker for working with requirements and release planning (1 page)
+
+
+The art and science of release planning.
+根据公式和参数算出每个feature的优先级。
