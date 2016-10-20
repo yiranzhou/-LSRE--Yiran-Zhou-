@@ -24,4 +24,4 @@ The art and science of release planning.
 
 |  | Analyst & designers (hrs) | Developers (hrs)  | QA (hrs)|Budget (US$  in thousands | Stakeholde S(1) | Stakeholde S(2) | Stakeholde S(3) |
 | :-------------: | :-------------: | :-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |
-|
+|Feature(i)|
