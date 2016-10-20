@@ -20,3 +20,8 @@ Todo in order to Pass:
 
 The art and science of release planning.
 根据公式和参数算出每个feature的优先级。
+
+
+| Resource | Stakeholde S(1) | Stakeholde S(2) |
+| :------: | :-------------: | :-------------: |
+|Analyst & designers (hrs) | Developers (hrs)  | QA (hrs)|Budget (US$  in thousands |
