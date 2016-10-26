@@ -22,6 +22,11 @@ The art and science of release planning.
 根据公式和参数算出每个feature的优先级。
 
 
-|  | Analyst & designers (hrs) | Developers (hrs)  | QA (hrs)|Budget (US$  in thousands | Stakeholde S(1) | Stakeholde S(2) | Stakeholde S(3) |
-| :-------------: | :-------------: | :-------------: |:-------------: |:-------------: |:-------------: |:-------------: |:-------------: |
-|Feature(i)|
+| - | Stakeholde S(1) | Stakeholde S(2) | Stakeholde S(3) |
+| :-------------: | :-------------: | :-------------: |:-------------: |
+|Feature(1)| value(1,1)=8; urgency(9,0,0,0,0,0)|value(2,1)=9; urgency(9,0,0,0,0,0)| value(3,1)=6; urgency(7,2,0,0,0,0)|
+|Feature(2)| value(1,2)=1; urgency(0,0,0,0,2,7)|value(2,2)=2; urgency(0,0,0,2,7,0)| value(3,2)=5; urgency(0,0,2,3,4,0)|
+|Feature(3)| value(1,3)=7; urgency(8,1,0,0,0,0)|value(2,3)=8; urgency(7,2,0,0,0,0)| value(3,3)=5; urgency(2,2,2,2,1,1)|
+|Feature(4)| value(1,4)=8; urgency(9,0,0,0,0,0)|value(2,4)=9; urgency(9,0,0,0,0,0)| value(3,4)=9; urgency(8,1,0,0,0,0)|
+|Feature(5)| value(1,5)=7; urgency(6,3,0,0,0,0)|value(2,5)=9; urgency(7,1,1,0,0,0)| value(3,5)=8; urgency(8,1,0,0,0,0)|
+
