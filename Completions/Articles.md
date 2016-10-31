@@ -207,7 +207,7 @@ Architectural design is the point at which the requirements process overlaps wit
 
 ####•Can you connect all requirements directly? What do you do if you cannot?（weak answer）
 
-
+To answer this question, firstly, we need figure out the relationship of each requirement. According to the paper "An industrail Survey of Requirements Interdependencies in Software Product Release Planning", we could know there are 6 type of dependencies for requirements:AND;REQUIRES;TEMPORAL;CUALUE;ICOST;OR. The requirements which has these dependencies could be connected directly. If the requirements don't have these dependencies, there are two solutions I think: expanding the system or developing multi-platform, so that the requirements could be connected.  
 
 ###Articles
 ####•Are you biting off more than you can chew? A case study on causes and effects of overscoping in large-scale software engineering/Wnuk et al.
