@@ -113,5 +113,15 @@ Stakeholer(Acuire):value=(1,1)=a,
 |Feature(8)| value(1,8)=9; urgency(9,0,0,0,0,0)|value(2,8)=9; urgency(9,0,0,0,0,0)| value(3,8)=9; urgency(9,0,0,0,0,0)|
 |Feature(9)| value(1,9)=7; urgency(9,0,0,0,0,0)|value(2,9)=9; urgency(7,1,1,0,0,0)| value(3,9)=8; urgency(8,1,0,0,0,0)|
 |Feature(10)| value(1,10)=7; urgency(6,3,0,0,0,0)|value(2,10)=9; urgency(7,1,1,0,0,0)| value(3,10)=9; urgency(9,0,0,0,0,0)|
+|Feature(11)| value(1,11)=3; urgency(0,0,0,5,4,0)|value(2,11)=5; urgency(0,1,1,3,4,0)| value(3,11)=5; urgency(0,5,4,0,0,0)|
+|Feature(12)| value(1,12)=7; urgency(9,0,0,0,0,0)|value(2,12)=9; urgency(9,0,0,0,0,0)| value(3,12)=9; urgency(9,0,0,0,0,0)|
+|Feature(13)| value(1,13)=6; urgency(3,5,1,0,0,0)|value(2,13)=4; urgency(0,0,5,4,0,0)| value(3,13)=9; urgency(7,2,0,0,0,0)|
+|Feature(14)| value(1,14)=7; urgency(6,3,0,0,0,0)|value(2,14)=5; urgency(0,8,1,0,0,0)| value(3,14)=9; urgency(4,5,0,0,0,0)|
+|Feature(15)| value(1,15)=9; urgency(9,0,0,0,0,0)|value(2,15)=9; urgency(7,1,1,0,0,0)| value(3,15)=9; urgency(9,0,0,0,0,0)|
+|Feature(16)| value(1,16)=7; urgency(0,0,0,4,5,0)|value(2,16)=6; urgency(0,0,0,0,7,2)| value(3,16)=5; urgency(0,0,0,3,3,3)|
+|Feature(17)| value(1,17)=9; urgency(9,0,0,0,0,0)|value(2,17)=9; urgency(9,0,0,0,0,0)| value(3,17)=9; urgency(9,0,0,0,0,0)|
+|Feature(18)| value(1,18)=9; urgency(9,0,0,0,0,0)|value(2,18)=9; urgency(9,0,0,0,0,0)| value(3,18)=9; urgency(9,0,0,0,0,0)|
+|Feature(19)| value(1,19)=7; urgency(0,8,1,0,0,0)|value(2,19)=3; urgency(0,0,0,3,3,3)| value(3,19)=9; urgency(7,2,0,0,0,0)|
+|Feature(20)| value(1,20)=7; urgency(6,3,0,0,0,0)|value(2,20)=9; urgency(3,3,3,0,0,0)| value(3,20)=9; urgency(9,0,0,0,0,0)|
  
 
