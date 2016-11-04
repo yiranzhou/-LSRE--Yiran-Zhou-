@@ -19,7 +19,8 @@ Todo in order to Pass:
 
 
 The art and science of release planning.
-根据公式和参数算出每个feature的优先级。
+
+根据公式和参数算出每个feature的优先级和适合的版本，一共六个版本，根据github上的信息。
 
 To conducte release planning for the system in this course, I chose a method from the recomended paper of Seminars, which name is “The Art and Science of Software Release Plan”. The art of RP approach relies on human intuition, communication, and capabilities to negotiate between conflicting objectives and constraints. The science of RP approach formalizes the problem and applies computational algorithms to generate best solutions. The art of release planning addresses RP’s implicit and tacit aspects. The science of RP is primarily based on the belief that we can (at least approximately) formalize the problem, and that solving this formalized problem will produce meaningful results. I will conduct the releasing planning by this approach.  There are three functions in sicience of RP approach, 
 x(i)=kr(i,t)Cap(k,t)                    (1),(2),(3). 
