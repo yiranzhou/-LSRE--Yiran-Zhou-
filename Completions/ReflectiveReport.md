@@ -26,3 +26,32 @@ Todo in order to Pass:
 - Apply them on a larger base of requirements.
 - Discuss the lessons learned in connection to what you have done.
 - Reflect and relate your lessons to literature.
+
+
+##Selected article: 
+Requirements Abstraction Mode
+
+A Method for Early Requirements Triage and selection Utilizing Product Strategies 
+
+##Why: 
+
+##Why: 
+These two papers help define excutable requirements, which is useful and practical in software development process. And based on each saminer,  I think the techniques provided by these papers are easy to understand and implement, though there are some defects in them. 
+
+##Implementation Plan:
+
+-Use the method from Requirements Abstraction Model to break down requirements.
+
+-Use the method from A Method for Early Requirements Triage and selection Utilizing Product Strategies to calculate the points of each requirement.
+
+##Excution:
+####1.Technique from Requirements Abstraction Model to break down requirements.
+
+I have chosen a case, which is a windows application, named Hotel Management System, the target customers are hotels. The system should include management sub-system and back office sub-system. And I presents some basic requirement of Hotel Management System, I will break down parts of them according to 'Requirement Absreaction Model'. Additionally, most requirements are from my own experience and some are from network. 
+
+
+####2.MERTS
+
+According to the case of first technique, there is one requirement named payment, it is a good instance for this technique. Based on 
+the paper,'A method ', I will resent a table to presents the excution of this technique. Due to this is a report on Github, the table 
+is translated into plaintext.
