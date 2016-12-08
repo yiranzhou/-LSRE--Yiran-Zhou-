@@ -55,13 +55,23 @@ Amarriage of art and science, such as the one we have proposed, promises to carr
 
 
 
-
-
-
-Cons ：
 三个优点：1.根据公司收集到的数据，可以很快地算出现有的resource和。2.计算结果非常直观，方便制定release plan。3. 如果有很多的dependence的话，可以在计算结果之后，根据dependence调整release plan，非常方便。
 三个缺点：1.非常依赖stakeholder的经验。2. project manager在这个方法中拥有很大的权力，需要决定每一个release的相对重要性，stakeholder的重要性。经理的经验，决策能力，领导能力非常重要。3.对于每个stakeholder的重要性的界定也是人为的，没有相关的资料说明。
+pros:
 
+-According to the exsiting data from a company, it is eary to calculate the current avaliable resource for a program.
+
+-The results obtained by this method is very intuitive，and the results can be easily used to formulate release plan.-
+
+-This approach is  convenient for develping release plan because the calculating results 
+
+Cons:
+
+-This approach really relies on the experience of stakeholders, since the stakeholders need to identify value of each requirement and expected release version.
+
+-There is no explaination and method to identify the relative importance of each release version, and only project manager in charge of this desicion. 
+
+-The relative importance of each stakeholders are not mentioned in the article, which are decided by authors. There is no relevant information. 
 
 Process of applying the approach
 
