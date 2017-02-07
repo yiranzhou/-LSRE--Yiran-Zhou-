@@ -1,79 +1,32 @@
-Overview: Everyone has worked to some degree on the existing requirements. All have created some new issues, and linked existing issues. All have used the labeling feature, and assigned themselves to some requirements. Some appear to have randomly assigned themselves to requirements, and others have had a clear strategy to take care of a specific sub-area.
+To conducte release planning for the system in this course, I chose a method from the recomended paper of Seminars, whose name is “The Art and Science of Software Release Plan”. The art of RP approach relies on human intuition, communication, and capabilities to negotiate between conflicting objectives and constraints. The science of RP approach formalizes the problem and applies computational algorithms to generate best solutions. The art of release planning addresses RP’s implicit and tacit aspects. The science of RP is primarily based on the belief that we can (at least approximately) formalize the problem, and that solving this formalized problem will produce meaningful results. I will conduct the releasing planning by this approach.  
+There are three functions in science of RP approach. For feature realization, project managers typically must consider various resource constraints. Usually, these constraints relate to either budget or effort resources, and all constraints include bounds on the maximum capacities available for each resource type. The authors of this approach assume that T resource types and capacities Cap(k, t) relate to all releases k = 1 … K and to all resource types t = 1 … T. Every feature f(i) requires an amount r(i, t) of resources of type t. Thus, each release plan x assigning feature f(i) to release k expressed as x(i) = k must satisfy the function(1). Sum r(i,t)<=Cap(k,t).
 
-From your comments in your respective rplog.md I understand that at least some of you had a meeting in late December to discuss the release planning, and used the MoSCoW methodology to prioritise the requirements and assign them to milestones. The reason why I wanted you to do this on It's Learning is so that I can see evidence of it, and the amount of contribution each of you put in. As it stands, I don't know which of you participated in the meeting, how much each of you contributed to the end result, or even if you actually /had/ a meeting at all. I am therefore going to disregard the meeting and only look at the evidence of the meeting in terms of what each of you present in your rplog file. There, I am going to look for a description of the methodology you used, and the results thereof.
+The planning objective is typically a mixture of different aspects such as value, urgency, risk, satisfaction or dissatisfaction, and return on investment. The explicit function’s actual form (equation 2) tries to bring together the different aspects in a balanced way. In the model of the paper provided, the authors assume the following:
 
-On the use of MoSCoW: Your choice of method to prioritise the requirements is ok (even if left unmotivated). But so far (I've read 2/3 of your assignments) none of you describe how the results of prioritising the requirements were actually used as a means to assign the requirements to different releases. For example, I would expect all "must" and "should" requirements to be taken care of in the early milestones, leaving "could" requirements to later releases. Why you've scheduled to implement "won't" requirements in release 0.5 and 0.8, I don't understand.
-
-Another issue that you have not considered in your release plan is the available resources. Some of you are assigned to plenty of issues in one release and almost none in the next -- how do you plan on keeping all of you equally occupied for the duration of the development project?
-
-Reflections on RP assignment (rplog.md): F
-Assignment Strategy: Random Assignment
-Methodology for Release Planning: Not Presented
-
-
-Todo in order to Pass:
-- Decide on a methodology for conducting release planning and describe it (with relevant references) (1 page)
-- List and discuss at least three pros and three cons with the selected release planning method (1 page)
-- Apply it on the requirements in the LSRE-ReleasePlanningProject repository. Describe what you do, and why. (5 pages)
-- Describe your experiences from using the selected release planning method, and your experiences from using GitHub's issue tracker for working with requirements and release planning (1 page)
-
-
-The art and science of release planning.
-
-根据公式和参数算出每个feature的优先级和适合的版本，一共六个版本，根据github上的信息。
-
-To conducte release planning for the system in this course, I chose a method from the recomended paper of Seminars, which name is “The Art and Science of Software Release Plan”. The art of RP approach relies on human intuition, communication, and capabilities to negotiate between conflicting objectives and constraints. The science of RP approach formalizes the problem and applies computational algorithms to generate best solutions. The art of release planning addresses RP’s implicit and tacit aspects. The science of RP is primarily based on the belief that we can (at least approximately) formalize the problem, and that solving this formalized problem will produce meaningful results. I will conduct the releasing planning by this approach.  There are three functions in sicience of RP approach, 
-x(i)=kr(i,t)Cap(k,t)                    (1),(2),(3). 
-For feature realization, project managers typically must consider various resource constraints. Usually, these constraints relate to either budget or effort resources, and all constraints include bounds on the maximum capacities available for each resource type. The authors of this approach assume that T resource types and capacities Cap(k, t) relate to all releases k = 1 … K and to all resource types t = 1 … T. Every feature f(i) requires an amount r(i, t) of resources of type t. Thus, each release plan x assigning feature f(i) to release k expressed as x(i) = k must satisfy the function(1).
-
-
-The planning objective is typically a mixture of different aspects such as value, urgency, risk, satisfaction or dissatisfaction, and return on investment. The explicit function’s actual form (equation 2) tries to bring together the different aspects in a balanced way. In our model, we assume the following:
-
-
-■ An additive function exists in which the total objective function value isdetermined as the sum of the weighted average satisfaction WAS(i, k) of stakeholder priorities for all features f(i) when assigned to release k.
-■ Each value WAS(i, k) is determined as the weighted average of the products of the two dimensions of prioritization described earlier. 
-■ Stakeholder S(p)’s degree of impact is determined by the relative importance (p).
-■ For each release option k, normalized parameters (k) describe each option’s relative importance. 
-■ A vector of urgency preference for each stakeholder and each feature, given as urgency(p, i) = (urgency(p, i, 1), urgency(p, i, 2), urgency(p, i, 3)).
-
+- An additive function exists in which the total objective function value isdetermined as the sum of the weighted average satisfaction WAS(i, k) of stakeholder priorities for all features f(i) when assigned to release k.
+- Each value WAS(i, k) is determined as the weighted average of the products of the two dimensions of prioritization described earlier. 
+- Stakeholder S(p)’s degree of impact is determined by the relative importance (p).
+- For each release option k, normalized parameters (k) describe each option’s relative importance. 
+- A vector of urgency preference for each stakeholder and each feature, given as urgency(p, i) = (urgency(p, i, 1), urgency(p, i, 2), urgency(p, i, 3)).
 
 According to these assumptions,the objective is to maximize a function F(x) among all release plans x subject to the satisfaction of resource constraints (described in equation 1) and dependency constraints (just given).  
+In this case, we need assign a relative importance of λ(p) of stakeholder， project manager need to identify the relative importance of each version.  And stakeholders need to decide value(1-9) of each feature and vote for urgency for each feature
 
-
-In this case, we need assign a relative importance of 拉姆达(p) of stakeholder， project manager 还要identify 每个版本的相对重要性。 stakeholders 决定每个feature的价值（1-9），并且voting for urgency for each feature。
-
-
+## Pros and Cons
 Pros：
-
-
-Amarriage of art and science, such as the one we have proposed, promises to carry RP’s state of the practice to a higher level, giving due consideration to 
-■ recognizing the need for a more sophisticated methodology, 
-■ introducing more formalism that lets organizations easily plan projects containing several hundred features, 
-■ formulating RP objectives with several impacting criteria rather than concentrating only on the values of the features, 
-■ letting human decision makers easily evaluate formally generated release plans so they don’t have to deal with lots of information without much visibility into the problem’s structure, and 
-■ proactively evaluating possible planning strategies to better understand the impact of varying problem parameters.
-
-
-
-三个优点：1.根据公司收集到的数据，可以很快地算出现有的resource和。2.计算结果非常直观，方便制定release plan。3. 如果有很多的dependence的话，可以在计算结果之后，根据dependence调整release plan，非常方便。
-三个缺点：1.非常依赖stakeholder的经验。2. project manager在这个方法中拥有很大的权力，需要决定每一个release的相对重要性，stakeholder的重要性。经理的经验，决策能力，领导能力非常重要。3.对于每个stakeholder的重要性的界定也是人为的，没有相关的资料说明。
-pros:
-
--According to the exsiting data from a company, it is eary to calculate the current avaliable resource for a program.
-
--The results obtained by this method is very intuitive，and the results can be easily used to formulate release plan.-
-
--This approach is  convenient for develping release plan because the calculating results 
+- A marriage of art and science as proposed above promises to carry release planning’s state of the practice to a higher level;
+- This approach gives due consideration to recognize the need for a more sophisticated methodology;
+- This approach introduces more formalism that lets organizations easily plan projects containing several hundred features;
+- This approach formulates release planning objectives with several impacting criteria rather than concentrating only on the values of the features
+- This approach also lets human decision makers easily evaluate formally generated release plans so they don’t have to deal with lots of information without much visibility into the problem’s structure, and proactively evaluate possible planning strategies to better understand the impact of varying problem parameters.
 
 Cons:
 
--This approach really relies on the experience of stakeholders, since the stakeholders need to identify value of each requirement and expected release version.
+- This approach really relies on the experience of stakeholders, since the stakeholders need to identify value of each requirement and expected release version.
+- There is no explaination and method to identify the relative importance of each release version, and only project manager in charge of this desicion. 
+- The relative importance of each stakeholders are not mentioned in the article, which are decided by authors. There is no relevant information. 
 
--There is no explaination and method to identify the relative importance of each release version, and only project manager in charge of this desicion. 
-
--The relative importance of each stakeholders are not mentioned in the article, which are decided by authors. There is no relevant information. 
-
-Process of applying the approach
+## Process of applying the approach
 
 
 In this case, there are 120 feartures.
