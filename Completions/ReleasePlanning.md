@@ -1,5 +1,5 @@
 To conducte release planning for the system in this course, I chose a method from the recomended paper of Seminars, whose name is “The Art and Science of Software Release Plan”. The art of RP approach relies on human intuition, communication, and capabilities to negotiate between conflicting objectives and constraints. The science of RP approach formalizes the problem and applies computational algorithms to generate best solutions. The art of release planning addresses RP’s implicit and tacit aspects. The science of RP is primarily based on the belief that we can (at least approximately) formalize the problem, and that solving this formalized problem will produce meaningful results. I will conduct the releasing planning by this approach.  
-There are three functions in science of RP approach. For feature realization, project managers typically must consider various resource constraints. Usually, these constraints relate to either budget or effort resources, and all constraints include bounds on the maximum capacities available for each resource type. The authors of this approach assume that T resource types and capacities Cap(k, t) relate to all releases k = 1 … K and to all resource types t = 1 … T. Every feature f(i) requires an amount r(i, t) of resources of type t. Thus, each release plan x assigning feature f(i) to release k expressed as x(i) = k must satisfy the function(1). Sum r(i,t)<=Cap(k,t).
+There are three functions in science of RP approach. For feature realization, project managers typically must consider various resource constraints. Usually, these constraints relate to either budget or effort resources, and all constraints include bounds on the maximum capacities available for each resource type. The authors of this approach assume that T resource types and capacities Cap(k, t) relate to all releases k = 1 … K and to all resource types t = 1 … T. Every feature f(i) requires an amount r(i, t) of resources of type t. Thus, each release plan x assigning feature f(i) to release k expressed as x(i) = k must satisfy the function(1)--(Sum r(i,t))<= Cap(k,t).
 
 The planning objective is typically a mixture of different aspects such as value, urgency, risk, satisfaction or dissatisfaction, and return on investment. The explicit function’s actual form (equation 2) tries to bring together the different aspects in a balanced way. In the model of the paper provided, the authors assume the following:
 
@@ -24,41 +24,31 @@ Cons:
 
 - This approach really relies on the experience of stakeholders, since the stakeholders need to identify value of each requirement and expected release version.
 - There is no explaination and method to identify the relative importance of each release version, and only project manager in charge of this desicion. 
-- The relative importance of each stakeholders are not mentioned in the article, which are decided by authors. There is no relevant information. 
+- The relative importance of each stakeholders are decided by authors without references. And the paper does not propose how the relative importace of each stakeholders are identified.
 
 ## Process of applying the approach
 
-
+#### Number of Feartures
 In this case, there are 120 feartures.
 F={f(1),f(2),...,f(120)}.
 
-
+#### Release Version
 In this case, there are 6 releases.
 x(i)={x(0.1),x(0.5),x(0.8),x(0.9),x(1.0),x(2.0)}
 
-
-文章中说，需要project manager来定义每个版本的相对重要性，因为这个项目没有明确的team。所有我假设每个版本的相对重要性分别是
+According to the paper, the relative importance of each relese version are defined by project manager, while there is not a clearly project manager. So I identified the relative importance of each release version:
 x(0.1)=0.3
 x(0.5)=0.2
 x(0.8)=0.2
 x(0.9)=0.1
 x(1.0)=0.2
 x(2.0)=0.2
-我认为第一个版本很重要，版本0.9在0.8和1.0中间，更新时间相对来说比较近，所以应该不会有大的更新，相对重要性最低。
-接下来考虑resource，要满足equation （1）。在这个项目中，没有关于开发团队的任何材料，对于每个feature所需要的资源的评估也没有。 所有我决定，在这个项目中，默认符合equation（1），即资源满足任何release planning，版本迭代和每个版本delivery的feature不受资源限制。
-在文章中没有明确提出stakeholder的相对重要性由谁来定义，直说了“we can assign”。在我搜索了很多论文数据库之后，也没有找到相应的办法来定义stakeholder的相对重要性。在我看来，我认为这需要project manager来决定，或者引入expert来决定每一个case中的stakeholder的相对重要性。由【1】stakeholder的表格，并且基于这个项目的性质和我本人的能力所限，我选择了三个stakeholder来conducting 这个approach，development team, users, acquires. 剩余的那些stakeholder要么是这个项目不涉及，要么是不需要。需要说明的是，以我自己为例，由我独立开发的话，那么developer，tester，maintainers，product engineer都是我一个人, 所以我是作为development team的stakeholder。 除此之外，我请了一个同学作为user的代表的stakeholder， and another friend as acquires。 他们都是我们学校软件在读的学生。我定义了这三个stakeholder的相对重要性，分别是
-拉姆达（acquire）=
-拉姆达（development）=
-拉姆达（user）=
+The reasons are proposed as follows:
 
+I think the first version is the most important. Version 0.9 is between Version 0.8 and Version 1.0, and there should not be a lot of updates, so the relative importance should be the lowest. Considering the resource, there is no documentation on the development team, and there is no assessment of the resources needed for each feature. So I assume that the resource satisfies any release planning, version iteration, and each version delivery feature is not subject to resource limitations. 
 
-接下来，就是根据equation（2）和（3）计算每一个feature的objective function value for each release。
-
-
-得出结果之后，考虑feature 之间的dependence。然后得出最终的release planning。
-
-
-
+#### Importance of Stakeholders
+There is no clearly definition of relative importance of stakeholders. The authors wrote “we can assign” in the paper. I searched a lot of databases, but I did not find any method to identify the relative importance of stakeholders. In my opinion, the importance of each stakeholder may be different in different projects. The project managers or experts may identify the relative importance of stakeholders in this approach. Based on the types of stakeholders in software engineering[1] and according to the limitation of my ability, I chose three type stakeholders to conduct the project, and they are development team, users, acquires. The rest of other stakeholders are either not involved in this project, or are not required. 
 
 Stakeholer(Acuire):value=(1,1)=a, 
 
