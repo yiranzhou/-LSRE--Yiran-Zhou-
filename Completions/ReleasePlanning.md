@@ -37,21 +37,21 @@ In this case, there are 6 releases.
 x(i)={x(0.1),x(0.5),x(0.8),x(0.9),x(1.0),x(2.0)}
 
 According to the paper, the relative importance of each relese version are defined by project manager, while there is not a clearly project manager. So I identified the relative importance of each release version:
-x(0.1)=0.3
-x(0.5)=0.2
-x(0.8)=0.2
-x(0.9)=0.1
-x(1.0)=0.2
-x(2.0)=0.2
+- x(0.1)=0.3
+- x(0.5)=0.2
+- x(0.8)=0.2
+- x(0.9)=0.1
+- x(1.0)=0.2
+- x(2.0)=0.2
 The reasons are proposed as follows:
 
 I think the first version is the most important. Version 0.9 is between Version 0.8 and Version 1.0, and there should not be a lot of updates, so the relative importance should be the lowest. Considering the resource, there is no documentation on the development team, and there is no assessment of the resources needed for each feature. So I assume that the resource satisfies any release planning, version iteration, and each version delivery feature is not subject to resource limitations. 
 
 #### Importance of Stakeholders
 There is no clearly definition of relative importance of stakeholders. The authors wrote “we can assign” in the paper. I searched a lot of databases, but I did not find any method to identify the relative importance of stakeholders. In my opinion, the importance of each stakeholder may be different in different projects. The project managers or experts may identify the relative importance of stakeholders in this approach. Based on the types of stakeholders in software engineering[1] and according to the limitation of my ability, I chose three type stakeholders to conduct the project, and they are development team, users, acquires. The rest of other stakeholders are either not involved in this project, or are not required.It should be noted that, developer, tester, maintainers, product engineer are identified as one stakeholder called development team in this project. In addition, I invited a classmate as the representative of the user's stakeholder, and another friend as acquires. They are both software engineering students studying in BTH. I defined the relative importance of the three stakeholders:
-λ(acquire)=
-λ(development team)=
-λ(user)=
+- λ(acquire)=
+- λ(development team)=
+- λ(user)=
 
 
 
