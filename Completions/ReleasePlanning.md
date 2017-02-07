@@ -43,6 +43,7 @@ According to the paper, the relative importance of each relese version are defin
 - x(0.9)=0.1
 - x(1.0)=0.2
 - x(2.0)=0.2
+
 The reasons are proposed as follows:
 
 I think the first version is the most important. Version 0.9 is between Version 0.8 and Version 1.0, and there should not be a lot of updates, so the relative importance should be the lowest. Considering the resource, there is no documentation on the development team, and there is no assessment of the resources needed for each feature. So I assume that the resource satisfies any release planning, version iteration, and each version delivery feature is not subject to resource limitations. 
@@ -79,7 +80,7 @@ Stakeholer(Acuire):value=(1,1)=a,
 |Feature(18)| value(1,18)=9; urgency(9,0,0,0,0,0)|value(2,18)=9; urgency(9,0,0,0,0,0)| value(3,18)=9; urgency(9,0,0,0,0,0)|
 |Feature(19)| value(1,19)=7; urgency(0,8,1,0,0,0)|value(2,19)=3; urgency(0,0,0,3,3,3)| value(3,19)=9; urgency(7,2,0,0,0,0)|
 |Feature(20)| value(1,20)=7; urgency(6,3,0,0,0,0)|value(2,20)=9; urgency(3,3,3,0,0,0)| value(3,20)=9; urgency(9,0,0,0,0,0)|
-...
+|...| ...|...| ...|
 |Feature(120)| value(1,120)=7; urgency(6,3,0,0,0,0)|value(2,120)=9; urgency(3,3,3,0,0,0)| value(3,120)=9; urgency(9,0,0,0,0,0)|
  
 
