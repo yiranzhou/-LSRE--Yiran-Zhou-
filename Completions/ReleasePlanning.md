@@ -55,6 +55,7 @@ There is no clearly definition of relative importance of stakeholders. The autho
 - λ(user)= 9
 
 For each stakeholders  
+
 | - | Stakeholder S(1 auquire) | Stakeholder S(2 development) | Stakeholder S(3 user) |
 | :-------------: | :-------------: | :-------------: |:-------------: |
 |Feature(1)| value(1,1)=8; urgency(9,0,0,0,0,0)|value(2,1)=9; urgency(9,0,0,0,0,0)| value(3,1)=6; urgency(7,2,0,0,0,0)|
