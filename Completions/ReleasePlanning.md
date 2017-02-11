@@ -50,9 +50,10 @@ I think the first version is the most important. Version 0.9 is between Version 
 
 #### Importance of Stakeholders
 There is no clearly definition of relative importance of stakeholders. The authors wrote “we can assign” in the paper. I searched a lot of databases, but I did not find any method to identify the relative importance of stakeholders. In my opinion, the importance of each stakeholder may be different in different projects. The project managers or experts may identify the relative importance of stakeholders in this approach. Based on the types of stakeholders in software engineering[1] and according to the limitation of my ability, I chose three type stakeholders to conduct the project, and they are development team, users, acquires. The rest of other stakeholders are either not involved in this project, or are not required.It should be noted that, developer, tester, maintainers, product engineer are identified as one stakeholder called development team in this project. In addition, I invited a classmate as the representative of the user's stakeholder, and another friend as acquires. They are both software engineering students studying in BTH. I defined the relative importance of the three stakeholders:
-- λ(acquire)= 0.2
-- λ(development team)= 0.3
-- λ(user)= 0.5
+- λ(acquire)= 5
+- λ(development team)= 5
+- λ(user)= 9
+
 For each stakeholders  
 | - | Stakeholder S(1 auquire) | Stakeholder S(2 development) | Stakeholder S(3 user) |
 | :-------------: | :-------------: | :-------------: |:-------------: |
