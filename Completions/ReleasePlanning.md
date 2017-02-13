@@ -82,6 +82,6 @@ For each stakeholders
 |Feature(19)| value(1,19)=7; urgency(0,8,1,0,0,0)|value(2,19)=3; urgency(0,0,0,3,3,3)| value(3,19)=9; urgency(7,2,0,0,0,0)|
 |Feature(20)| value(1,20)=7; urgency(6,3,0,0,0,0)|value(2,20)=9; urgency(3,3,3,0,0,0)| value(3,20)=9; urgency(9,0,0,0,0,0)|
 |...| ...|...| ...|
-|Feature(120)| value(1,120)=7; urgency(6,3,0,0,0,0)|value(2,120)=9; urgency(3,3,3,0,0,0)| value(3,120)=9; urgency(9,0,0,0,0,0)|
+|Feature(104)| value(1,120)=7; urgency(6,3,0,0,0,0)|value(2,104)=9; urgency(3,3,3,0,0,0)| value(3,104)=9; urgency(9,0,0,0,0,0)|
  
 
