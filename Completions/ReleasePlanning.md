@@ -9,7 +9,10 @@ The planning objective is typically a mixture of different aspects such as value
 - For each release option k, normalized parameters (k) describe each option’s relative importance. 
 - A vector of urgency preference for each stakeholder and each feature, given as urgency(p, i) = (urgency(p, i, 1), urgency(p, i, 2), urgency(p, i, 3)).
 
-According to these assumptions,the objective is to maximize a function F(x) among all release plans x subject to the satisfaction of resource constraints (described in equation 1) and dependency constraints (just given).  
+According to these assumptions,the objective is to maximize a function F(x) among all release plans x subject to the satisfaction of resource constraints (described in equation 1) and dependency constraints (just given).
+
+![picture test](https://lh3.googleusercontent.com/-K3SXWhkVbiY/WKG5PjxRryI/AAAAAAAAAIc/gXwj8PoJ82kOwJZ8itTZ7mNddSyE5MvnwCJoC/w287-h122-p-rw/1486993699%25281%2529.png)
+
 In this case, we need assign a relative importance of λ(p) of stakeholder， project manager need to identify the relative importance of each version.  And stakeholders need to decide value(1-9) of each feature and vote for urgency for each feature
 
 ## Pros and Cons
