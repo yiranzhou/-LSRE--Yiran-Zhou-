@@ -57,7 +57,7 @@ There is no clearly definition of relative importance of stakeholders. The autho
 - λ(development team)= 5
 - λ(user)= 9
 
-For each stakeholders  
+For each stakeholder, they need to identify the value of each feature and the urgency to each version. The complete tables and calculated results are present in google form. https://docs.google.com/spreadsheets/d/1pUxsyq9vsU9w0SYt2BDDTgbWfKG5kA75cOJcUYugF1g/edit?usp=sharing
 
 | - | Stakeholder S(1 auquire) | Stakeholder S(2 development) | Stakeholder S(3 user) |
 | :-------------: | :-------------: | :-------------: |:-------------: |
@@ -83,5 +83,5 @@ For each stakeholders
 |Feature(20)| value(1,20)=7; urgency(6,3,0,0,0,0)|value(2,20)=9; urgency(3,3,3,0,0,0)| value(3,20)=9; urgency(9,0,0,0,0,0)|
 |...| ...|...| ...|
 |Feature(104)| value(1,120)=7; urgency(6,3,0,0,0,0)|value(2,104)=9; urgency(3,3,3,0,0,0)| value(3,104)=9; urgency(9,0,0,0,0,0)|
- 
 
+After the calculating by following the equation (2) and (3).
