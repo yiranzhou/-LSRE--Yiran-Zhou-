@@ -32,8 +32,8 @@ Cons:
 ## Process of applying the approach
 
 #### Number of Feartures
-In this case, there are 120 feartures.
-F={f(1),f(2),...,f(120)}.
+In this case, there are 104 feartures.
+F={f(1),f(2),...,f(104)}.
 
 #### Release Version
 In this case, there are 6 releases.
