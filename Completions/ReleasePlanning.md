@@ -87,6 +87,8 @@ For example,feature 1=0.1 * (5 * 8 * 9 + 5 * 9 * 9 + 9 * 6 * 7)=342.9
 |...| ...|...| ...|
 |Feature(104)| value(1,120)=5; urgency(3,6,0,0,0,0)|value(2,104)=6; urgency(0,4,5,0,0,0)| value(3,104)=3; urgency(1,4,4,0,0,0)|
 
+## Experiences from using the selected release planning method, and using GitHub's issue tracker for working with requirements and release planning
 
+The selected release planning method is easy to conduct, but the identification of each requirement is very large. Because the amount of data is very large and the law is limited, Excel need to introduce Visual Basic programming to calculate. My computer does not have Visual Basic programming software, and I am not familiar with the Visual Basic programming, so I used Excel with a simple calculation function which lead that I spent a lot of time on calculating. And when I identify the value and urgency of each reuiqrment, I have consider the relationship among each requirement. For example, the basic features are consider to release in earier versions and similar features are consider to release in the same bersion.
 
-
+The issue tracker is 
