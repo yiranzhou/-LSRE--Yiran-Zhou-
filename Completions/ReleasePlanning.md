@@ -57,7 +57,9 @@ There is no clearly definition of relative importance of stakeholders. The autho
 - λ(development team)= 5
 - λ(user)= 9
 
-For each stakeholder, they need to identify the value of each feature and the urgency to each version. The complete tables and calculated results are present in google form.
+For each stakeholder, they need to identify the value of each feature and the urgency to each version. The complete tables and calculated results are present in google form. According to the euqation (2) adn (3), the results of these are present in https://drive.google.com/file/d/0B-ZzbIX8Zcznc3p2OEtLb2FuejA/view?usp=sharing.
+
+For example,feature 1=0.1*(5*8*9+5*9*9+9*6*7)=342.9
 
 
 | - | Stakeholder S(1 auquire) | Stakeholder S(2 development) | Stakeholder S(3 user) |
@@ -83,6 +85,8 @@ For each stakeholder, they need to identify the value of each feature and the ur
 |Feature(19)| value(1,19)=7; urgency(0,8,1,0,0,0)|value(2,19)=3; urgency(0,0,0,3,3,3)| value(3,19)=9; urgency(7,2,0,0,0,0)|
 |Feature(20)| value(1,20)=7; urgency(6,3,0,0,0,0)|value(2,20)=9; urgency(3,3,3,0,0,0)| value(3,20)=9; urgency(9,0,0,0,0,0)|
 |...| ...|...| ...|
-|Feature(104)| value(1,120)=7; urgency(6,3,0,0,0,0)|value(2,104)=9; urgency(3,3,3,0,0,0)| value(3,104)=9; urgency(9,0,0,0,0,0)|
+|Feature(104)| value(1,120)=5; urgency(3,6,0,0,0,0)|value(2,104)=6; urgency(0,4,5,0,0,0)| value(3,104)=3; urgency(1,4,4,0,0,0)|
 
-According to the euqation (2) adn (3), the results of these are present in https://drive.google.com/file/d/0B-ZzbIX8Zcznc3p2OEtLb2FuejA/view?usp=sharing
+
+
+
