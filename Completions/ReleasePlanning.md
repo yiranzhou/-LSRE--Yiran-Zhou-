@@ -59,7 +59,7 @@ There is no clearly definition of relative importance of stakeholders. The autho
 
 For each stakeholder, they need to identify the value of each feature and the urgency to each version. The complete tables and calculated results are present in google form. According to the euqation (2) adn (3), the results of these are present in https://drive.google.com/file/d/0B-ZzbIX8Zcznc3p2OEtLb2FuejA/view?usp=sharing.
 
-For example,feature 1=0.1*(5*8*9+5*9*9+9*6*7)=342.9
+For example,feature 1=0.1 * (5 * 8 * 9 + 5 * 9 * 9 + 9 * 6 * 7)=342.9
 
 
 | - | Stakeholder S(1 auquire) | Stakeholder S(2 development) | Stakeholder S(3 user) |
