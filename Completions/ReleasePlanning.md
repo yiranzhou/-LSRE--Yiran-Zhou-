@@ -85,4 +85,4 @@ For each stakeholder, they need to identify the value of each feature and the ur
 |...| ...|...| ...|
 |Feature(104)| value(1,120)=7; urgency(6,3,0,0,0,0)|value(2,104)=9; urgency(3,3,3,0,0,0)| value(3,104)=9; urgency(9,0,0,0,0,0)|
 
-After the calculating by following the equation (2) and (3).
+According to the euqation (2) adn (3), the results of these are present in https://drive.google.com/file/d/0B-ZzbIX8Zcznc3p2OEtLb2FuejA/view?usp=sharing
