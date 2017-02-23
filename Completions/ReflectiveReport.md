@@ -49,6 +49,11 @@ for early requirements triage and selection. These two papers help define excuta
 
 -Use the method from A Method for Early Requirements Triage and selection Utilizing Product Strategies to calculate the points of each requirement.
 
+1. Based on the prerequisites of the proposed methods, and the limitation of my research, the implementation plan focus on the scoping of the tested project firstly. The project should be market-driven and available for one master student research.
+2. Selecting a project as the experimental material to apply the methods which are proposed in selecting papers is the next step.
+3. Using the method from ‘A Method for Early Requirements Triage and selection Utilizing Product Strategies’ to calculate the points of each requirement.
+4. Using the method from ‘Requirements Abstraction Model’ to break down the requirements from the tested project.
+
 ##Excution:
 ####1.Technique from Requirements Abstraction Model to break down requirements.
 
