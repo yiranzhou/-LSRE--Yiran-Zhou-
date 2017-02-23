@@ -124,6 +124,7 @@ Function level: Record
 
 Conmponent level:Check-out
 
+![step 2](https://lh3.googleusercontent.com/-YfzJiQ-zXaE/WK84CWjnMSI/AAAAAAAAAJE/F56KlkVsejcjZ9DpuNoDFKWXcAKy2P9PgCL0B/w530-d-h150-p-rw/Step%2B2.png)
 
 Step 2 to 1 Breakdown Requirement
 
