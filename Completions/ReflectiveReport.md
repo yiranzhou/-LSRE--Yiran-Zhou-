@@ -65,3 +65,15 @@ I have chosen a case, which is a windows application, named Hotel Management Sys
 According to the case of first technique, there is one requirement named payment, it is a good instance for this technique. Based on 
 the paper,'A method ', I will resent a table to presents the excution of this technique. Due to this is a report on Github, the table 
 is translated into plaintext.
+
+
+##Proof of Concept:
+####1.Technique from Requirements Abstraction Model to break down requirements.
+
+Step 1 Specify
+| - | Description | Reason/Benefit/Rationale| Restrictions/Risks |
+| :-------------: | :-------------: | :-------------: |:-------------: |
+|Booking |The system should be able to input and modify booking information | WHY: The user want to input and modify booking information.BENEFIT: the user can use this system to book for guests. |The length and type of input text should be restricted.|
+|Check-in | The system should be able to input and modify check-in information. |WHY: The user want to input and modify check-in information.BENEFIT: the user can use this system to check in for guests.|The length and type of input text should be restricted. The system should be used to confirm the identity information of the user is legitimate. |
+
+
