@@ -208,11 +208,10 @@ Differential advantage:  30			Price (80); Non-functional requirements(20)       
 
 Question (3)"what to do"
 
-Factors			   Weightings of factors  Requirement(Interface to external payment system ) Normalized
-
-Architecture stabillity:   50	                   70  							35
-
-Customization flexibility: 50                      80							40
+| - | Factors | Weightings of factors | Requirement(Interface to external payment system ) Normalized |
+| :-------------: | :-------------: | :-------------: |:-------------: |
+|Architecture stabillity: | 50 | 70 |35|
+|Customization flexibility: | 50 |80|	40 |
 
 The total normalized points are 247.5. We can calculate other requirements according to the three questions, and compare the points of each requirements to prioritize the requirements. Additionally, we can presents more factors in the 'table' to get a detailed rating for each requirements.
 
