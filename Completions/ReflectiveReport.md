@@ -75,6 +75,8 @@ Step 1 Specify
 | ----- | Description | Reason/Benefit/Rationale| Restrictions/Risks |
 | :-------------: | :-------------: | :-------------: |:-------------: |
 |Booking |The system should be able to input and modify booking information | WHY: The user want to input and modify booking information.BENEFIT: the user can use this system to book for guests. |The length and type of input text should be restricted.|
-|Check-in | The system should be able to input and modify check-in information. |WHY: The user want to input and modify check-in information.BENEFIT: the user can use this system to check in for guests.|The length and type of input text should be restricted. The system should be used to confirm the identity information of the user is legitimate. |
+|Check-in | The system should be able to input and modify check-in information |WHY: The user want to input and modify check-in information.BENEFIT: the user can use this system to check in for guests|The length and type of input text should be restricted. The system should be used to confirm the identity information of the user is legitimate|
+| Payment | The system should provide interfaces to kinds of external payment systems and record the payment information |WHY: The guests need to pay for their romms by using different credit card and cash and the hotel need payment information for management.
+BENIFIT: Make the usage of the system more attrctive |The security of information is an issue |
 
 
