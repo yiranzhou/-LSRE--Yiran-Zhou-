@@ -70,15 +70,21 @@ is translated into plaintext.
 ##Proof of Concept:
 ####1.Technique from Requirements Abstraction Model to break down requirements.
 
+To apply the RAM method, firstly I proposed some basic requirements and specified them in Step 1. The original requirements are not so many, but as the process of applying the RAM, there will be so many requirements. Then I placed them in Product Level, Feature Level, Function Level and Component Level in Step 2.   
+
 Step 1 Specify
 
 | ----- | Description | Reason/Benefit/Rationale| Restrictions/Risks |
 | :-------------: | :-------------: | :-------------: |:-------------: |
 |Booking |The system should be able to input and modify booking information | WHY: The user want to input and modify booking information.BENEFIT: the user can use this system to book for guests. |The length and type of input text should be restricted.|
 |Check-in | The system should be able to input and modify check-in information |WHY: The user want to input and modify check-in information.BENEFIT: the user can use this system to check in for guests|The length and type of input text should be restricted. The system should be used to confirm the identity information of the user is legitimate|
-| Payment | The system should provide interfaces to kinds of external payment systems and record the payment information |WHY: The guests need to pay for their romms by using different credit card and cash and the hotel need payment information for management. BENIFIT: Make the usage of the system more attrctive |The security of information is an issue |
-|Reception management|The system should be able to check, modify guest information, room information, and set room information|WHY: Guests sometimes may change their schedule and the rooms may need renovate. BENIFIT: Make the system more flexible.|This may conflict with booking and check in if not promptly update.|
-|Back Office management|The system should be able to manage the privilege of the system and modify the state of rooms|WHY: The system are only used by reception staff of a hotel. BENEFIT: Ensure the the security of the guest information and hotel information.|The security of system is an issue.|
-|Record|All the information and operation information should be record.|WHY: The managers of hotel or other people may need the information. BENIFIT: If there is an accident, the system can provide some evidence.|Customer information and hotel information may be stolen.|
-|Check-out|The system should be able to check out for guests.|WHY: The user want to check out for guest. BENIFIT: the user can use this system to check out for guests.|Only the user has privilege can check out for guests.|
+|Payment | The system should provide interfaces to kinds of external payment systems and record the payment information |WHY: The guests need to pay for their romms by using different credit card and cash and the hotel need payment information for management. BENIFIT: Make the usage of the system more attrctive |The security of information is an issue |
+|Reception management |The system should be able to check, modify guest information, room information, and set room information|WHY: Guests sometimes may change their schedule and the rooms may need renovate. BENIFIT: Make the system more flexible.|This may conflict with booking and check in if not promptly update.|
+|Back Office management |The system should be able to manage the privilege of the system and modify the state of rooms|WHY: The system are only used by reception staff of a hotel. BENEFIT: Ensure the the security of the guest information and hotel information.|The security of system is an issue.|
+|Record |All the information and operation information should be record.|WHY: The managers of hotel or other people may need the information. BENIFIT: If there is an accident, the system can provide some evidence.|Customer information and hotel information may be stolen.|
+|Check-out |The system should be able to check out for guests.|WHY: The user want to check out for guest. BENIFIT: the user can use this system to check out for guests.|Only the user has privilege can check out for guests.|
+
+Step 2 Place
+According to Step 1, these requirements are placed in following abstract level.
+![step 2](https://lh3.googleusercontent.com/-YfzJiQ-zXaE/WK84CWjnMSI/AAAAAAAAAJE/F56KlkVsejcjZ9DpuNoDFKWXcAKy2P9PgCL0B/w530-d-h150-p-rw/Step%2B2.png)
 
