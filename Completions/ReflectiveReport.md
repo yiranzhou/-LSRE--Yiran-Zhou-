@@ -39,7 +39,11 @@ A Method for Early Requirements Triage and selection Utilizing Product Strategie
 It is critical for product management to select the requirements aligned with the overall business goals and discard others as early as possible. Due to the emergence of markets for off-the-shelf or packaged software, the result is a large amount and continuous flow of requirements that threaten to overload the development organization. MERT could combine the strategic and technical perspectives to formulate product strategies that are good-enough. MERTS takes strategic and technical views into account, so that it can acts as a stepwise guide to creating product strategies. The strategies resulting from MERTS can be used by managers to perform requirements triage 
 
 for early requirements triage and selection
-These two papers help define excutable requirements, which is useful and practical in software development process. And based on each saminer,  I think the techniques provided by these papers are easy to understand and implement, though there are some defects in them. 
+
+There are eighteen articles as the alternative reference literatures. I have selected those two papers because they have logic which can use in different steps for requirement analysis of a project. The ‘A Method for Early Requirements Triage and selection Utilizing Product Strategies’ introduces a method to help analyze the requirement triage and product strategies. And the other article, ‘Requirements Abstraction Mode’, shows a model which can further analyze the requirement. In the mode, the requirements will be refined into smaller one for further design and development.
+
+These two papers help define excutable requirements, which is useful and practical in software development process. And based on each saminer,  I think the techniques provided by these papers are easy to understand and implement, though there are some defects in them.
+
 
 ##Implementation Plan:
 
