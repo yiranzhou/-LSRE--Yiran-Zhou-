@@ -55,16 +55,15 @@ for early requirements triage and selection. These two papers help define excuta
 4. Using the method from ‘Requirements Abstraction Model’ to break down the requirements from the tested project.
 
 ##Excution:
-####1.Technique from Requirements Abstraction Model to break down requirements.
 
-I have chosen a case, which is a windows application, named Hotel Management System, the target customers are hotels. The system should include management sub-system and back office sub-system. And I presents some basic requirement of Hotel Management System, I will break down parts of them according to 'Requirement Absreaction Model'. Additionally, most requirements are from my own experience and some are from network. 
-
-
-####2.MERTS
-
-According to the case of first technique, there is one requirement named payment, it is a good instance for this technique. Based on 
-the paper,'A method ', I will resent a table to presents the excution of this technique. Due to this is a report on Github, the table 
-is translated into plaintext.
+1.	Scoping the tested project
+As the description in‘Method for Early Requirements Triage and Selection Utilizing Product Strategies, ‘the market-driven product development has large numbers of requirements threaten to overload the development organization. ’And in the explanation in ‘Requirements Abstraction Model’，‘software requirements arrive in different shapes and forms to development organizations. This is particularly the case in market-driven requirements engineering, where the requirements are on products rather than directed towards projects.’The tested project should be a market-driven project. And the limitation of human resources and time lead to the project size should be suitable for a master student research.
+2.	Selecting the tested project
+A project has been chosen, which is a windows application, named Hotel Management System, the target customers are hotels. The system should include management sub-system and back office sub-system. 
+3.	Break down the requirements 
+I have presented some basic requirement of Hotel Management System. Parts of them have been break down, according to 'Requirement Absreaction Model'. Additionally, most requirements are from my own experience and some are from network.
+4.	Calculating the points of each requirement
+According to the case of first technique, there is one requirement named payment, it is a good instance for this technique. Based on the paper, 'A method ', I will resent a table to presents the excution of this technique. Due to this is a report on Github, the table is translated into plaintext.
 
 
 ##Proof of Concept:
