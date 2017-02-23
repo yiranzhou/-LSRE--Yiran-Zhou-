@@ -72,7 +72,7 @@ is translated into plaintext.
 
 Step 1 Specify
 
-| - | Description | Reason/Benefit/Rationale| Restrictions/Risks |
+| ----- | Description | Reason/Benefit/Rationale| Restrictions/Risks |
 | :-------------: | :-------------: | :-------------: |:-------------: |
 |Booking |The system should be able to input and modify booking information | WHY: The user want to input and modify booking information.BENEFIT: the user can use this system to book for guests. |The length and type of input text should be restricted.|
 |Check-in | The system should be able to input and modify check-in information. |WHY: The user want to input and modify check-in information.BENEFIT: the user can use this system to check in for guests.|The length and type of input text should be restricted. The system should be used to confirm the identity information of the user is legitimate. |
