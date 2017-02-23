@@ -126,6 +126,7 @@ Conmponent level:Check-out
 
 ![step 2](https://lh3.googleusercontent.com/-YfzJiQ-zXaE/WK84CWjnMSI/AAAAAAAAAJE/F56KlkVsejcjZ9DpuNoDFKWXcAKy2P9PgCL0B/w530-d-h150-p-rw/Step%2B2.png)
 
+![Step 3](https://lh3.googleusercontent.com/-5iCmdMhpCJ0/WK88LJSay1I/AAAAAAAAAJs/1NguCUngF24ZBjC-PN_3wYyd6WFbpLy3wCL0B/w530-d-h501-p-rw/%25E6%2597%25A0%25E6%25A0%2587%25E9%25A2%2598%25E7%25BB%2598%25E5%259B%25BE%2B%25281%2529.png)
 Step 2 to 1 Breakdown Requirement
 
 According to the RAM, the requirements belong product and feature levels need to be broken down. I broke down Reception Managment and Payment as instances below.
