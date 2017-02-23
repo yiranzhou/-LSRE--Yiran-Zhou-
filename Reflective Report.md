@@ -45,7 +45,10 @@ Requirement 2 Check-in
 
 Description: The system should be able to input and modify check-in information.
 
-Reason/Benefit/Rationale: WHY: The user want to input and modify check-in information. BENEFIT: the user can use this system to check in for guests. 
+Reason/Benefit/Rationale: 
+WHY: The user want to input and modify check-in information. 
+
+BENEFIT: the user can use this system to check in for guests. 
 
 Restrictions/Risks: The length and type of input text should be restricted. The system should be used to confirm the identity information of the user is legitimate.
 
@@ -54,7 +57,11 @@ Requirement 3 Payment
 
 Description: The system should provide interfaces to kinds of external payment systems and record the payment information
 
-Reason/Benefit/Rationale: WHY: The guests need to pay for their romms by using different credit card and cash and the hotel need payment information for management. BENIFIT: Make the usage of the system more attrctive 
+Reason/Benefit/Rationale: 
+
+WHY: The guests need to pay for their romms by using different credit card and cash and the hotel need payment information for management. 
+
+BENIFIT: Make the usage of the system more attrctive 
 
 Restrictions/Risks: The security of information is an issue.
 
@@ -62,7 +69,11 @@ Requirement 4 Reception management
 
 Description: The system should be able to check, modify guest information, room information, and set room information
 
-Reason/Benefit/Rationale: WHY: Guests sometimes may change their schedule and the rooms may need renovate. BENIFIT: Make the system more flexible.
+Reason/Benefit/Rationale: 
+
+WHY: Guests sometimes may change their schedule and the rooms may need renovate. 
+
+BENIFIT: Make the system more flexible.
 
 Restrictions/Risks: This may conflict with booking and check in if not promptly update.
 
@@ -71,7 +82,11 @@ Requirement 5 Back Office management
 
 Description: The system should be able to manage the privilege of the system and modify the state of rooms
 
-Reason/Benefit/Rationale: WHY: The system are only used by reception staff of a hotel. BENEFIT: Ensure the the security of the  guest information and hotel information.
+Reason/Benefit/Rationale:
+
+WHY: The system are only used by reception staff of a hotel. 
+
+BENEFIT: Ensure the the security of the  guest information and hotel information.
 
 Restrictions/Risks: The security of system is an issue.
 
@@ -80,7 +95,11 @@ Requirement 6 Record
 
 Description: All the information and operation information should be record.
 
-Reason/Benefit/Rationale: WHY: The managers of hotel or other people may need the information. BENIFIT: If there is an accident, the system can provide some evidence.
+Reason/Benefit/Rationale: 
+
+WHY: The managers of hotel or other people may need the information.
+
+BENIFIT: If there is an accident, the system can provide some evidence.
 
 Restrictions/Risks: Customer information and hotel information may be stolen.
 
