@@ -71,6 +71,7 @@ is translated into plaintext.
 ####1.Technique from Requirements Abstraction Model to break down requirements.
 
 Step 1 Specify
+
 | - | Description | Reason/Benefit/Rationale| Restrictions/Risks |
 | :-------------: | :-------------: | :-------------: |:-------------: |
 |Booking |The system should be able to input and modify booking information | WHY: The user want to input and modify booking information.BENEFIT: the user can use this system to book for guests. |The length and type of input text should be restricted.|
