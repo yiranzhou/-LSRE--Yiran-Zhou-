@@ -61,13 +61,14 @@ According to the case of first technique, there is one requirement named payment
 
 
 ##Proof of Concept:
+
+In this section, I proposed a hotel management system, which include all most basic function for managing a hotel. Fisrtly, I use RAM model to break down these original requirements. Then I use MERTS to prioritize these requirements. It should be noted that due to the limitation of my ability, the original requirements are not 'large scale', the final requirements are 'large scale'. What's moere, we can use the existing part of the requirements to speculate the process of applying these methods in large scale requirement engineering. The amount of requirements is almost geometrically growing when applying the RAM model to the original requirements.
+
 ####1.Technique from Requirements Abstraction Model to break down requirements.
 
-To apply the RAM method, firstly I proposed some basic requirements and specified them in Step 1. The original requirements are not so many, but as the process of applying the RAM, there will be so many requirements. Secondly, I placed them in Product Level, Feature Level, Function Level and Component Level in Step 2. Then I will use Early Requirements Triage to prioritize the requirements. What's moere, we can use the existing part of the requirements to speculate the process of applying thses methods in large scale requirement engineering. I will explain the detail after all steps finished. 
+The RAM model allows for placement of requirements on different levels and supports abstraction or break down of requirements to make them comparable to each other. As the sources of the requirements vary and the equirements themselves are both direct and indirect in ature it is not surprising that they come in different hapes and forms, at multiple levels of abstraction, and escribed on varying levels of refinement. RAM is modeled towards a product perspective, supporting a continuous requirement engineering effort, aimed at taking requirements of multiple types (abstraction level) as input, and offers a structure for the work-up of these requirements. Through work with RAM, requirements on a high level of abstraction (comparable to product strategy) and a low level of abstraction (good enough as input to a project) are available. In addition, as several levels of abstraction are offered, a richer understanding can be obtained as to the purpose of a requirement, its origin and so on, by looking at requirements over the abstraction level boundaries.The work-up process involves creating new requirements (called work-up requirements hereafter) on adjacent abstraction levels or linking to already existing ones, depending on the situation. Besides, there are another 10 attributes, such as Requirement Source, Requirement Owner, Requirements Manager and so forth.
 
-The RAM model allows for placement of requirements on different levels and supports abstraction or break down of requirements to make them comparable to each other. As the sources of the requirements vary and the equirements themselves are both direct and indirect in ature it is not surprising that they come in different hapes and forms, at multiple levels of abstraction, and escribed on varying levels of refinement. RAM is modeled towards a product perspective, supporting a continuous requirement engineering effort, aimed at taking requirements of multiple types (abstraction level) as input, and offers a structure for the work-up of these requirements. Through work with RAM, requirements on a high level of abstraction (comparable to product strategy) and a low level of abstraction (good enough as input to a project) are available. In addition, as several levels of abstraction are offered, a richer understanding can be obtained as to the purpose of a requirement, its origin and so on, by looking at requirements over the abstraction level boundaries.
-
-The work-up process involves creating new requirements (called work-up requirements hereafter) on adjacent abstraction levels or linking to already existing ones, depending on the situation. Besides, there are another 10 attributes, such as Requirement Source, Requirement Owner, Requirements Manager and so forth.
+To apply the RAM method, firstly I proposed some basic requirements and specified them in Step 1. The original requirements are not so many, but as the process of applying the RAM, there will be large scale requirements. Secondly, I placed them in Product Level, Feature Level, Function Level and Component Level in Step 2. Then, the requirements will be broken down in Step 3. The Step 2 and 3 are 
 
 Step 1 Specify
 
@@ -114,7 +115,6 @@ According to the literature study an initial draft of MERTS was created and elic
 from the previous literature study and industry interviews was subsequently used for the creation of a final version of MERTS. Initial 
 industry validation is presented and a discussion of lessons learned highlighting initial feedback is presented. 
 
-
 - Step 1.Specify. Answer the three strategic questions ((1)Where we want to go?, (2) How to get there?, (3) What will be done?) for each product.
 - Step 2.Assign Weights. The answers from Step 1 are assigned weights. The answers of each question have a total weight of 100 (Table 1) and the total weight of the three questions is 300.
 - Step 3.Compare Requirements. There is an instance that shows the weights of same requirement are different in different market.
@@ -126,6 +126,14 @@ The explanation of the three questions in Step 1 as follows:
 2. “how will we get there”-The choice of customer targets depends on the nature of the goals and objectives selected when answering “where an organization wants to go”.
 
 3. “what to do”-For determining a product’s position in the market it has to be differentiated based on either cost price or value of product offering. This means that the product has to be either low priced backed by low costs or better than competitors’products as seen by customer.
+
+Step 1 Specify
+
+| Questions | Factors | Weight of factors|Requirement(Interface to external payment system )| Normalized| 
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+|where|Market growth|50|80|40|
+||Market share|25|80|20|
+||Profit|25|50|12.5|
 
 ##Lessons Learned:
 
