@@ -92,3 +92,8 @@ Step 3 Break Down Requirements
 The third step of RAM involves abstracting and/or breakdown of a requirement, depending on the initial placement of the original requirement. The work-up process involves creating new requirements (called work-up requirements hereafter) on adjacent abstraction levels or linking to already existing ones, depending on the situation. Besides, there are another 10 attributes, such as Requirement Source, Requirement Owner, Requirements Manager and so forth.
 
 ![step 2](https://lh3.googleusercontent.com/-Lhz8c25RqoA/WK9BrVnp7VI/AAAAAAAAAMY/SCwtsIBOIfI54xsGWGk9qwz6jukHtCnTgCJoC/w530-h501-p-rw/Step%2B3-1.png)
+
+##Merts
+According to the literature study an initial draft of MERTS was created and elicited information from industry The input 
+from the previous literature study and industry interviews was subsequently used for the creation of a final version of MERTS. Initial 
+industry validation is presented and a discussion of lessons learned highlighting initial feedback is presented. 
