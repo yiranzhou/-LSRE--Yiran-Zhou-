@@ -99,6 +99,12 @@ from the previous literature study and industry interviews was subsequently used
 industry validation is presented and a discussion of lessons learned highlighting initial feedback is presented. 
 
 
-- Step1.Specify. Answer the three strategic questions ((1)Where we want to go?, (2) How to get there?, (3) Whatwill be done?) for each product.
-- Step2.Assign Weights. The answers from Step 1 are assigned weights. The answers of each question have a total weight of 100 (Table 1) and the total weight of the three questions is 300.
-- Step3.Compare Requirements. There is an instance that shows the weights of same requirement are different in different market.
+- Step 1.Specify. Answer the three strategic questions ((1)Where we want to go?, (2) How to get there?, (3) What will be done?) for each product.
+- Step 2.Assign Weights. The answers from Step 1 are assigned weights. The answers of each question have a total weight of 100 (Table 1) and the total weight of the three questions is 300.
+- Step 3.Compare Requirements. There is an instance that shows the weights of same requirement are different in different market.
+
+The explanation of the three questions in Step 1 as follows:
+1. “where do we want to go”-finding out the right balance between the long term opportunities or goals and short term objectives. Goals are profit, growth, and market share.
+2. “how will we get there”-The choice of customer targets depends on the nature of the goals and objectives selected when answering “where an organization wants to go”.
+3. “what to do”-For determining a product’s position in the market it has to be differentiated based on either cost price or value of product offering. This means that the product has to be either low priced backed by low costs or better than competitors’products as seen by customer.
+
