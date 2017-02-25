@@ -82,7 +82,7 @@ The first step (Specify) involves specifying the initial requirement and eliciti
 |Back Office management |The system should be able to manage the privilege of the system and modify the state of rooms|WHY: The system are only used by reception staff of a hotel. BENEFIT: Ensure the the security of the guest information and hotel information.|The security of system is an issue.|
 |Record |All the information and operation information should be record.|WHY: The managers of hotel or other people may need the information. BENIFIT: If there is an accident, the system can provide some evidence.|Customer information and hotel information may be stolen.|
 |Log in|Only the relevant staff can log in to operate the system.|WHY: The system should be relatively closed, so that other unrelated personnel can not use the system. BENEFIT: others can not use this system to modify any information.| The security of information is an issue|
-|User management|The system should be able to let user change password and manage the user of the system.|-|-|
+|System management|The system managment should include user management and login system.|WHY: The system should be able to let user change password and manage the users of the system. BENEFIT: the system could manage the privilege of the system.| The security of information is an issue.|
 |Check-out |The system should be able to check out for guests.|WHY: The user want to check out for guest. BENIFIT: the user can use this system to check out for guests.|Only the user has privilege can check out for guests.|
 
 Step 2 Place
