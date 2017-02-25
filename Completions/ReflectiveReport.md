@@ -71,7 +71,7 @@ The work-up process involves creating new requirements (called work-up requireme
 
 Step 1 Specify
 
-The first step (Specify) involves specifying the initial requirement and eliciting enough information about it to specify a number of attributes. At first step, there are four attributes: Description, Reason/Benefit/Rationale, Restrictions/Risks and Title. In this step, the requirements will be 
+The first step (Specify) involves specifying the initial requirement and eliciting enough information about it to specify a number of attributes. At first step, I present three attributes: Description, Reason/Benefit/Rationale, and Restrictions/Risks to specify the original requirements.
 
 | ----- | Description | Reason/Benefit/Rationale| Restrictions/Risks |
 | :-------------: | :-------------: | :-------------: |:-------------: |
