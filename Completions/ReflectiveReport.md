@@ -140,14 +140,11 @@ Step 1 Specify
 
 ##Lessons Learned:
 
-1. When the original requirements are proposed, they are usually belong to Product Level or Feature Level, which means that almost of them could be brokendown. Although some requirements are belong to Function Level, they can still be broken down. What's more, not only the proposed original requirements could be other original requirements      
+1. When the original requirements are proposed, they are usually belong to Product Level or Feature Level, which means that almost of them could be brokendown. Although some requirements are belong to Function Level, they can still be broken down. What's more, the proposed original requirements could be the sub-requirements of other original requirements. 
 
-2. The
-2.Not only the requirement itself, we need consider target market, target customer, competitors,etc. 
+2. The break down process of RAM model is complicated so that the workload is huge, especially for large scale requirement engineering. I think that it is better to develop a system or a software step by step, not in large scale for individual. For big company, it is also better to split a large-scale project into small-scale project.
 
-3.Customized requirements for different target market is a good choice.
-
-4.If I want breakdown and prioritize requirements, I need more practise.
+3. When I applying the MERTS, I also realized that the 'large scale' means huge workload. The MERTS require to identify kinds of weights for each requirement, 
 
 ##Reflections:
 1.When I have an idea, I take too much time to make it excutable. I think it is because I still do not master these two techniques, I am not familiar with them and not fully grasp these technologies.
