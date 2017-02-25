@@ -62,7 +62,7 @@ According to the case of first technique, there is one requirement named payment
 
 ##Proof of Concept:
 
-In this section, I proposed a hotel management system, which include all most basic function for managing a hotel. Fisrtly, I use RAM model to break down these original requirements. Then I use MERTS to prioritize these requirements. It should be noted that due to the limitation of my ability, the original requirements are not 'large scale', the final requirements are 'large scale'. What's moere, we can use the existing part of the requirements to speculate the process of applying these methods in large scale requirement engineering. The amount of requirements is almost geometrically growing when applying the RAM model to the original requirements.
+In this section, I proposed a hotel management system, which include all most basic function for managing a hotel. Fisrtly, I use RAM model to break down these original requirements. Then I use MERTS to prioritize these requirements. It should be noted that due to the limitation of my ability, the original requirements are not so 'large scale', but the final requirements are 'large scale'. What's moere, I can use the existing process of breaking requirements to speculate the process of applying these methods in large scale requirement engineering. The fact is that the amount of requirements is almost geometrically growing when applying the RAM model to the original requirements. Also, I did not use all broken down requirements to apply the MERTS. The reason is that the limitation of my ability, since it is very hard to identify correct and exact weights of many attributes of each requirements based on the questions from MERTS. 
 
 ####1.Technique from Requirements Abstraction Model to break down requirements.
 
@@ -134,6 +134,9 @@ Step 1 Specify
 |where|Market growth|50|80|40|
 ||Market share|25|80|20|
 ||Profit|25|50|12.5|
+|how|Customer segments|50|80|40|
+||Competitors|25|80|20|
+||Differential advantage|25|50|12.5|
 
 ##Lessons Learned:
 
