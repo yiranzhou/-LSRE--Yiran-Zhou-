@@ -121,3 +121,18 @@ The explanation of the three questions in Step 1 as follows:
 
 3. “what to do”-For determining a product’s position in the market it has to be differentiated based on either cost price or value of product offering. This means that the product has to be either low priced backed by low costs or better than competitors’products as seen by customer.
 
+##Lessons Learned:
+
+1.The experience in requirement engineering is VERY important. No matter breakdown or prioritize requirements.
+
+2.Not only the requirement itself, we need consider target market, target customer, competitors,etc. 
+
+3.Customized requirements for different target market is a good choice.
+
+4.If I want breakdown and prioritize requirements, I need more practise.
+
+##Reflections:
+1.When I have an idea, I take too much time to make it excutable. I think it is because I still do not master these two techniques, I am not familiar with them and not fully grasp these technologies.
+
+2.The reason why I only presents four attributes of requirements in this report is that the proportion of these four attributes is
+ much higher than other attributes. But maybe I can search a method to points them and check whether the rest attributes make sense.
