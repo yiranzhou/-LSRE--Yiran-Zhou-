@@ -104,6 +104,10 @@ The third step of RAM involves abstracting and/or breakdown of a requirement, de
 |Supplement guest information|The system should be able to supplement guest information.| WHY: In some situation, the user may need to supplement guest information. BENIFIT: the user can record complete and correct information of guests.|Only user who has the privilege can set room state. Supplementary information should be identified.|
 |Record payment information|The system should be able to record payment information.|WHY: the hotel need payment data to complete financial statements. BENIFIT: Make the management of financial more convenient.|The security is an issue.|
 |Interface to external payment system|The system should provide different interfaces for different external payment systems.|WHY: The guests should pay for their rooms.BENIFIT: Make the payments more convenient for hotel and guest.|The security is an issue.|
+|Booking for members|The system should be able to have a booking for the member customer.|WHY: The user want to deal with the reservation case of customer member. BENEFIT: The user can process the customer member booking.||
+|Booking for guests|The system should be able to have a booking for guests.|WHY: The user want to deal with the reservation case of guests. BENEFIT: The user can process the booking from the guest customers. ||
+|Booking for individual|The system should be able to have a reservation for the individual customer.|WHY: The user want to deal with the individual reservation case. BENEFIT: The user can process the booking of individual reservation case.||
+|Booking for group|The system should be able to have a reservation for the group booking.|WHY: The user want to deal with the group reservation case. BENEFIT: The user can process the booking of group reservation case.||
 
 ##Merts
 According to the literature study an initial draft of MERTS was created and elicited information from industry The input 
