@@ -129,9 +129,9 @@ The explanation of the three questions in Step 1 as follows:
 
 ##Lessons Learned:
 
-1. When the original requirements are proposed, they are usually    
-The experience in requirement engineering is VERY important. No matter breakdown or prioritize requirements.
+1. When the original requirements are proposed, they are usually belong to Product Level or Feature Level, which means that almost of them could be brokendown. Although some requirements are belong to Function Level, they can still be broken down. What's more, not only the proposed original requirements could be other original requirements      
 
+2. The
 2.Not only the requirement itself, we need consider target market, target customer, competitors,etc. 
 
 3.Customized requirements for different target market is a good choice.
