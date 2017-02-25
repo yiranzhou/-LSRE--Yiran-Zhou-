@@ -109,6 +109,14 @@ The third step of RAM involves abstracting and/or breakdown of a requirement, de
 |Booking for guests|The system should be able to have a booking for guests.|WHY: The user want to deal with the reservation case of guests. BENEFIT: The user can process the booking from the guest customers. |The booking is normal guests, but not for members|
 |Booking for individual|The system should be able to have a reservation for the individual customer.|WHY: The user want to deal with the individual reservation case. BENEFIT: The user can process the booking of individual reservation case.|The booking is for individual who could be members or normal guests.|
 |Booking for group|The system should be able to have a reservation for the group booking.|WHY: The user want to deal with the group reservation case. BENEFIT: The user can process the booking of group reservation case.|The booking is for group.|
+|Record payment information|The system should be able to check the payment record|WHY: The user want to  check the record of payment information. BENEFIT:The user can check the payment record.||
+|Interface to external payment system|The system should be able to allow using the external payment system.|WHY:The user want to allow the customers to pay by external payment system. BENEFIT:The customers can use external payment system.||
+|System user management|The system should be able to manage the users.|WHY: The user want to manage the users who have restriction to use this system. BENEFIT:The user can manage the users who using the system.||
+|Hotel room management|The system should be able to manage the room.|WHY:The user want to manage the hotel rooms. BENEFIT:The user can manage the hotel room by the system.||
+|Check-in online|The system should be able to deal with the check-in online.|WHY:The user want to the customers can check-in online by the system.  BENEFIT:The customers can use the system check-in online.||
+|Check-in hotel|The system should be able to deal with the check-in in reception.|WHY:The user want to the customers can check-in in the hotel reception by the system. BENEFIT: The customers can check-in in the hotel reception by the system.
+|Check-out in hotel|The system should be able to deal with the check-out in reception.|WHY:The user want to the customers can check-out in the hotel reception by the system. BENEFIT:The customers can check-out in the hotel reception by the system.||
+|Self-check-out|The system should be able to deal with the self-check-out.|WHY:The user want to the customers can self-check-out by the system. BENEFIT:The customers can check-out by themselves by the system.|This function do not need authority of the main system. It connect to a external machine that customer could use to check out.|
 
 ##Merts
 According to the literature study an initial draft of MERTS was created and elicited information from industry The input 
