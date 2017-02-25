@@ -67,9 +67,11 @@ According to the case of first technique, there is one requirement named payment
 
 To apply the RAM method, firstly I proposed some basic requirements and specified them in Step 1. The original requirements are not so many, but as the process of applying the RAM, there will be so many requirements. Secondly, I placed them in Product Level, Feature Level, Function Level and Component Level in Step 2. Then I will use Early Requirements Triage to prioritize the requirements. What's moere, we can use the existing part of the requirements to speculate the process of applying thses methods in large scale requirement engineering. I will explain the detail after all steps finished. 
 
+The RAM model allows for placement of requirements on different levels and supports abstraction or break down of requirements to make them comparable to each other. As the sources of the requirements vary and the equirements themselves are both direct and indirect in ature it is not surprising that they come in different hapes and forms, at multiple levels of abstraction, and escribed on varying levels of refinement. RAM is modeled towards a product perspective, supporting a continuous requirement engineering effort, aimed at taking requirements of multiple types (abstraction level) as input, and offers a structure for the work-up of these requirements. Through work with RAM, requirements on a high level of abstraction (comparable to product strategy) and a low level of abstraction (good enough as input to a project) are available. In addition, as several levels of abstraction are offered, a richer understanding can be obtained as to the purpose of a requirement, its origin and so on, by looking at requirements over the abstraction level boundaries.
+
 Step 1 Specify
 
-In this step, the requirements will be 
+The first step (Specify) involves specifying the initial requirement and eliciting enough information about it to specify a number of attributes. At first step, there are four attributes: Description, Reason/Benefit/Rationale, Restrictions/Risks and Title. In this step, the requirements will be 
 
 | ----- | Description | Reason/Benefit/Rationale| Restrictions/Risks |
 | :-------------: | :-------------: | :-------------: |:-------------: |
@@ -82,9 +84,11 @@ In this step, the requirements will be
 |Check-out |The system should be able to check out for guests.|WHY: The user want to check out for guest. BENIFIT: the user can use this system to check out for guests.|Only the user has privilege can check out for guests.|
 
 Step 2 Place
+
+The second step (Place) is centered around what abstraction level the now specified requirements resides on and last (Abstraction) each requirement goes through a work-up.  At second step, RAM consists of a number of abstraction levels (the driving motor of the model). This step involves analyzing what level a requirement is on and placing it on this level. The four abstraction levels are Product level(goal),Feature level(features), Function level(functions/actions) and Component level(details- consists of)
 According to Step 1, these requirements are placed in following abstract level.
 ![step 2](https://lh3.googleusercontent.com/-YfzJiQ-zXaE/WK84CWjnMSI/AAAAAAAAAJE/F56KlkVsejcjZ9DpuNoDFKWXcAKy2P9PgCL0B/w530-d-h150-p-rw/Step%2B2.png)
 
 Step 3 Break Down Requirements
 
-
+The third step of RAM involves abstracting and/or breakdown of a requirement, depending on the initial placement of the original requirement. The work-up process involves creating new requirements (called work-up requirements hereafter) on adjacent abstraction levels or linking to already existing ones, depending on the situation. Besides, there are another 10 attributes, such as Requirement Source, Requirement Owner, Requirements Manager and so forth.
