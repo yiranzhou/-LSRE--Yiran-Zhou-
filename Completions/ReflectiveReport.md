@@ -97,3 +97,8 @@ The third step of RAM involves abstracting and/or breakdown of a requirement, de
 According to the literature study an initial draft of MERTS was created and elicited information from industry The input 
 from the previous literature study and industry interviews was subsequently used for the creation of a final version of MERTS. Initial 
 industry validation is presented and a discussion of lessons learned highlighting initial feedback is presented. 
+
+
+- Step1.Specify. Answer the three strategic questions ((1)Where we want to go?, (2) How to get there?, (3) Whatwill be done?) for each product.
+- Step2.Assign Weights. The answers from Step 1 are assigned weights. The answers of each question have a total weight of 100 (Table 1) and the total weight of the three questions is 300.
+- Step3.Compare Requirements. There is an instance that shows the weights of same requirement are different in different market.
