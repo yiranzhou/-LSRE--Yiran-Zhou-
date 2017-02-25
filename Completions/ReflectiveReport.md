@@ -92,3 +92,5 @@ According to Step 1, these requirements are placed in following abstract level.
 Step 3 Break Down Requirements
 
 The third step of RAM involves abstracting and/or breakdown of a requirement, depending on the initial placement of the original requirement. The work-up process involves creating new requirements (called work-up requirements hereafter) on adjacent abstraction levels or linking to already existing ones, depending on the situation. Besides, there are another 10 attributes, such as Requirement Source, Requirement Owner, Requirements Manager and so forth.
+
+![step 2](https://lh3.googleusercontent.com/-Lhz8c25RqoA/WK9BrVnp7VI/AAAAAAAAAMY/SCwtsIBOIfI54xsGWGk9qwz6jukHtCnTgCJoC/w530-h501-p-rw/Step%2B3-1.png)
