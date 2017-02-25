@@ -91,7 +91,15 @@ Step 3 Break Down Requirements
 
 The third step of RAM involves abstracting and/or breakdown of a requirement, depending on the initial placement of the original requirement. The work-up process involves creating new requirements (called work-up requirements hereafter) on adjacent abstraction levels or linking to already existing ones, depending on the situation. Besides, there are another 10 attributes, such as Requirement Source, Requirement Owner, Requirements Manager and so forth.
 
-![step 2](https://lh3.googleusercontent.com/-Lhz8c25RqoA/WK9BrVnp7VI/AAAAAAAAAMY/SCwtsIBOIfI54xsGWGk9qwz6jukHtCnTgCJoC/w530-h501-p-rw/Step%2B3-1.png)
+![step 3-1](https://lh3.googleusercontent.com/-Lhz8c25RqoA/WK9BrVnp7VI/AAAAAAAAAMY/SCwtsIBOIfI54xsGWGk9qwz6jukHtCnTgCJoC/w530-h501-p-rw/Step%2B3-1.png)
+
+| ----- | Description | Reason/Benefit/Rationale| Restrictions/Risks |
+| :-------------: | :-------------: | :-------------: |:-------------: |
+|Query room state|The system should be able to query room state.| WHY: The user want to check the state of room when new guests come. BENIFIT: the user can check in for new guests according to the result of query.|The state does not get update timely.|
+|Set room state|The system should be able to set room state.|WHY: The user want to set the state of room when the room is taken or need renovate. BENIFIT: the user can set the state of room when necessary.|Only user who has the privilege can set room state.|
+|Supplement guest information|The system should be able to supplement guest information.| WHY: In some situation, the user may need to supplement guest information. BENIFIT: the user can record complete and correct information of guests.|Only user who has the privilege can set room state. Supplementary information should be identified.|
+|Record payment information|The system should be able to record payment information.|WHY: the hotel need payment data to complete financial statements. BENIFIT: Make the management of financial more convenient.|The security is an issue.|
+|Interface to external payment system|The system should provide different interfaces for different external payment systems.|WHY: The guests should pay for their rooms.BENIFIT: Make the payments more convenient for hotel and guest.|The security is an issue.|
 
 ##Merts
 According to the literature study an initial draft of MERTS was created and elicited information from industry The input 
@@ -104,7 +112,10 @@ industry validation is presented and a discussion of lessons learned highlightin
 - Step 3.Compare Requirements. There is an instance that shows the weights of same requirement are different in different market.
 
 The explanation of the three questions in Step 1 as follows:
+
 1. “where do we want to go”-finding out the right balance between the long term opportunities or goals and short term objectives. Goals are profit, growth, and market share.
+
 2. “how will we get there”-The choice of customer targets depends on the nature of the goals and objectives selected when answering “where an organization wants to go”.
+
 3. “what to do”-For determining a product’s position in the market it has to be differentiated based on either cost price or value of product offering. This means that the product has to be either low priced backed by low costs or better than competitors’products as seen by customer.
 
