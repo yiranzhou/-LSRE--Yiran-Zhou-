@@ -45,10 +45,6 @@ for early requirements triage and selection. These two papers help define excuta
 
 ##Implementation Plan:
 
-- Use the method from Requirements Abstraction Model to break down requirements.
-
-- Use the method from A Method for Early Requirements Triage and selection Utilizing Product Strategies to calculate the points of each requirement.
-
 1. Based on the prerequisites of the proposed methods, and the limitation of my research, the implementation plan focus on the scoping of the tested project firstly. The project should be market-driven and available for one master student research.
 2. Selecting a project as the experimental material to apply the methods which are proposed in selecting papers is the next step.
 3. Using the method from ‘A Method for Early Requirements Triage and selection Utilizing Product Strategies’ to calculate the points of each requirement.
@@ -69,9 +65,11 @@ According to the case of first technique, there is one requirement named payment
 ##Proof of Concept:
 ####1.Technique from Requirements Abstraction Model to break down requirements.
 
-To apply the RAM method, firstly I proposed some basic requirements and specified them in Step 1. The original requirements are not so many, but as the process of applying the RAM, there will be so many requirements. Then I placed them in Product Level, Feature Level, Function Level and Component Level in Step 2.   
+To apply the RAM method, firstly I proposed some basic requirements and specified them in Step 1. The original requirements are not so many, but as the process of applying the RAM, there will be so many requirements. Secondly, I placed them in Product Level, Feature Level, Function Level and Component Level in Step 2. Then I will use Early Requirements Triage to prioritize the requirements. What's moere, we can use the existing part of the requirements to speculate the process of applying thses methods in large scale requirement engineering. I will explain the detail after all steps finished. 
 
 Step 1 Specify
+
+In this step, the requirements will be 
 
 | ----- | Description | Reason/Benefit/Rationale| Restrictions/Risks |
 | :-------------: | :-------------: | :-------------: |:-------------: |
@@ -86,4 +84,7 @@ Step 1 Specify
 Step 2 Place
 According to Step 1, these requirements are placed in following abstract level.
 ![step 2](https://lh3.googleusercontent.com/-YfzJiQ-zXaE/WK84CWjnMSI/AAAAAAAAAJE/F56KlkVsejcjZ9DpuNoDFKWXcAKy2P9PgCL0B/w530-d-h150-p-rw/Step%2B2.png)
+
+Step 3 Break Down Requirements
+
 
