@@ -129,7 +129,7 @@ The explanation of the three questions in Step 1 as follows:
 
 ##Lessons Learned:
 
-1. When the original requirements are proposed,  
+1. When the original requirements are proposed, they are usually    
 The experience in requirement engineering is VERY important. No matter breakdown or prioritize requirements.
 
 2.Not only the requirement itself, we need consider target market, target customer, competitors,etc. 
