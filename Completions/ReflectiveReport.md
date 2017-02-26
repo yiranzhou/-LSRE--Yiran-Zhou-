@@ -163,8 +163,10 @@ Step 1 Specify
 
 For the three requirements that belong to Product Level:
 |Items|Normalized Weightings|reception management|Back office management|Systmen management|
-|Market growth|50|||||
-|Market share|25|
+| :--------: | :--------: | :--------: | :--------: | :---------: |
+|Market growth|50|50|25|30|15|45|24.5|
+|Market share|25||||
+|Profit|25||||
 
 ##Lessons Learned:
 
