@@ -146,16 +146,15 @@ Step 1 Specify
 |Where|Market growth|50|||50|
 ||Market share|25|||25|
 ||Profit|25|||25|
-|How|Customer segments|50|USA market|30|
-||||EU market|30|
-||||Asia market|40|
-||Competitors|30|Company A|50|
-||||Company B|30|
-||||Others|20|
-||Differential advantage||Asian market|40|
-||||New Functions|60|
-||||Princing|20|
-||||Non functional requirements|20|
+|How|Customer segments|50|USA market|30|15|
+||||EU market|30|15|
+||||Asia market|40|20|
+||Competitors|30|Company A|50|15|
+||||Company B|30|15|
+||||Others|20|10|
+||Differential advantage|25|New Functions|60|15|
+||||Princing|20|5|
+||||Non functional requirements|20|5|
 
 
 ##Lessons Learned:
