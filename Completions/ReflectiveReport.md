@@ -118,6 +118,8 @@ The third step of RAM involves abstracting and/or breakdown of a requirement, de
 |Check-out in hotel|The system should be able to deal with the check-out in reception.|WHY:The user want to the customers can check-out in the hotel reception by the system. BENEFIT:The customers can check-out in the hotel reception by the system.|Only reception staff could use this function|
 |Self-check-out|The system should be able to deal with the self-check-out.|WHY:The user want to the customers can self-check-out by the system. BENEFIT:The customers can check-out by themselves by the system.|This function do not need authority of the main system. It connect to a external machine that customer could use to check out.|
 
+Step 4 Work Up process
+
 ##Merts
 According to the literature study an initial draft of MERTS was created and elicited information from industry The input 
 from the previous literature study and industry interviews was subsequently used for the creation of a final version of MERTS. Initial 
