@@ -165,24 +165,24 @@ For the three requirements that belong to Product Level:
 
 |Items|Normalized Weightings|Reception management|Back office management|Systmen management|
 | :--------: | :--------: | :--------: | :--------: | :---------: |
-|Market growth|50|Weight=50 Normalized weight=25|Weight=60  Normalized weight=30|Weight=45  Normalized weight=22.5|
-|Market share|25|Weight=70 Normalized weight=17.5|Weight=60  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Profit|25|Weight=50 Normalized weight=25|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|USA market|15|Weight=30 Normalized weight=4.5|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Eu market|15|Weight=30 Normalized weight=4.5|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Asia market|20|Weight=40 Normalized weight=25|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Company A|15|Weight=70 Normalized weight=10.5|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Company B|9|Weight=15 Normalized weight=1.35|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Others|6|Weight=15 Normalized weight=0.9|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|New Functions|12|Weight=50 Normalized weight=25|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Princing|4|Weight=50 Normalized weight=25|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Non functional requirements|4|Weight=0 Normalized weight=0|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|New Technology|35|Weight=30 Normalized weight=10.5|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Use of core assets|10|Weight=0 Normalized weight=0|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Architecture stability|15|Weight=20 Normalized weight=3|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Customazation flexibility|12|Weight=10 Normalized weight=1.2|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Martket pull|18|Weight=10 Normalized weight=1.8|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
-|Total|300|Weight=50 Normalized weight=25|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Market growth|50|Weight=50  Normalized weight=25|Weight=60  Normalized weight=30|Weight=45  Normalized weight=22.5|
+|Market share|25|Weight=70  Normalized weight=17.5|Weight=60  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Profit|25|Weight=50  Normalized weight=25|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|USA market|15|Weight=30  Normalized weight=4.5|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Eu market|15|Weight=30  Normalized weight=4.5|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Asia market|20|Weight=40  Normalized weight=8|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Company A|15|Weight=70  Normalized weight=10.5|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Company B|9|Weight=15  Normalized weight=1.35|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Others|6|Weight=15  Normalized weight=0.9|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|New Functions|12|Weight=50  Normalized weight=6|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Princing|4|Weight=50  Normalized weight=2|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Non functional requirements|4|Weight=0  Normalized weight=0|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|New Technology|35|Weight=30  Normalized weight=10.5|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Use of core assets|10|Weight=0  Normalized weight=0|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Architecture stability|15|Weight=20  Normalized weight=3|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Customazation flexibility|12|Weight=10  Normalized weight=1.2|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Martket pull|18|Weight=10  Normalized weight=1.8|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
+|Total|300|Weight=50 Normalized weight=121.75|Weight=30  Normalized weight=15|Weight=45  Normalized weight=24.5|
 
 ##Lessons Learned:
 
