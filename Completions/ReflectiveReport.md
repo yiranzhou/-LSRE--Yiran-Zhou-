@@ -94,7 +94,7 @@ According to Step 1, these requirements are placed in following abstract level.
 
 Step 3 Break Down Requirements
 
-The third step of RAM involves abstracting and/or breakdown of a requirement, depending on the initial placement of the original requirement. The work-up process involves creating new requirements (called work-up requirements hereafter) on adjacent abstraction levels or linking to already existing ones, depending on the situation. Besides, there are another 10 attributes, such as Requirement Source, Requirement Owner, Requirements Manager and so forth.
+The third step of RAM involves abstracting and/or breakdown of a requirement, depending on the initial placement of the original requirement. The work-up process involves creating new requirements (called work-up requirements hereafter) on adjacent abstraction levels or linking to already existing ones, depending on the situation. Besides, there are another 10 attributes, such as Requirement Source, Requirement Owner, Requirements Manager and so forth. The requirements on Feature Level and Product Level should be broken down. The requirements belong to Function Level can be broken down. 
 
 ![step 3-1](https://lh3.googleusercontent.com/-Lhz8c25RqoA/WK9BrVnp7VI/AAAAAAAAAMY/SCwtsIBOIfI54xsGWGk9qwz6jukHtCnTgCJoC/w530-h501-p-rw/Step%2B3-1.png)
 
@@ -118,8 +118,6 @@ The third step of RAM involves abstracting and/or breakdown of a requirement, de
 |Check-out in hotel|The system should be able to deal with the check-out in reception.|WHY:The user want to the customers can check-out in the hotel reception by the system. BENEFIT:The customers can check-out in the hotel reception by the system.|Only reception staff could use this function|
 |Self-check-out|The system should be able to deal with the self-check-out.|WHY:The user want to the customers can self-check-out by the system. BENEFIT:The customers can check-out by themselves by the system.|This function do not need authority of the main system. It connect to a external machine that customer could use to check out.|
 
-Step 4 Work Up process
-
 ##Merts
 According to the literature study an initial draft of MERTS was created and elicited information from industry The input 
 from the previous literature study and industry interviews was subsequently used for the creation of a final version of MERTS. Initial 
@@ -137,12 +135,12 @@ The explanation of the three questions in Step 1 as follows:
 
 3. “what to do”-For determining a product’s position in the market it has to be differentiated based on either cost price or value of product offering. This means that the product has to be either low priced backed by low costs or better than competitors’products as seen by customer.
 
-The first three steps of MERTS should be performed at product management level supporting the triage of requirements (aiding in the selection). According to the applying process of RAM, the 
+The first three steps of MERTS should be performed at product management level supporting the triage of requirements (aiding in the selection). According to the applying process of RAM, there are three requirements belong to Product Level, which are reception management, Back office management, Systmen management. 
 
 Step 1 Specify
 
-| Questions | Factors | Weight of factors|Requirement(Interface to external payment system )| Normalized| 
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| Questions | Factors | Weight of factors|Sub classification|Sub classifications Weightings|Requirement(Interface to external payment system )|Requirement| Normalized| 
+| :--------: | :--------: | :--------: | :--------: | :---------: |:---------: |:---------: |:---------: |
 |where|Market growth|50|80|40|
 ||Market share|25|80|20|
 ||Profit|25|50|12.5|
