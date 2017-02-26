@@ -135,11 +135,9 @@ The explanation of the three questions in Step 1 as follows:
 
 3. “what to do”-For determining a product’s position in the market it has to be differentiated based on either cost price or value of product offering. This means that the product has to be either low priced backed by low costs or better than competitors’products as seen by customer.
 
-The first three steps of MERTS should be performed at product management level supporting the triage of requirements (aiding in the selection). According to the applying process of RAM, there are three requirements belong to Product Level, which are reception management, Back office management, Systmen management. 
+Step 1 Specify & Step 2 Assign Weights
 
-The answers from Step 1 are assigned weights. The answers of each question have a total weight of 100 and the total weight of the three questions is 300. The rule is to assign weights to each of the factors based on their relative importance in a way that total weight remains 100. This way has been reported to be one of easiest and quickest prioritization methods.
-
-Step 1 Specify
+In order to explicitly state the goals and objectives of a product, it is important to specify the directions of movement for the product deduced from the organization’s mission statement. The answers from Step 1 are assigned weights. The answers of each question have a total weight of 100 and the total weight of the three questions is 300. The rule is to assign weights to each of the factors based on their relative importance in a way that total weight remains 100. This way has been reported to be one of easiest and quickest prioritization methods.
 
 | Questions | Factors | Weight of factors|Sub classification|Sub classifications Weightings| Normalized Weightings| 
 | :--------: | :--------: | :--------: | :--------: | :---------: |:---------: |:---------: |:---------: |
@@ -160,6 +158,12 @@ Step 1 Specify
 ||Architecture stability|25|||15|
 ||Customazation flexibility|12|||12|
 ||Martket pull|18|||18|
+
+Step 3 Compare Requirements.
+
+The first three steps of MERTS should be performed at product management level supporting the triage of requirements (aiding in the selection). According to the applying process of RAM, there are three requirements belong to Product Level, which are reception management, Back office management, Systmen management. 
+
+The following table exemplifies how the requirements are assigned points (max 100) against each factor and sub-classification based on how much the particular requirement contributes to the factor or sub-classification.
 
 For the three requirements that belong to Product Level:
 
@@ -184,13 +188,17 @@ For the three requirements that belong to Product Level:
 |Martket pull|18|Weightings=10; Normalized Weightings=1.8|Weightings=0; Normalized Weightings=0|Weightings=0; Normalized Weightings=0|
 |Total|300|Weightings=590; Normalized Weightings=121.75|Weightings=430; Normalized Weightings=79.5|Weightings=525  Normalized Weightings=106.3|
 
+Then, the development team could select requirements for release based on the early priority of the product level requirements.
+
 ##Lessons Learned:
 
 1. When the original requirements are proposed, they are usually belong to Product Level or Feature Level, which means that almost of them could be brokendown. Although some requirements are belong to Function Level, they can still be broken down. What's more, the proposed original requirements could be the sub-requirements of other original requirements. 
 
-2. The break down process of RAM model is complicated so that the workload is huge, especially for large scale requirement engineering. I think that it is better to develop a system or a software step by step, not in large scale for individual. For big company, it is also better to split a large-scale project into small-scale project.
+2. The break down process of RAM model is complicated so that the workload is huge, especially for large scale requirement engineering.  One requirement that that belongs to product level could be break down at least 8 requirements. Usually, one requirement could be broken down into tens of sub requirements. I think that it is better to develop a system or a software step by step. In other word, it is also better to split a large-scale project into small-scale project, not only for individual development studio, but also for big company.
 
-3. When I applying the MERTS, I also realized that the 'large scale' means huge workload. The MERTS require to identify kinds of weights for each requirement, 
+3. When I applying the MERTS, I also realized that the 'large scale' means huge workload. The MERTS require to identify kinds of weights for each requirement, which need import experts. The engineering work is quite different with programming, which really depends on the expeirence of team members.
+
+4. The calculate
 
 ##Reflections:
 1.When I have an idea, I take too much time to make it excutable. I think it is because I still do not master these two techniques, I am not familiar with them and not fully grasp these technologies.
