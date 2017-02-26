@@ -155,7 +155,11 @@ Step 1 Specify
 ||Differential advantage|20|New Functions|60|12|
 ||||Princing|20|4|
 ||||Non functional requirements|20|4|
-
+|What|New Technology|35|||35|
+||Use of core assets|10|||10|
+||Architecture stability|25|||15|
+||Customazation flexibility|12|||12|
+||Martket pull|18|||18|
 
 ##Lessons Learned:
 
