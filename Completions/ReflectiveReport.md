@@ -165,24 +165,24 @@ For the three requirements that belong to Product Level:
 
 |Items|Normalized Weightings|Reception management|Back office management|Systmen management|
 | :--------: | :--------: | :--------: | :--------: | :---------: |
-|Market growth|50|Weightings=50; Normalized Weightings=25|Weightings=40; Normalized Weightings=20|Weightings=45  Normalized Weightings=22.5|
-|Market share|25|Weightings=70; Normalized Weightings=17.5|Weightings=40; Normalized Weightings=10|Weightings=45  Normalized Weightings=24.5|
-|Profit|25|Weightings=50; Normalized Weightings=25|Weightings=30; Normalized Weightings=7.5|Weightings=45  Normalized Weightings=24.5|
-|USA market|15|Weightings=30; Normalized Weightings=4.5|Weightings=30; Normalized Weightings=4.5|Weightings=45  Normalized Weightings=24.5|
-|Eu market|15|Weightings=30; Normalized Weightings=4.5|Weightings=30; Normalized Weightings=4.5|Weightings=45  Normalized Weightings=24.5|
-|Asia market|20|Weightings=40; Normalized Weightings=8|Weightings=40; Normalized Weightings=8|Weightings=45  Normalized Weightings=24.5|
-|Company A|15|Weightings=70; Normalized Weightings=10.5|Weightings=60; Normalized Weightings=9|Weightings=45  Normalized Weightings=24.5|
-|Company B|9|Weightings=15; Normalized Weightings=1.35|Weightings=30; Normalized Weightings=2.7|Weightings=45  Normalized Weightings=24.5|
-|Others|6|Weightings=15; Normalized Weightings=0.9|Weightings=10; Normalized Weightings=0.6|Weightings=45  Normalized Weightings=24.5|
-|New Functions|12|Weightings=50; Normalized Weightings=6|Weightings=0; Normalized Weightings=0|Weightings=45  Normalized Weightings=24.5|
-|Princing|4|Weightings=50; Normalized Weightings=2|Weightings=30; Normalized Weightings=1.2|Weightings=45  Normalized Weightings=24.5|
-|Non functional requirements|4|Weightings=0; Normalized Weightings=0|Weightings=50; Normalized Weightings=2|Weightings=45  Normalized Weightings=24.5|
-|New Technology|35|Weightings=30; Normalized Weightings=10.5|Weightings=20; Normalized Weightings=7|Weightings=45  Normalized Weightings=24.5|
-|Use of core assets|10|Weightings=0; Normalized Weightings=0|Weightings=10; Normalized Weightings=1|Weightings=45  Normalized Weightings=24.5|
-|Architecture stability|15|Weightings=20; Normalized Weightings=3|Weightings=10; Normalized Weightings=1.5|Weightings=45  Normalized Weightings=24.5|
-|Customazation flexibility|12|Weightings=10; Normalized Weightings=1.2|Weightings=0; Normalized Weightings=0|Weight=45  Normalized Weightings=24.5|
-|Martket pull|18|Weightings=10; Normalized Weightings=1.8|Weightings=0; Normalized Weightings=0|Weightings=45  Normalized Weightings=24.5|
-|Total|300|Weightings=590; Normalized Weightings=121.75|Weightings=430; Normalized Weightings=79.5|Weightings=45  Normalized Weightings=24.5|
+|Market growth|50|Weightings=50; Normalized Weightings=25|Weightings=40; Normalized Weightings=20|Weightings=45; Normalized Weightings=22.5|
+|Market share|25|Weightings=70; Normalized Weightings=17.5|Weightings=40; Normalized Weightings=10|Weightings=50; Normalized Weightings=12.5|
+|Profit|25|Weightings=50; Normalized Weightings=25|Weightings=30; Normalized Weightings=7.5|Weightings=60; Normalized Weightings=15|
+|USA market|15|Weightings=30; Normalized Weightings=4.5|Weightings=30; Normalized Weightings=4.5|Weightings=30; Normalized Weightings=4.5|
+|Eu market|15|Weightings=30; Normalized Weightings=4.5|Weightings=30; Normalized Weightings=4.5|Weightings=30; Normalized Weightings=4.5|
+|Asia market|20|Weightings=40; Normalized Weightings=8|Weightings=40; Normalized Weightings=8|Weightings=40; Normalized Weightings=8|
+|Company A|15|Weightings=70; Normalized Weightings=10.5|Weightings=60; Normalized Weightings=9|Weightings=65; Normalized Weightings=9.75|
+|Company B|9|Weightings=15; Normalized Weightings=1.35|Weightings=30; Normalized Weightings=2.7|Weightings=30; Normalized Weightings=2.7|
+|Others|6|Weightings=15; Normalized Weightings=0.9|Weightings=10; Normalized Weightings=0.6|Weightings=5; Normalized Weightings=0.3|
+|New Functions|12|Weightings=50; Normalized Weightings=6|Weightings=0; Normalized Weightings=0|Weightings=45; Normalized Weightings=5.4|
+|Princing|4|Weightings=50; Normalized Weightings=2|Weightings=30; Normalized Weightings=1.2|Weightings=25; Normalized Weightings=1|
+|Non functional requirements|4|Weightings=0; Normalized Weightings=0|Weightings=50; Normalized Weightings=2|Weightings=30; Normalized Weightings=1.2|
+|New Technology|35|Weightings=30; Normalized Weightings=10.5|Weightings=20; Normalized Weightings=7|Weightings=40; Normalized Weightings=14|
+|Use of core assets|10|Weightings=0; Normalized Weightings=0|Weightings=10; Normalized Weightings=1|Weightings=15; Normalized Weightings=1.5|
+|Architecture stability|15|Weightings=20; Normalized Weightings=3|Weightings=10; Normalized Weightings=1.5|Weightings=15; Normalized Weightings=2.25|
+|Customazation flexibility|12|Weightings=10; Normalized Weightings=1.2|Weightings=0; Normalized Weightings=0|Weight=10; Normalized Weightings=1.2|
+|Martket pull|18|Weightings=10; Normalized Weightings=1.8|Weightings=0; Normalized Weightings=0|Weightings=0; Normalized Weightings=0|
+|Total|300|Weightings=590; Normalized Weightings=121.75|Weightings=430; Normalized Weightings=79.5|Weightings=525  Normalized Weightings=106.3|
 
 ##Lessons Learned:
 
