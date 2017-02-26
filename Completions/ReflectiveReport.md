@@ -141,14 +141,22 @@ The answers from Step 1 are assigned weights. The answers of each question have 
 
 Step 1 Specify
 
-| Questions | Factors | Weight of factors|Sub classification|Sub classifications Weightings|Requirement(Interface to external payment system )|Requirement| Normalized| 
+| Questions | Factors | Weight of factors|Sub classification|Sub classifications Weightings| Normalized Weightings| 
 | :--------: | :--------: | :--------: | :--------: | :---------: |:---------: |:---------: |:---------: |
-|where|Market growth|50|80|40|
-||Market share|25|80|20|
-||Profit|25|50|12.5|
-|how|Customer segments|50|80|40|
-||Competitors|25|80|20|
-||Differential advantage|25|50|12.5|
+|Where|Market growth|50|||50|
+||Market share|25|||25|
+||Profit|25|||25|
+|How|Customer segments|50|USA market|30|
+||||EU market|30|
+||||Asia market|40|
+||Competitors|30|Company A|50|
+||||Company B|30|
+||||Others|20|
+||Differential advantage||Asian market|40|
+||||New Functions|60|
+||||Princing|20|
+||||Non functional requirements|20|
+
 
 ##Lessons Learned:
 
