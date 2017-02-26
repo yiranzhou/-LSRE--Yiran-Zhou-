@@ -90,7 +90,7 @@ Step 2 Place
 
 The second step (Place) is centered around what abstraction level the now specified requirements resides on and last (Abstraction) each requirement goes through a work-up.  At second step, RAM consists of a number of abstraction levels (the driving motor of the model). This step involves analyzing what level a requirement is on and placing it on this level. The four abstraction levels are Product level(goal),Feature level(features), Function level(functions/actions) and Component level(details- consists of)
 According to Step 1, these requirements are placed in following abstract level.
-![step 2](https://lh3.googleusercontent.com/-YfzJiQ-zXaE/WK84CWjnMSI/AAAAAAAAAJE/F56KlkVsejcjZ9DpuNoDFKWXcAKy2P9PgCL0B/w530-d-h150-p-rw/Step%2B2.png)
+![step 2](https://docs.google.com/drawings/d/1fUCLekKpVTpLxKQ8X0vBc1RUP3fhyzhqUZEqgkAqAL8/pub?w=960&h=720)
 
 Step 3 Break Down Requirements
 
