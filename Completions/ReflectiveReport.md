@@ -62,7 +62,7 @@ According to the case of first technique, there is one requirement named payment
 
 ##Proof of Concept:
 
-In this section, I proposed a hotel management system, which include all most basic function for managing a hotel. Fisrtly, I use RAM model to break down these original requirements. Then I use MERTS to prioritize these requirements. It should be noted that due to the limitation of my ability, the original requirements are not so 'large scale', but the final requirements are 'large scale'. What's moere, I can use the existing process of breaking requirements to speculate the process of applying these methods in large scale requirement engineering. The fact is that the amount of requirements is almost geometrically growing when applying the RAM model to the original requirements. Also, I did not use all broken down requirements to apply the MERTS. The reason is that the limitation of my ability, since it is very hard to identify correct and exact weights of many attributes of each requirements based on the questions from MERTS. 
+In this section, I proposed a hotel management system, which include all most basic function for managing a hotel. Fisrtly, I use RAM model to break down these original requirements. Then I use MERTS to prioritize these requirements. It should be noted that due to the limitation of my ability, the original requirements are not so 'large scale', but the final requirements are 'large scale'. What's moere, I can use the existing process of breaking requirements to speculate the process of applying these methods in large scale requirement engineering. The fact is that the amount of requirements is almost geometrically growing when applying the RAM model to the original requirements. 
 
 ####1.Technique from Requirements Abstraction Model to break down requirements.
 
@@ -134,6 +134,8 @@ The explanation of the three questions in Step 1 as follows:
 2. “how will we get there”-The choice of customer targets depends on the nature of the goals and objectives selected when answering “where an organization wants to go”.
 
 3. “what to do”-For determining a product’s position in the market it has to be differentiated based on either cost price or value of product offering. This means that the product has to be either low priced backed by low costs or better than competitors’products as seen by customer.
+
+The first three steps of MERTS should be performed at product management level supporting the triage of requirements (aiding in the selection). According to the applying process of RAM, the 
 
 Step 1 Specify
 
