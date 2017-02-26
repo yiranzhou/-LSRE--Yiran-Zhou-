@@ -137,6 +137,8 @@ The explanation of the three questions in Step 1 as follows:
 
 The first three steps of MERTS should be performed at product management level supporting the triage of requirements (aiding in the selection). According to the applying process of RAM, there are three requirements belong to Product Level, which are reception management, Back office management, Systmen management. 
 
+The answers from Step 1 are assigned weights. The answers of each question have a total weight of 100.and the total weight of the three questions is 300. The rule is to assign weights to each of the factors based on their relative importance in a way that total weight remains 100. This way has been reported to be one of easiest and quickest prioritization methods.
+
 Step 1 Specify
 
 | Questions | Factors | Weight of factors|Sub classification|Sub classifications Weightings|Requirement(Interface to external payment system )|Requirement| Normalized| 
