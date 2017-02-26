@@ -162,6 +162,7 @@ Step 1 Specify
 ||Martket pull|18|||18|
 
 For the three requirements that belong to Product Level:
+
 |Items|Normalized Weightings|reception management|Back office management|Systmen management|
 | :--------: | :--------: | :--------: | :--------: | :---------: |
 |Market growth|50|Weight=50 Normalized weight=25|Weight=30 Normalized weight=15|Weight=45 Normalized weight=24.5|
