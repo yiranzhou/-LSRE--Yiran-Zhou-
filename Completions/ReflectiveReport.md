@@ -150,11 +150,11 @@ Step 1 Specify
 ||||EU market|30|15|
 ||||Asia market|40|20|
 ||Competitors|30|Company A|50|15|
-||||Company B|30|15|
-||||Others|20|10|
-||Differential advantage|25|New Functions|60|15|
-||||Princing|20|5|
-||||Non functional requirements|20|5|
+||||Company B|30|9|
+||||Others|20|6|
+||Differential advantage|20|New Functions|60|12|
+||||Princing|20|4|
+||||Non functional requirements|20|4|
 
 
 ##Lessons Learned:
