@@ -118,13 +118,12 @@ The third step of RAM involves abstracting and/or breakdown of a requirement, de
 |Check-out in hotel|The system should be able to deal with the check-out in reception.|WHY:The user want to the customers can check-out in the hotel reception by the system. BENEFIT:The customers can check-out in the hotel reception by the system.|Only reception staff could use this function|
 |Self-check-out|The system should be able to deal with the self-check-out.|WHY:The user want to the customers can self-check-out by the system. BENEFIT:The customers can check-out by themselves by the system.|This function do not need authority of the main system. It connect to a external machine that customer could use to check out.|
 
-##Merts
-According to the literature study an initial draft of MERTS was created and elicited information from industry The input 
-from the previous literature study and industry interviews was subsequently used for the creation of a final version of MERTS. Initial 
-industry validation is presented and a discussion of lessons learned highlighting initial feedback is presented. 
+## 2.Technique from MERTS for prioritizing requirements
+
+According to the literature study an initial draft of MERTS was created and elicited information from industry The input from the previous literature study and industry interviews was subsequently used for the creation of a final version of MERTS. Initial  industry validation is presented and a discussion of lessons learned highlighting initial feedback is presented. 
 
 - Step 1.Specify. Answer the three strategic questions ((1)Where we want to go?, (2) How to get there?, (3) What will be done?) for each product.
-- Step 2.Assign Weights. The answers from Step 1 are assigned weights. The answers of each question have a total weight of 100 (Table 1) and the total weight of the three questions is 300.
+- Step 2.Assign Weights. The answers from Step 1 are assigned weights. The answers of each question have a total weight of 100 and the total weight of the three questions is 300.
 - Step 3.Compare Requirements. There is an instance that shows the weights of same requirement are different in different market.
 
 The explanation of the three questions in Step 1 as follows:
@@ -192,16 +191,14 @@ Then, the development team could select requirements for release based on the ea
 
 ##Lessons Learned:
 
-1. When the original requirements are proposed, they are usually belong to Product Level or Feature Level, which means that almost of them could be brokendown. Although some requirements are belong to Function Level, they can still be broken down. What's more, the proposed original requirements could be the sub-requirements of other original requirements. 
+1. When the original requirements are proposed, they are usually belong to Product Level and Feature Level, which means that almost of them could be brokendown. Although some requirements are belong to Function Level, they can still be broken down. What's more, the proposed original requirements could be the sub-requirements of other original requirements. 
 
 2. The break down process of RAM model is complicated so that the workload is huge, especially for large scale requirement engineering.  One requirement that that belongs to product level could be break down at least 8 requirements. Usually, one requirement could be broken down into tens of sub requirements. I think that it is better to develop a system or a software step by step. In other word, it is also better to split a large-scale project into small-scale project, not only for individual development studio, but also for big company.
 
-3. When I applying the MERTS, I also realized that the 'large scale' means huge workload. The MERTS require to identify kinds of weights for each requirement, which need import experts. The engineering work is quite different with programming, which really depends on the expeirence of team members.
-
-4. The calculate
+3. When I applying the MERTS, I also realized that the 'large scale' means huge workload. The MERTS require to identify kinds of weights for each requirement, which need import experts. The engineering work is quite different with programming, since the identifing weightings of requirements really depends on the expeirence of team members. 
 
 ##Reflections:
-1.When I have an idea, I take too much time to make it excutable. I think it is because I still do not master these two techniques, I am not familiar with them and not fully grasp these technologies.
 
+1. The lecture discussed many other methods and theory that related to large scale/market-driven requirement engineering. We have discussed the RAM model, 
 2.The reason why I only presents four attributes of requirements in this report is that the proportion of these four attributes is
  much higher than other attributes. But maybe I can search a method to points them and check whether the rest attributes make sense.
