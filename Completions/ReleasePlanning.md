@@ -57,10 +57,7 @@ There is no clear definition of the relative importance of stakeholders. The aut
 - λ(development team)= 5
 - λ(user)= 9
 
-For each stakeholder, they need to identify the value of each feature and the urgency to each version. The complete tables and calculated results are present in google form. According to the equation (2) and (3), the results of these are present in https://drive.google.com/file/d/0B-ZzbIX8Zcznc3p2OEtLb2FuejA/view?usp=sharing.
-
-For example,feature 1=0.1 * (5 * 8 * 9 + 5 * 9 * 9 + 9 * 6 * 7)=342.9
-
+For each stakeholder, they need to identify the value of each feature and the urgency to each version.
 
 | - | Stakeholder S(1 auquire) | Stakeholder S(2 development) | Stakeholder S(3 user) |
 | :-------------: | :-------------: | :-------------: |:-------------: |
@@ -86,6 +83,11 @@ For example,feature 1=0.1 * (5 * 8 * 9 + 5 * 9 * 9 + 9 * 6 * 7)=342.9
 |Feature(20)| value(1,20)=7; urgency(6,3,0,0,0,0)|value(2,20)=9; urgency(3,3,3,0,0,0)| value(3,20)=9; urgency(9,0,0,0,0,0)|
 |...| ...|...| ...|
 |Feature(104)| value(1,120)=5; urgency(3,6,0,0,0,0)|value(2,104)=6; urgency(0,4,5,0,0,0)| value(3,104)=3; urgency(1,4,4,0,0,0)|
+
+The complete tables and calculated results are present in google form. According to the equation (2) and (3), the results of these are present in https://drive.google.com/file/d/0B-ZzbIX8Zcznc3p2OEtLb2FuejA/view?usp=sharing.
+
+For example,feature 1=0.1 * (5 * 8 * 9 + 5 * 9 * 9 + 9 * 6 * 7)=342.9
+
 
 ## Experiences from using the selected release planning method, and using GitHub's issue tracker for working with requirements and release planning
 
