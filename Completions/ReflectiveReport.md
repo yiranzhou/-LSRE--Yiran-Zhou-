@@ -158,7 +158,7 @@ For the three requirements that belong to Product Level:
 |Martket pull|18|Weightings=10; Normalized Weightings=1.8|Weightings=0; Normalized Weightings=0|Weightings=0; Normalized Weightings=0|
 |Total|300|Weightings=590; Normalized Weightings=121.75|Weightings=430; Normalized Weightings=79.5|Weightings=525  Normalized Weightings=106.3|
 
-Then, the development team could select requirements for release based on the early priority of the product level requirements.
+Then, the development team could select requirements for releasing based on the early priority of the product level requirements.
 
 ##Lessons Learned:
 
